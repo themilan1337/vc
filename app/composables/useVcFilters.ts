@@ -42,7 +42,7 @@ export function useVcFilters(vcs: Vc[]) {
   function surprise() {
     const list = filtered.value
     if (!list.length) return
-    highlighted.value = list[Math.floor(Math.random() * list.length)].name
+    highlighted.value = list[Math.floor(Math.random() * list.length)]!.name
     trigger('success')
   }
 

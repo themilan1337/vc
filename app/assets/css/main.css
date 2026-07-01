@@ -1,0 +1,16 @@
+/* app/assets/css/main.css */
+@import "tailwindcss";
+
+@theme {
+  --color-background: #ffffff;
+  --color-foreground: #0a0a0a;
+  --color-muted: #f6f6f7;
+  --color-muted2: #eeeef0;
+  --color-muted3: #d6d6da;
+  --color-primary: #0a0a0a;
+}
+
+html, body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+}

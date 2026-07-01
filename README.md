@@ -4,6 +4,10 @@
 
 See [`docs/vc-directory.md`](docs/vc-directory.md) — 244 venture capital firms, accelerators, and funds with their official websites (resolved via web search + homepage verification). Validate with `node scripts/validate-vc-directory.mjs`.
 
+## VC Finder
+
+Single-page finder over the 244-firm directory: `pnpm dev` → `http://localhost:3000`. Data: `app/data/vcs.json` (validate with `node scripts/validate-vcs.mjs`). Filter logic is unit-tested: `pnpm test`.
+
 ## Nuxt
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.

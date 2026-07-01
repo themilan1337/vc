@@ -20,6 +20,7 @@ function toggle(opt: T) {
       v-for="opt in options"
       :key="opt"
       type="button"
+      :aria-pressed="modelValue.includes(opt)"
       :class="['rounded-full border px-2.5 py-1 text-xs transition-colors',
                modelValue.includes(opt)
                  ? 'border-foreground bg-foreground text-background'

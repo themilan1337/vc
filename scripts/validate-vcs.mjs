@@ -36,6 +36,7 @@ for (const d of data) {
   if (!Array.isArray(d.sector) || !d.sector.length || d.sector.some((s) => !ok(s, SECTORS)))
     errors.push(`${d.name}: bad sector ${JSON.stringify(d.sector)}`)
   if (typeof d.website !== 'string') errors.push(`${d.name}: website not a string`)
+  else if (d.website !== '' && !/^https?:\/\//.test(d.website)) errors.push(`${d.name}: website not http(s) "${d.website}"`)
 }
 for (const e of errors) console.log('❌', e)
 console.log(`\n${data.length} rows · ${errors.length} errors`)

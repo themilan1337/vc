@@ -12,8 +12,12 @@ const dot: Record<Vc['status'], string> = {
   none: 'bg-foreground/20',
 }
 async function copy() {
-  if (!props.vc.website) return
-  await navigator.clipboard.writeText(props.vc.website)
+  if (!props.vc.website || !navigator.clipboard) return
+  try {
+    await navigator.clipboard.writeText(props.vc.website)
+  } catch {
+    return
+  }
   copied.value = true
   trigger('success')
   setTimeout(() => (copied.value = false), 1200)

@@ -12,7 +12,7 @@ A single-page, centered "VC Finder": search and filter the 244-firm venture dire
 - **Filter data:** enrich first — tag all 244 VCs with structured facets, then filter on them.
 - **Facets:** Stage, Sector, Region, Type (+ Status, already known).
 - **Theme:** light only (single token set, no toggle).
-- **Extras:** open + copy per row · live count + empty state · "surprise me" random pick · shareable filter URL.
+- **Extras:** open + copy per row · live count + empty state · "surprise me" random pick · shareable filter URL · haptic feedback on touch (`web-haptics`).
 
 ## Architecture — two phases
 
@@ -54,11 +54,14 @@ We already have `name / website / status` for all 244 (from the directory resear
 
 **Page** (`app/pages/index.vue`, one centered column): `GradientLabel` + cycling `LoopText` → `SmoothInput` → five `FilterChips` rows (Status · Type · Stage · Sector · Region) → live "N / 244" + "surprise me" + "reset" → `FadeScrollArea` of `VcRow`s → on-brand empty state. Search + filters mirror into the URL query (`?q=&stage=&sector=…`) so any view is linkable.
 
-**Tested core:** `app/lib/filterVcs.ts` — a pure `filterVcs(vcs, criteria)` function, unit-tested with **Vitest** (the only new dev-dep; plain TS, no Nuxt runtime). `app/composables/useVcFilters.ts` holds criteria + URL sync + the filtered `computed` + `surprise()`; verified via the page.
+**Tested core:** `app/lib/filterVcs.ts` — a pure `filterVcs(vcs, criteria)` function, unit-tested with **Vitest** (plain TS, no Nuxt runtime). `app/composables/useVcFilters.ts` holds criteria + URL sync + the filtered `computed` + `surprise()`; verified via the page.
+
+**Haptics:** `app/composables/useHaptics.ts` wraps `web-haptics` as an SSR-safe, lazily-created singleton — no-ops on the server and on devices without the Vibration API (desktop). Touchpoints: filter-chip toggle (`nudge`), copy (`success`), "surprise me" (`success`).
 
 ## New dependencies
 - `motion-v` — already installed ✅
 - `vitest` — new dev-dep (for `filterVcs` tests)
+- `web-haptics` — new runtime dep (mobile-web haptic feedback)
 - Nothing else.
 
 ## Out of scope (YAGNI)

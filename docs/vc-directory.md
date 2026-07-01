@@ -110,7 +110,7 @@
 | 92 | Fresco Capital | https://fresco.vc/ | ✅ |
 | 93 | FUSE | https://fuse.vc/ | ✅ |
 | 94 | G20 Ventures | https://www.g20vc.com/ | ✅ |
-| 95 | Garaza | — | ❌ |
+| 95 | Garaza | https://garaza.org/en | ✅ |
 | 96 | Garuda Ventures | https://www.garuda.vc/ | ✅ |
 | 97 | Geek Ventures | https://geek.vc/ | ✅ |
 | 98 | GFR Fund | https://gfrfund.com/ | ✅ |
@@ -148,7 +148,7 @@
 | 130 | Laude Ventures | https://laude.vc/ | ✅ |
 | 131 | Lemnos | https://lemnos.vc/ | ✅ |
 | 132 | Lerer Hippeau | https://www.lererhippeau.com/ | ✅ |
-| 133 | LexFusion | https://www.lexfusion.com/ | ⚠️ |
+| 133 | LexFusion | https://www.lexfusion.com/ | ✅ |
 | 134 | Linked Ventures | https://www.linkventures.com/ | ✅ |
 | 135 | Looking Glass Capital | https://lookingglass.vc/ | ✅ |
 | 136 | Lowercarbon Capital | https://lowercarbon.com/ | ✅ |
@@ -156,13 +156,13 @@
 | 138 | Maccabee Ventures | https://www.maccabee.vc/ | ✅ |
 | 139 | Madrona Ventures | https://www.madrona.com/ | ✅ |
 | 140 | Magma Partners | https://magmapartners.com/ | ✅ |
-| 141 | Mango Group | https://www.mangocapitalinc.com/ | ⚠️ |
+| 141 | Mango Group | https://www.mangocapitalinc.com/ | ✅ |
 | 142 | Mantis | https://www.mantisvc.com/ | ✅ |
 | 143 | Maven | https://www.mavenventures.com/ | ✅ |
 | 144 | Maveron | https://www.maveron.com/ | ✅ |
 | 145 | Mavin Ventures | https://mavin.vc/ | ✅ |
 | 146 | Mayfield | https://www.mayfield.com/ | ✅ |
-| 147 | Meet Ventures | https://www.meetventures.com | ⚠️ |
+| 147 | Meet Ventures | https://www.meetventures.com | ✅ |
 | 148 | Mendoza Ventures | https://mendoza-ventures.com/ | ✅ |
 | 149 | Mercuri Ventures | https://www.mercuri.vc/ | ✅ |
 | 150 | Moment Ventures | https://www.momentventures.com/ | ✅ |
@@ -176,7 +176,7 @@
 | 158 | NFDG | — | ❌ |
 | 159 | Nyca Partners | https://www.nyca.com/ | ✅ |
 | 160 | Ocean Azul Partners | https://oceanazulpartners.com/ | ✅ |
-| 161 | ODF | https://joinodf.com/ | ⚠️ |
+| 161 | ODF | https://joinodf.com/ | ✅ |
 | 162 | One Tree Hill Ventures | https://onetreehillventures.com/ | ✅ |
 | 163 | Overlook Ventures | https://www.overlook.vc/ | ✅ |
 | 164 | Overture Ventures | https://www.overture.vc/ | ✅ |
@@ -256,20 +256,7 @@
 | 238 | W Health Ventures | https://www.whealthventures.com/ | ✅ |
 | 239 | Whiteboard Capital | https://www.whiteboardcap.com/ | ✅ |
 | 240 | Worklife | https://www.worklife.vc/ | ✅ |
-| 241 | WTFund | https://allthingswtf.com/wtfund | ⚠️ |
+| 241 | WTFund | https://allthingswtf.com/wtfund | ✅ |
 | 242 | Y Combinator | https://www.ycombinator.com/ | ✅ |
 | 243 | YL Ventures | https://www.ylventures.com/ | ✅ |
 | 244 | Zinc | https://www.zinc.vc/ | ✅ |
-
-## Notes on flagged firms
-
-- **Baltic Ventures** ⚠️ — Best candidate found is Liverpool (UK Baltic Triangle) accelerator/syndicate; no confirmed VC fund specifically covering the Baltic states under this exact name (balticvc.com is a news blog, not a fund)
-- **Garaza** ❌ — garaza.org is a Serbian startup community/connector, not a VC fund - does not invest capital itself
-- **Inverted Capital** ⚠️ — Multiple similarly-named entities (Inverted Ventures, Inversion Capital, Inverted Capital Investments); invertedcap.com is the exact name match but WebFetch returned 403 so identity/content unconfirmed
-- **Lachy Groom** ❌ — Solo VC (LGF funds); no dedicated firm website found, only third-party tracker profiles (Crunchbase, PitchBook, CB Insights)
-- **LexFusion** ⚠️ — Site confirmed but LexFusion is a legal-industry growth advisory firm (part of Baretz+Brunelle), not a venture capital fund/investor
-- **Mango Group** ⚠️ — Closest match found is Mango Capital (enterprise software seed VC); no firm named exactly 'Mango Group' found
-- **Meet Ventures** ⚠️ — Primarily a growth consultancy/incubator (Singapore) with an investing arm 'Meet Capital'; not a pure VC fund
-- **NFDG** ❌ — nfdg.com no longer resolves (DNS failure); fund's talent/assets were absorbed by Meta in 2025, no live official site found
-- **ODF** ⚠️ — ODF (formerly On Deck Founder Fellowship) - early-stage founder fellowship, not a traditional VC fund itself; no clearer dedicated VC site found
-- **WTFund** ⚠️ — Nikhil Kamath's WTF-branded fund for young entrepreneurs; homepage fetch blocked (403) but search results confirm this is the fund's official page

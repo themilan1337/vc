@@ -10,7 +10,7 @@ const current = computed(() => props.items[key.value % props.items.length])
 
 <template>
   <span class="relative inline-flex h-[1.2em] items-center overflow-hidden align-bottom">
-    <AnimatePresence mode="popLayout">
+    <AnimatePresence mode="wait" :initial="false">
       <motion.span
         :key="key"
         :initial="{ opacity: 0, y: '100%' }"

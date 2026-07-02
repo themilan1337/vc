@@ -25,3 +25,6 @@ logs
 
 # SDD orchestration scratch
 .superpowers
+
+# Agent tooling state
+.commandcode

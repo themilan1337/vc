@@ -4,6 +4,9 @@ export default defineNuxtConfig({
   compatibilityDate: "2025-07-15",
   devtools: { enabled: true },
   css: ['./app/assets/css/main.css'],
+  fonts: {
+    defaults: { weights: [400, 500, 600] },
+  },
   vite: {
     plugins: [
       tailwindcss(),

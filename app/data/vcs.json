@@ -1,3773 +1,3781 @@
 [
-  {
-    "name": "12 Flags",
-    "website": "https://www.12flags.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "1517 Fund",
-    "website": "https://www.1517fund.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Deep Tech",
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "186 Ventures",
-    "website": "https://www.186ventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed"
-    ],
-    "sector": [
-      "Health/Bio",
-      "Climate"
-    ],
-    "region": "US",
-    "hq": "Boston, USA"
-  },
-  {
-    "name": "1982 Ventures",
-    "website": "https://www.1982.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed"
-    ],
-    "sector": [
-      "Fintech"
-    ],
-    "region": "Asia",
-    "hq": "Singapore"
-  },
-  {
-    "name": "1984 Ventures",
-    "website": "https://1984.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "2048 Ventures",
-    "website": "https://www.2048.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "500 Global",
-    "website": "https://500.co/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Global",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "645 Ventures",
-    "website": "https://645ventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "AI/ML"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "8VC",
-    "website": "https://8vc.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist",
-      "Deep Tech"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "8X Ventures",
-    "website": "https://www.8xventures.co/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "India",
-    "hq": "Mumbai, India"
-  },
-  {
-    "name": "a16z",
-    "website": "https://a16z.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Menlo Park, USA"
-  },
-  {
-    "name": "Accel",
-    "website": "https://www.accel.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Palo Alto, USA"
-  },
-  {
-    "name": "Acequia Capital",
-    "website": "https://www.acecap.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Act One Ventures",
-    "website": "https://www.actoneventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Consumer",
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Los Angeles, USA"
-  },
-  {
-    "name": "Afore Capital",
-    "website": "https://www.afore.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Air AI Residency",
-    "website": "https://air.collabfund.com/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed"
-    ],
-    "sector": [
-      "AI/ML"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Alchemist Accelerator",
-    "website": "https://www.alchemistaccelerator.com/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "AltaIR Capital",
-    "website": "https://altair.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "Zug, Switzerland"
-  },
-  {
-    "name": "Altos Ventures",
-    "website": "https://altos.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Menlo Park, USA"
-  },
-  {
-    "name": "Alumni Ventures",
-    "website": "https://www.av.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Manchester, USA"
-  },
-  {
-    "name": "ANRI",
-    "website": "https://anri.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Asia",
-    "hq": "Tokyo, Japan"
-  },
-  {
-    "name": "Anthos Capital",
-    "website": "https://anthoscapital.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Santa Monica, USA"
-  },
-  {
-    "name": "Antler",
-    "website": "https://www.antler.co/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Global",
-    "hq": "Singapore"
-  },
-  {
-    "name": "Array Ventures",
-    "website": "https://www.array.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "AI/ML",
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "ASIF Ventures",
-    "website": "https://asif.ventures/",
-    "status": "verified",
-    "type": "Community",
-    "stage": [
-      "Pre-seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "Amsterdam, Netherlands"
-  },
-  {
-    "name": "Astana Hub",
-    "website": "https://astanahub.com/en/",
-    "status": "verified",
-    "type": "Community",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Asia",
-    "hq": "Astana, Kazakhstan"
-  },
-  {
-    "name": "B5 Capital",
-    "website": "https://b5cap.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed"
-    ],
-    "sector": [
-      "AI/ML",
-      "Deep Tech"
-    ],
-    "region": "US",
-    "hq": "Silicon Valley, USA"
-  },
-  {
-    "name": "Bain Capital Ventures",
-    "website": "https://baincapitalventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Boston, USA"
-  },
-  {
-    "name": "Balderton Capital",
-    "website": "https://www.balderton.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "London, United Kingdom"
-  },
-  {
-    "name": "Baltic Ventures",
-    "website": "https://balticventures.uk/",
-    "status": "ambiguous",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "Liverpool, United Kingdom"
-  },
-  {
-    "name": "BAM Ventures",
-    "website": "https://www.bam.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Los Angeles, USA"
-  },
-  {
-    "name": "Base Ventures",
-    "website": "https://www.base.ventures/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Los Angeles, USA"
-  },
-  {
-    "name": "Basis Set",
-    "website": "https://www.basisset.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "AI/ML",
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Bee Partners",
-    "website": "https://beepartners.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Deep Tech",
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Behind Genius Ventures",
-    "website": "https://www.behindgeniusventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Bessemer Venture Partners",
-    "website": "https://www.bvp.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Betaworks",
-    "website": "https://www.betaworks.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "AI/ML",
-      "Consumer"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Better Tomorrow Ventures",
-    "website": "https://www.btv.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Fintech",
-      "Crypto/Web3"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Beyond Next Ventures",
-    "website": "https://beyondnextventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Health/Bio",
-      "Deep Tech"
-    ],
-    "region": "Asia",
-    "hq": "Tokyo, Japan"
-  },
-  {
-    "name": "BGV",
-    "website": "https://benhamouglobalventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "Deep Tech"
-    ],
-    "region": "US",
-    "hq": "Palo Alto, USA"
-  },
-  {
-    "name": "BHIVE Workspace",
-    "website": "https://bhiveworkspace.com/",
-    "status": "verified",
-    "type": "Community",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "India",
-    "hq": "Bangalore, India"
-  },
-  {
-    "name": "Bloomberg Beta",
-    "website": "https://www.bloombergbeta.com/",
-    "status": "verified",
-    "type": "Corporate",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "AI/ML",
-      "Enterprise/SaaS",
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Blume Ventures",
-    "website": "https://blume.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "India",
-    "hq": "Mumbai, India"
-  },
-  {
-    "name": "Bonfire Ventures",
-    "website": "https://www.bonfirevc.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "Los Angeles, USA"
-  },
-  {
-    "name": "Boost Capital Partners",
-    "website": "https://boostcp.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Los Angeles, USA"
-  },
-  {
-    "name": "Breakout Ventures",
-    "website": "https://breakout.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Deep Tech"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Brick & Mortar Ventures",
-    "website": "https://brickmortar.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Climate",
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "build3",
-    "website": "https://www.build3.org/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Crypto/Web3"
-    ],
-    "region": "Europe",
-    "hq": "Amsterdam, Netherlands"
-  },
-  {
-    "name": "Bullish",
-    "website": "https://www.bullish.com/us/capital",
-    "status": "verified",
-    "type": "Corporate",
-    "stage": [
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Crypto/Web3",
-      "Fintech"
-    ],
-    "region": "Asia",
-    "hq": "Hong Kong, Hong Kong"
-  },
-  {
-    "name": "C10 Labs",
-    "website": "https://www.c10labs.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Deep Tech",
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "Cambridge, USA"
-  },
-  {
-    "name": "Cardumen Capital",
-    "website": "https://www.cardumencapital.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Deep Tech",
-      "Generalist"
-    ],
-    "region": "Global",
-    "hq": "Madrid, Spain"
-  },
-  {
-    "name": "CFO Advisors",
-    "website": "https://cfoadvisors.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Salt Lake City, USA"
-  },
-  {
-    "name": "Coinbase",
-    "website": "https://www.coinbase.com/ventures",
-    "status": "verified",
-    "type": "Corporate",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Crypto/Web3"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Collide Capital",
-    "website": "https://collidecap.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Concept Ventures",
-    "website": "https://www.conceptventures.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "London, UK"
-  },
-  {
-    "name": "Congruent Ventures",
-    "website": "https://www.congruentvc.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Climate"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Correlation Ventures",
-    "website": "https://correlationvc.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Diego, USA"
-  },
-  {
-    "name": "Costanoa Ventures",
-    "website": "https://www.costanoa.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "AI/ML"
-    ],
-    "region": "US",
-    "hq": "Palo Alto, USA"
-  },
-  {
-    "name": "Cowboy Ventures",
-    "website": "https://www.cowboy.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Palo Alto, USA"
-  },
-  {
-    "name": "Craft Ventures",
-    "website": "https://www.craftventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "Fintech",
-      "Consumer"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Creative Destruction Lab",
-    "website": "https://creativedestructionlab.com/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Deep Tech",
-      "AI/ML",
-      "Generalist"
-    ],
-    "region": "Global",
-    "hq": "Toronto, Canada"
-  },
-  {
-    "name": "Crosslink Capital",
-    "website": "https://www.crosslinkcapital.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Davidovs VC",
-    "website": "https://dvc.ai/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "AI/ML"
-    ],
-    "region": "Global",
-    "hq": "Tel Aviv, Israel"
-  },
-  {
-    "name": "Defy VC",
-    "website": "https://defy.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Menlo Park, USA"
-  },
-  {
-    "name": "DeVC",
-    "website": "https://www.devc.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Crypto/Web3"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Dogpatch Labs",
-    "website": "https://dogpatchlabs.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "Dublin, Ireland"
-  },
-  {
-    "name": "E14 Fund",
-    "website": "https://www.e14.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Deep Tech",
-      "AI/ML"
-    ],
-    "region": "US",
-    "hq": "Cambridge, USA"
-  },
-  {
-    "name": "Electric Capital",
-    "website": "https://www.electriccapital.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Crypto/Web3"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Elevation Capital",
-    "website": "https://www.elevationcapital.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "India",
-    "hq": "Gurugram, India"
-  },
-  {
-    "name": "Emerge Ventures",
-    "website": "https://emerge.ventures/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Emergent Ventures",
-    "website": "https://www.mercatus.org/emergent-ventures",
-    "status": "verified",
-    "type": "Community",
-    "stage": [
-      "Pre-seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Arlington, USA"
-  },
-  {
-    "name": "Eniac Ventures",
-    "website": "https://www.eniac.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Entrepreneurs First",
-    "website": "https://www.joinef.com/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "London, UK"
-  },
-  {
-    "name": "Equal Ventures",
-    "website": "https://www.equal.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "Fintech"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Ethos Fund",
-    "website": "https://www.ethosfund.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Crypto/Web3"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Everywhere Ventures",
-    "website": "https://www.everywhere.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Expert Dojo",
-    "website": "https://expertdojo.com/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Santa Monica, USA"
-  },
-  {
-    "name": "f7 Ventures",
-    "website": "https://www.f7ventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Consumer",
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Los Angeles, USA"
-  },
-  {
-    "name": "Fernbrook Capital Management LLC",
-    "website": "https://www.fernbrookmgmt.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Fika Ventures",
-    "website": "https://www.fika.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "Consumer"
-    ],
-    "region": "US",
-    "hq": "Los Angeles, USA"
-  },
-  {
-    "name": "First Pick Ventures",
-    "website": "https://firstpick.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist",
-      "AI/ML"
-    ],
-    "region": "Europe",
-    "hq": "Vilnius, Lithuania"
-  },
-  {
-    "name": "First Round Capital",
-    "website": "https://firstround.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "FirstMark",
-    "website": "https://firstmark.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Flex Capital",
-    "website": "https://www.flexcapital.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "AI/ML",
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Floodgate",
-    "website": "https://www.floodgate.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Palo Alto, USA"
-  },
-  {
-    "name": "Flourish Ventures",
-    "website": "https://flourishventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Fintech"
-    ],
-    "region": "US",
-    "hq": "San Mateo, USA"
-  },
-  {
-    "name": "Flybridge",
-    "website": "https://www.flybridge.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Boston, USA"
-  },
-  {
-    "name": "Forum Ventures",
-    "website": "https://www.forumvc.com/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Foundation Capital",
-    "website": "https://foundationcapital.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Founder Collective",
-    "website": "https://foundercollective.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Cambridge, USA"
-  },
-  {
-    "name": "Founders, Inc.",
-    "website": "https://f.inc/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Fresco Capital",
-    "website": "https://fresco.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Asia",
-    "hq": "Hong Kong"
-  },
-  {
-    "name": "FUSE",
-    "website": "https://fuse.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "AI/ML",
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "Seattle, USA"
-  },
-  {
-    "name": "G20 Ventures",
-    "website": "https://www.g20vc.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A"
-    ],
-    "sector": [
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "Boston, USA"
-  },
-  {
-    "name": "Garaza",
-    "website": "https://garaza.org/en",
-    "status": "verified",
-    "type": "Community",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "Belgrade, Serbia"
-  },
-  {
-    "name": "Garuda Ventures",
-    "website": "https://www.garuda.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "Dev Tools",
-      "Climate"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Geek Ventures",
-    "website": "https://geek.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "GFR Fund",
-    "website": "https://gfrfund.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Gradient",
-    "website": "https://www.gradient.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "AI/ML"
-    ],
-    "region": "US",
-    "hq": "Mountain View, USA"
-  },
-  {
-    "name": "GreatPoint Ventures",
-    "website": "https://www.gpv.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Climate",
-      "Deep Tech"
-    ],
-    "region": "US",
-    "hq": "Boston, USA"
-  },
-  {
-    "name": "Green Egg Ventures",
-    "website": "https://greenegg.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Greylock",
-    "website": "https://greylock.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "AI/ML",
-      "Consumer"
-    ],
-    "region": "US",
-    "hq": "Menlo Park, USA"
-  },
-  {
-    "name": "Grove Ventures",
-    "website": "https://www.grovevc.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Deep Tech",
-      "Enterprise/SaaS"
-    ],
-    "region": "Europe",
-    "hq": "Tel Aviv, Israel"
-  },
-  {
-    "name": "gumi Cryptos Capital",
-    "website": "https://gumi-cryptos.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Crypto/Web3"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Harlem Capital",
-    "website": "https://harlem.capital/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Headline",
-    "website": "https://headline.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Health Velocity Capital",
-    "website": "https://www.healthvelocitycapital.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Health/Bio"
-    ],
-    "region": "US",
-    "hq": "Menlo Park, USA"
-  },
-  {
-    "name": "Homebrew",
-    "website": "https://homebrew.co/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Hult Prize Foundation",
-    "website": "https://www.hultprize.org/",
-    "status": "verified",
-    "type": "Community",
-    "stage": [
-      "Pre-seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Global",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Icebreaker VC",
-    "website": "https://www.icebreaker.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "Helsinki, Finland"
-  },
-  {
-    "name": "Illuminate Ventures",
-    "website": "https://illuminate.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "AI/ML"
-    ],
-    "region": "US",
-    "hq": "Oakland, USA"
-  },
-  {
-    "name": "Impellent Ventures",
-    "website": "https://impellent.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Health/Bio",
-      "Deep Tech"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Industry Ventures",
-    "website": "https://www.industryventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Initialized Capital",
-    "website": "https://initialized.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Inverted Capital",
-    "website": "https://www.invertedcap.com/",
-    "status": "ambiguous",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "IronGate Capital Advisors",
-    "website": "https://www.irongatevc.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Crypto/Web3"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Iterative",
-    "website": "https://www.iterative.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "AI/ML",
-      "Generalist"
-    ],
-    "region": "Asia",
-    "hq": "Seoul, South Korea"
-  },
-  {
-    "name": "IVP",
-    "website": "https://www.ivp.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Menlo Park, USA"
-  },
-  {
-    "name": "J Ventures",
-    "website": "https://www.j-ventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Consumer",
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Los Angeles, USA"
-  },
-  {
-    "name": "JPMorgan",
-    "website": "https://am.jpmorgan.com/us/en/asset-management/institutional/investment-strategies/alternatives/private-equity-group/",
-    "status": "verified",
-    "type": "Corporate",
-    "stage": [
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Kalei Ventures",
-    "website": "https://www.kaleiventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "KDX Ventures",
-    "website": "https://kdx.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Crypto/Web3"
-    ],
-    "region": "Asia",
-    "hq": "Singapore"
-  },
-  {
-    "name": "Kibo Ventures",
-    "website": "https://www.kiboventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "Madrid, Spain"
-  },
-  {
-    "name": "Kindred Ventures",
-    "website": "https://kindredventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Kleiner Perkins",
-    "website": "https://www.kleinerperkins.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Menlo Park, USA"
-  },
-  {
-    "name": "Konvoy",
-    "website": "https://www.konvoy.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Gaming"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Kyber Knight Capital",
-    "website": "https://kyberknight.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Crypto/Web3"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Lachy Groom",
-    "website": "",
-    "status": "none",
-    "type": "Angel",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Fintech",
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Laconia",
-    "website": "https://www.laconiacapitalgroup.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Fintech"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Laude Ventures",
-    "website": "https://laude.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "AI/ML"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Lemnos",
-    "website": "https://lemnos.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Hardware",
-      "Deep Tech"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Lerer Hippeau",
-    "website": "https://www.lererhippeau.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Consumer",
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "LexFusion",
-    "website": "https://www.lexfusion.com/",
-    "status": "verified",
-    "type": "Community",
-    "stage": [
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Linked Ventures",
-    "website": "https://www.linkventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Looking Glass Capital",
-    "website": "https://lookingglass.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Health/Bio"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Lowercarbon Capital",
-    "website": "https://lowercarbon.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Climate"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Lytical Ventures",
-    "website": "https://www.lyticalventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Maccabee Ventures",
-    "website": "https://www.maccabee.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Madrona Ventures",
-    "website": "https://www.madrona.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "AI/ML"
-    ],
-    "region": "US",
-    "hq": "Seattle, USA"
-  },
-  {
-    "name": "Magma Partners",
-    "website": "https://magmapartners.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "LatAm",
-    "hq": "Santiago, Chile"
-  },
-  {
-    "name": "Mango Group",
-    "website": "https://www.mangocapitalinc.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Consumer"
-    ],
-    "region": "US",
-    "hq": "Menlo Park, USA"
-  },
-  {
-    "name": "Mantis",
-    "website": "https://www.mantisvc.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Consumer",
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Maven",
-    "website": "https://www.mavenventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Consumer"
-    ],
-    "region": "US",
-    "hq": "Palo Alto, USA"
-  },
-  {
-    "name": "Maveron",
-    "website": "https://www.maveron.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Consumer"
-    ],
-    "region": "US",
-    "hq": "Seattle, USA"
-  },
-  {
-    "name": "Mavin Ventures",
-    "website": "https://mavin.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Mayfield",
-    "website": "https://www.mayfield.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "AI/ML",
-      "Enterprise/SaaS",
-      "Consumer"
-    ],
-    "region": "US",
-    "hq": "Menlo Park, USA"
-  },
-  {
-    "name": "Meet Ventures",
-    "website": "https://www.meetventures.com",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "AI/ML",
-      "Consumer"
-    ],
-    "region": "Asia",
-    "hq": "Singapore, Singapore"
-  },
-  {
-    "name": "Mendoza Ventures",
-    "website": "https://mendoza-ventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Fintech",
-      "AI/ML"
-    ],
-    "region": "US",
-    "hq": "Boston, USA"
-  },
-  {
-    "name": "Mercuri Ventures",
-    "website": "https://www.mercuri.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Consumer",
-      "AI/ML",
-      "Enterprise/SaaS"
-    ],
-    "region": "Europe",
-    "hq": "London, United Kingdom"
-  },
-  {
-    "name": "Moment Ventures",
-    "website": "https://www.momentventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Consumer"
-    ],
-    "region": "US",
-    "hq": "Los Angeles, USA"
-  },
-  {
-    "name": "Montage Ventures",
-    "website": "https://www.montageventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Morado Ventures",
-    "website": "https://www.moradoventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Palo Alto, USA"
-  },
-  {
-    "name": "Morgan Stanley Inclusive & Sustainable Ventures",
-    "website": "https://www.morganstanley.com/about-us/inclusive-sustainable-ventures",
-    "status": "verified",
-    "type": "Corporate",
-    "stage": [
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Climate",
-      "Health/Bio",
-      "Fintech",
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Motivate",
-    "website": "https://motivate.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Fintech",
-      "AI/ML",
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "Chicago, USA"
-  },
-  {
-    "name": "Moxxie Ventures",
-    "website": "https://www.moxxie.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Consumer",
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Mystic Ventures",
-    "website": "https://www.mystic.ventures/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Health/Bio"
-    ],
-    "region": "US",
-    "hq": "Los Angeles, USA"
-  },
-  {
-    "name": "New Enterprise Associates (NEA)",
-    "website": "https://www.nea.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Menlo Park, USA"
-  },
-  {
-    "name": "NFDG",
-    "website": "",
-    "status": "none",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "AI/ML"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Nyca Partners",
-    "website": "https://www.nyca.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Fintech"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Ocean Azul Partners",
-    "website": "https://oceanazulpartners.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Deep Tech",
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "Coral Gables, USA"
-  },
-  {
-    "name": "ODF",
-    "website": "https://joinodf.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "One Tree Hill Ventures",
-    "website": "https://onetreehillventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "India",
-    "hq": "Mumbai, India"
-  },
-  {
-    "name": "Overlook Ventures",
-    "website": "https://www.overlook.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Overture Ventures",
-    "website": "https://www.overture.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Pale blue dot",
-    "website": "https://paleblue.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Climate"
-    ],
-    "region": "Europe",
-    "hq": "Malmo, Sweden"
-  },
-  {
-    "name": "Partech Partners",
-    "website": "https://partechpartners.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "Paris, France"
-  },
-  {
-    "name": "Pear VC",
-    "website": "https://pear.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Menlo Park, USA"
-  },
-  {
-    "name": "PeerCapital",
-    "website": "https://peercapital.in/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "India",
-    "hq": "Mumbai, India"
-  },
-  {
-    "name": "People Ventures",
-    "website": "https://www.people.ventures/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Fintech"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Pillar VC",
-    "website": "https://www.pillar.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Boston, USA"
-  },
-  {
-    "name": "Plug and Play",
-    "website": "https://www.plugandplaytechcenter.com/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Sunnyvale, USA"
-  },
-  {
-    "name": "Point72 Ventures",
-    "website": "https://p72.vc/",
-    "status": "verified",
-    "type": "Corporate",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Fintech",
-      "AI/ML",
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Post Urban Ventures",
-    "website": "https://www.posturban.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Global",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Precursor Ventures",
-    "website": "https://precursorvc.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "prehype",
-    "website": "https://prehype.com/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Prelude Ventures",
-    "website": "https://www.preludeventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Climate"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Primary Venture Partners",
-    "website": "https://www.primary.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Progression",
-    "website": "https://www.progression.fund/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Fintech",
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "London, UK"
-  },
-  {
-    "name": "Pruven Capital",
-    "website": "https://www.pruvencap.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "Fintech"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Quiet Capital",
-    "website": "https://quiet.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Rabbit VC",
-    "website": "https://rabbitvc.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Asia",
-    "hq": "Singapore"
-  },
-  {
-    "name": "Rackhouse",
-    "website": "https://www.rackhouse.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Climate"
-    ],
-    "region": "US",
-    "hq": "Denver, USA"
-  },
-  {
-    "name": "Raine Group",
-    "website": "https://raine.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Red Bike Capital",
-    "website": "https://redbikecapital.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Refashiond Ventures",
-    "website": "https://www.refashiond.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Consumer"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Restive Ventures",
-    "website": "https://www.restive.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Fintech"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Ridge Ventures",
-    "website": "https://ridge.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Ripple Ventures",
-    "website": "https://www.rippleventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Toronto, Canada"
-  },
-  {
-    "name": "Robin Capital",
-    "website": "https://robincap.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Fintech"
-    ],
-    "region": "Europe",
-    "hq": "Paris, France"
-  },
-  {
-    "name": "Root Ventures",
-    "website": "https://root.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Deep Tech",
-      "Hardware"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Samaipata",
-    "website": "https://www.samaipata.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Consumer"
-    ],
-    "region": "Europe",
-    "hq": "Madrid, Spain"
-  },
-  {
-    "name": "SBXi",
-    "website": "https://www.sbxi.com/",
-    "status": "verified",
-    "type": "Corporate",
-    "stage": [
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Asia",
-    "hq": "Tokyo, Japan"
-  },
-  {
-    "name": "SciFi VC",
-    "website": "https://scifi.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "AI/ML"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Script Capital",
-    "website": "https://script.capital/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "New York, USA"
-  },
-  {
-    "name": "Scrum VC",
-    "website": "https://scrum.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Seattle Foundations",
-    "website": "https://www.fndtns.org/",
-    "status": "verified",
-    "type": "Community",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Seattle, USA"
-  },
-  {
-    "name": "Seedcamp",
-    "website": "https://seedcamp.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "London, UK"
-  },
-  {
-    "name": "SemperVirens Venture Capital",
-    "website": "https://www.sempervirensvc.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Health/Bio",
-      "Fintech",
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Sequoia Capital",
-    "website": "https://www.sequoiacap.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A",
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Menlo Park, USA"
-  },
-  {
-    "name": "Silkroad Innovation Hub",
-    "website": "https://silkroadinnovationhub.com/",
-    "status": "verified",
-    "type": "Community",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Asia",
-    "hq": "Almaty, Kazakhstan"
-  },
-  {
-    "name": "Slauson & Co.",
-    "website": "https://www.slauson.co/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Los Angeles, USA"
-  },
-  {
-    "name": "SOSA",
-    "website": "https://www.sosa.co/",
-    "status": "verified",
-    "type": "Community",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "MENA",
-    "hq": "Tel Aviv, Israel"
-  },
-  {
-    "name": "South Loop Ventures",
-    "website": "https://www.southloop.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Chicago, USA"
-  },
-  {
-    "name": "South Park Commons",
-    "website": "https://www.southparkcommons.com/",
-    "status": "verified",
-    "type": "Community",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "SparkLabs Group",
-    "website": "https://www.sparklabsgroup.com/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Asia",
-    "hq": "Seoul, South Korea"
-  },
-  {
-    "name": "Speedinvest",
-    "website": "https://www.speedinvest.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "Vienna, Austria"
-  },
-  {
-    "name": "Starship Ventures",
-    "website": "https://www.starship.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Deep Tech",
-      "Hardware"
-    ],
-    "region": "Europe",
-    "hq": "Tallinn, Estonia"
-  },
-  {
-    "name": "Startup Wise Guys",
-    "website": "https://startupwiseguys.com/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "Tallinn, Estonia"
-  },
-  {
-    "name": "Sterling Road",
-    "website": "https://www.sterlingroad.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Strong Ventures",
-    "website": "https://strongvc.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Consumer",
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Los Angeles, USA"
-  },
-  {
-    "name": "Sun Icon VC",
-    "website": "https://sunicon.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Crypto/Web3",
-      "Generalist"
-    ],
-    "region": "Asia",
-    "hq": "Singapore"
-  },
-  {
-    "name": "Sure Valley Ventures",
-    "website": "https://www.svv.ai/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "AI/ML"
-    ],
-    "region": "Europe",
-    "hq": "Dublin, Ireland"
-  },
-  {
-    "name": "Susa Ventures",
-    "website": "https://susaventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "T-Hub",
-    "website": "https://www.t-hub.co/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "India",
-    "hq": "Hyderabad, India"
-  },
-  {
-    "name": "Techstart Ventures",
-    "website": "https://www.techstart.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "Belfast, United Kingdom"
-  },
-  {
-    "name": "TenOneTen Ventures",
-    "website": "https://www.tenoneten.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Los Angeles, USA"
-  },
-  {
-    "name": "The House Fund",
-    "website": "https://thehouse.fund/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Thin Air Labs",
-    "website": "https://www.thinairlabs.ca/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist",
-      "Deep Tech"
-    ],
-    "region": "US",
-    "hq": "Calgary, Canada"
-  },
-  {
-    "name": "Titan Capital",
-    "website": "https://www.titancapital.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "India",
-    "hq": "New Delhi, India"
-  },
-  {
-    "name": "Tola Capital",
-    "website": "https://tolacapital.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "AI/ML"
-    ],
-    "region": "US",
-    "hq": "Seattle, USA"
-  },
-  {
-    "name": "Triangle Tweener Fund",
-    "website": "https://www.tweenerfund.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Durham, USA"
-  },
-  {
-    "name": "Tribe Capital",
-    "website": "https://tribecap.co/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Generalist",
-      "Enterprise/SaaS"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Triple Point Ventures",
-    "website": "https://www.triplepoint.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Series B+",
-      "Growth"
-    ],
-    "sector": [
-      "Generalist",
-      "Deep Tech"
-    ],
-    "region": "US",
-    "hq": "Menlo Park, USA"
-  },
-  {
-    "name": "True Ventures",
-    "website": "https://www.trueventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Ubiquity Ventures",
-    "website": "https://www.ubiquity.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "Deep Tech"
-    ],
-    "region": "US",
-    "hq": "Palo Alto, USA"
-  },
-  {
-    "name": "Unanimous Capital",
-    "website": "https://unanimous.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Crypto/Web3"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Uncork Capital",
-    "website": "https://uncorkcapital.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Uncorrelated Ventures",
-    "website": "https://uncorrelated.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Unshackled Ventures",
-    "website": "https://www.unshackledvc.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Unusual Ventures",
-    "website": "https://www.unusual.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Menlo Park, USA"
-  },
-  {
-    "name": "UpWest",
-    "website": "https://upwest.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "Palo Alto, USA"
-  },
-  {
-    "name": "Valia Ventures",
-    "website": "https://www.valia.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "Lisbon, Portugal"
-  },
-  {
-    "name": "Variant",
-    "website": "https://variant.fund/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Crypto/Web3"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Vertical Insure, Inc.",
-    "website": "https://verticalinsure.com/",
-    "status": "verified",
-    "type": "Corporate",
-    "stage": [
-      "Series A",
-      "Series B+"
-    ],
-    "sector": [
-      "Fintech"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Veteran Fund",
-    "website": "https://www.veteran.fund/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Village Global",
-    "website": "https://www.villageglobal.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Visionaries Club",
-    "website": "https://visionaries.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "Berlin, Germany"
-  },
-  {
-    "name": "W Health Ventures",
-    "website": "https://www.whealthventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Health/Bio"
-    ],
-    "region": "US",
-    "hq": "Boston, USA"
-  },
-  {
-    "name": "Whiteboard Capital",
-    "website": "https://www.whiteboardcap.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Worklife",
-    "website": "https://www.worklife.vc/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "Paris, France"
-  },
-  {
-    "name": "WTFund",
-    "website": "https://allthingswtf.com/wtfund",
-    "status": "verified",
-    "type": "Community",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Consumer"
-    ],
-    "region": "Europe",
-    "hq": "London, UK"
-  },
-  {
-    "name": "Y Combinator",
-    "website": "https://www.ycombinator.com/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "YL Ventures",
-    "website": "https://www.ylventures.com/",
-    "status": "verified",
-    "type": "Fund",
-    "stage": [
-      "Seed",
-      "Series A"
-    ],
-    "sector": [
-      "Enterprise/SaaS",
-      "AI/ML"
-    ],
-    "region": "US",
-    "hq": "San Francisco, USA"
-  },
-  {
-    "name": "Zinc",
-    "website": "https://www.zinc.vc/",
-    "status": "verified",
-    "type": "Accelerator",
-    "stage": [
-      "Pre-seed",
-      "Seed"
-    ],
-    "sector": [
-      "Generalist"
-    ],
-    "region": "Europe",
-    "hq": "London, UK"
+ {
+  "name": "12 Flags",
+  "website": "https://www.12flags.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "1517 Fund",
+  "website": "https://www.1517fund.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Deep Tech",
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "186 Ventures",
+  "website": "https://www.186ventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed"
+  ],
+  "sector": [
+   "Health/Bio",
+   "Climate"
+  ],
+  "region": "US",
+  "hq": "Boston, USA"
+ },
+ {
+  "name": "1982 Ventures",
+  "website": "https://www.1982.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed"
+  ],
+  "sector": [
+   "Fintech"
+  ],
+  "region": "Asia",
+  "hq": "Singapore"
+ },
+ {
+  "name": "1984 Ventures",
+  "website": "https://1984.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "2048 Ventures",
+  "website": "https://www.2048.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "500 Global",
+  "website": "https://500.co/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "645 Ventures",
+  "website": "https://645ventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "AI/ML"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "8VC",
+  "website": "https://8vc.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist",
+   "Deep Tech"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "8X Ventures",
+  "website": "https://www.8xventures.co/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "India",
+  "hq": "Mumbai, India"
+ },
+ {
+  "name": "a16z",
+  "website": "https://a16z.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "Accel",
+  "website": "https://www.accel.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Palo Alto, USA"
+ },
+ {
+  "name": "Acequia Capital",
+  "website": "https://www.acecap.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Act One Ventures",
+  "website": "https://www.actoneventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Consumer",
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Los Angeles, USA"
+ },
+ {
+  "name": "Afore Capital",
+  "website": "https://www.afore.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Air AI Residency",
+  "website": "https://air.collabfund.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "AI/ML"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Alchemist Accelerator",
+  "website": "https://www.alchemistaccelerator.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "AltaIR Capital",
+  "website": "https://altair.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Zug, Switzerland"
+ },
+ {
+  "name": "Altos Ventures",
+  "website": "https://altos.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "Alumni Ventures",
+  "website": "https://www.av.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Manchester, USA"
+ },
+ {
+  "name": "ANRI",
+  "website": "https://anri.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Asia",
+  "hq": "Tokyo, Japan"
+ },
+ {
+  "name": "Anthos Capital",
+  "website": "https://anthoscapital.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Santa Monica, USA"
+ },
+ {
+  "name": "Antler",
+  "website": "https://www.antler.co/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "Singapore"
+ },
+ {
+  "name": "Array Ventures",
+  "website": "https://www.array.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "AI/ML",
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "ASIF Ventures",
+  "website": "https://asif.ventures/",
+  "status": "verified",
+  "type": "Community",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Amsterdam, Netherlands"
+ },
+ {
+  "name": "Astana Hub",
+  "website": "https://astanahub.com/en/",
+  "status": "verified",
+  "type": "Community",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Asia",
+  "hq": "Astana, Kazakhstan"
+ },
+ {
+  "name": "B5 Capital",
+  "website": "https://b5cap.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed"
+  ],
+  "sector": [
+   "AI/ML",
+   "Deep Tech"
+  ],
+  "region": "US",
+  "hq": "Silicon Valley, USA"
+ },
+ {
+  "name": "Bain Capital Ventures",
+  "website": "https://baincapitalventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Boston, USA"
+ },
+ {
+  "name": "Balderton Capital",
+  "website": "https://www.balderton.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "London, United Kingdom"
+ },
+ {
+  "name": "Baltic Ventures",
+  "website": "https://balticventures.uk/",
+  "status": "ambiguous",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Liverpool, United Kingdom"
+ },
+ {
+  "name": "BAM Ventures",
+  "website": "https://www.bam.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Los Angeles, USA"
+ },
+ {
+  "name": "Base Ventures",
+  "website": "https://www.base.ventures/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Los Angeles, USA"
+ },
+ {
+  "name": "Basis Set",
+  "website": "https://www.basisset.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "AI/ML",
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Bee Partners",
+  "website": "https://beepartners.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Deep Tech",
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Behind Genius Ventures",
+  "website": "https://www.behindgeniusventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Bessemer Venture Partners",
+  "website": "https://www.bvp.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Betaworks",
+  "website": "https://www.betaworks.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "AI/ML",
+   "Consumer"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Better Tomorrow Ventures",
+  "website": "https://www.btv.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Fintech",
+   "Crypto/Web3"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Beyond Next Ventures",
+  "website": "https://beyondnextventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Health/Bio",
+   "Deep Tech"
+  ],
+  "region": "Asia",
+  "hq": "Tokyo, Japan"
+ },
+ {
+  "name": "BGV",
+  "website": "https://benhamouglobalventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "Deep Tech"
+  ],
+  "region": "US",
+  "hq": "Palo Alto, USA"
+ },
+ {
+  "name": "BHIVE Workspace",
+  "website": "https://bhiveworkspace.com/",
+  "status": "verified",
+  "type": "Community",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "India",
+  "hq": "Bangalore, India"
+ },
+ {
+  "name": "Bloomberg Beta",
+  "website": "https://www.bloombergbeta.com/",
+  "status": "verified",
+  "type": "Corporate",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "AI/ML",
+   "Enterprise/SaaS",
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Blume Ventures",
+  "website": "https://blume.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "India",
+  "hq": "Mumbai, India"
+ },
+ {
+  "name": "Bonfire Ventures",
+  "website": "https://www.bonfirevc.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "Los Angeles, USA"
+ },
+ {
+  "name": "Boost Capital Partners",
+  "website": "https://boostcp.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Los Angeles, USA"
+ },
+ {
+  "name": "Breakout Ventures",
+  "website": "https://breakout.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Deep Tech"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Brick & Mortar Ventures",
+  "website": "https://brickmortar.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Climate",
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "build3",
+  "website": "https://www.build3.org/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "Europe",
+  "hq": "Amsterdam, Netherlands"
+ },
+ {
+  "name": "Bullish",
+  "website": "https://www.bullish.com/us/capital",
+  "status": "verified",
+  "type": "Corporate",
+  "stage": [
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Crypto/Web3",
+   "Fintech"
+  ],
+  "region": "Asia",
+  "hq": "Hong Kong, Hong Kong"
+ },
+ {
+  "name": "C10 Labs",
+  "website": "https://www.c10labs.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Deep Tech",
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "Cambridge, USA"
+ },
+ {
+  "name": "Cardumen Capital",
+  "website": "https://www.cardumencapital.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Deep Tech",
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "Madrid, Spain"
+ },
+ {
+  "name": "CFO Advisors",
+  "website": "https://cfoadvisors.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Salt Lake City, USA"
+ },
+ {
+  "name": "Coinbase",
+  "website": "https://www.coinbase.com/ventures",
+  "status": "verified",
+  "type": "Corporate",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Collide Capital",
+  "website": "https://collidecap.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Concept Ventures",
+  "website": "https://www.conceptventures.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "London, UK"
+ },
+ {
+  "name": "Congruent Ventures",
+  "website": "https://www.congruentvc.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Climate"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Correlation Ventures",
+  "website": "https://correlationvc.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Diego, USA"
+ },
+ {
+  "name": "Costanoa Ventures",
+  "website": "https://www.costanoa.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "AI/ML"
+  ],
+  "region": "US",
+  "hq": "Palo Alto, USA"
+ },
+ {
+  "name": "Cowboy Ventures",
+  "website": "https://www.cowboy.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Palo Alto, USA"
+ },
+ {
+  "name": "Craft Ventures",
+  "website": "https://www.craftventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "Fintech",
+   "Consumer"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Creative Destruction Lab",
+  "website": "https://creativedestructionlab.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Deep Tech",
+   "AI/ML",
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "Toronto, Canada"
+ },
+ {
+  "name": "Crosslink Capital",
+  "website": "https://www.crosslinkcapital.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Davidovs VC",
+  "website": "https://dvc.ai/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "AI/ML"
+  ],
+  "region": "Global",
+  "hq": "Tel Aviv, Israel"
+ },
+ {
+  "name": "Defy VC",
+  "website": "https://defy.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "DeVC",
+  "website": "https://www.devc.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Dogpatch Labs",
+  "website": "https://dogpatchlabs.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Dublin, Ireland"
+ },
+ {
+  "name": "E14 Fund",
+  "website": "https://www.e14.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Deep Tech",
+   "AI/ML"
+  ],
+  "region": "US",
+  "hq": "Cambridge, USA"
+ },
+ {
+  "name": "Electric Capital",
+  "website": "https://www.electriccapital.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Elevation Capital",
+  "website": "https://www.elevationcapital.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "India",
+  "hq": "Gurugram, India"
+ },
+ {
+  "name": "Emerge Ventures",
+  "website": "https://emerge.ventures/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Emergent Ventures",
+  "website": "https://www.mercatus.org/emergent-ventures",
+  "status": "verified",
+  "type": "Community",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Arlington, USA"
+ },
+ {
+  "name": "Eniac Ventures",
+  "website": "https://www.eniac.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Entrepreneurs First",
+  "website": "https://www.joinef.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "London, UK"
+ },
+ {
+  "name": "Equal Ventures",
+  "website": "https://www.equal.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "Fintech"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Ethos Fund",
+  "website": "https://www.ethosfund.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Everywhere Ventures",
+  "website": "https://www.everywhere.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Expert Dojo",
+  "website": "https://expertdojo.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Santa Monica, USA"
+ },
+ {
+  "name": "f7 Ventures",
+  "website": "https://www.f7ventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Consumer",
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Los Angeles, USA"
+ },
+ {
+  "name": "Fernbrook Capital Management LLC",
+  "website": "https://www.fernbrookmgmt.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Fika Ventures",
+  "website": "https://www.fika.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "Consumer"
+  ],
+  "region": "US",
+  "hq": "Los Angeles, USA"
+ },
+ {
+  "name": "First Pick Ventures",
+  "website": "https://firstpick.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist",
+   "AI/ML"
+  ],
+  "region": "Europe",
+  "hq": "Vilnius, Lithuania"
+ },
+ {
+  "name": "First Round Capital",
+  "website": "https://firstround.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "FirstMark",
+  "website": "https://firstmark.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Flex Capital",
+  "website": "https://www.flexcapital.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "AI/ML",
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Floodgate",
+  "website": "https://www.floodgate.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Palo Alto, USA"
+ },
+ {
+  "name": "Flourish Ventures",
+  "website": "https://flourishventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Fintech"
+  ],
+  "region": "US",
+  "hq": "San Mateo, USA"
+ },
+ {
+  "name": "Flybridge",
+  "website": "https://www.flybridge.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Boston, USA"
+ },
+ {
+  "name": "Forum Ventures",
+  "website": "https://www.forumvc.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Foundation Capital",
+  "website": "https://foundationcapital.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Founder Collective",
+  "website": "https://foundercollective.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Cambridge, USA"
+ },
+ {
+  "name": "Founders, Inc.",
+  "website": "https://f.inc/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Fresco Capital",
+  "website": "https://fresco.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Asia",
+  "hq": "Hong Kong"
+ },
+ {
+  "name": "FUSE",
+  "website": "https://fuse.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "AI/ML",
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "Seattle, USA"
+ },
+ {
+  "name": "G20 Ventures",
+  "website": "https://www.g20vc.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A"
+  ],
+  "sector": [
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "Boston, USA"
+ },
+ {
+  "name": "Garaza",
+  "website": "https://garaza.org/en",
+  "status": "verified",
+  "type": "Community",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Belgrade, Serbia"
+ },
+ {
+  "name": "Garuda Ventures",
+  "website": "https://www.garuda.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "Dev Tools",
+   "Climate"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Geek Ventures",
+  "website": "https://geek.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "GFR Fund",
+  "website": "https://gfrfund.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Gradient",
+  "website": "https://www.gradient.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "AI/ML"
+  ],
+  "region": "US",
+  "hq": "Mountain View, USA"
+ },
+ {
+  "name": "GreatPoint Ventures",
+  "website": "https://www.gpv.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Climate",
+   "Deep Tech"
+  ],
+  "region": "US",
+  "hq": "Boston, USA"
+ },
+ {
+  "name": "Green Egg Ventures",
+  "website": "https://greenegg.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Greylock",
+  "website": "https://greylock.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "AI/ML",
+   "Consumer"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "Grove Ventures",
+  "website": "https://www.grovevc.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Deep Tech",
+   "Enterprise/SaaS"
+  ],
+  "region": "Europe",
+  "hq": "Tel Aviv, Israel"
+ },
+ {
+  "name": "gumi Cryptos Capital",
+  "website": "https://gumi-cryptos.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Harlem Capital",
+  "website": "https://harlem.capital/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Headline",
+  "website": "https://headline.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Health Velocity Capital",
+  "website": "https://www.healthvelocitycapital.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Health/Bio"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "Homebrew",
+  "website": "https://homebrew.co/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Hult Prize Foundation",
+  "website": "https://www.hultprize.org/",
+  "status": "verified",
+  "type": "Community",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Icebreaker VC",
+  "website": "https://www.icebreaker.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Helsinki, Finland"
+ },
+ {
+  "name": "Illuminate Ventures",
+  "website": "https://illuminate.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "AI/ML"
+  ],
+  "region": "US",
+  "hq": "Oakland, USA"
+ },
+ {
+  "name": "Impellent Ventures",
+  "website": "https://impellent.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Health/Bio",
+   "Deep Tech"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Industry Ventures",
+  "website": "https://www.industryventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Initialized Capital",
+  "website": "https://initialized.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Inverted Capital",
+  "website": "https://www.invertedcap.com/",
+  "status": "ambiguous",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "IronGate Capital Advisors",
+  "website": "https://www.irongatevc.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Iterative",
+  "website": "https://www.iterative.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "AI/ML",
+   "Generalist"
+  ],
+  "region": "Asia",
+  "hq": "Seoul, South Korea"
+ },
+ {
+  "name": "IVP",
+  "website": "https://www.ivp.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "J Ventures",
+  "website": "https://www.j-ventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Consumer",
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Los Angeles, USA"
+ },
+ {
+  "name": "JPMorgan",
+  "website": "https://am.jpmorgan.com/us/en/asset-management/institutional/investment-strategies/alternatives/private-equity-group/",
+  "status": "verified",
+  "type": "Corporate",
+  "stage": [
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Kalei Ventures",
+  "website": "https://www.kaleiventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "KDX Ventures",
+  "website": "https://kdx.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "Asia",
+  "hq": "Singapore"
+ },
+ {
+  "name": "Kibo Ventures",
+  "website": "https://www.kiboventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Madrid, Spain"
+ },
+ {
+  "name": "Kindred Ventures",
+  "website": "https://kindredventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Kleiner Perkins",
+  "website": "https://www.kleinerperkins.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "Konvoy",
+  "website": "https://www.konvoy.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Gaming"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Kyber Knight Capital",
+  "website": "https://kyberknight.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Lachy Groom",
+  "website": "",
+  "status": "none",
+  "type": "Angel",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Fintech",
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Laconia",
+  "website": "https://www.laconiacapitalgroup.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Fintech"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Laude Ventures",
+  "website": "https://laude.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "AI/ML"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Lemnos",
+  "website": "https://lemnos.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Hardware",
+   "Deep Tech"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Lerer Hippeau",
+  "website": "https://www.lererhippeau.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Consumer",
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "LexFusion",
+  "website": "https://www.lexfusion.com/",
+  "status": "verified",
+  "type": "Community",
+  "stage": [
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Linked Ventures",
+  "website": "https://www.linkventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Looking Glass Capital",
+  "website": "https://lookingglass.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Health/Bio"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Lowercarbon Capital",
+  "website": "https://lowercarbon.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Climate"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Lytical Ventures",
+  "website": "https://www.lyticalventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Maccabee Ventures",
+  "website": "https://www.maccabee.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Madrona Ventures",
+  "website": "https://www.madrona.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "AI/ML"
+  ],
+  "region": "US",
+  "hq": "Seattle, USA"
+ },
+ {
+  "name": "Magma Partners",
+  "website": "https://magmapartners.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "LatAm",
+  "hq": "Santiago, Chile"
+ },
+ {
+  "name": "Mango Group",
+  "website": "https://www.mangocapitalinc.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Consumer"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "Mantis",
+  "website": "https://www.mantisvc.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Consumer",
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Maven",
+  "website": "https://www.mavenventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Consumer"
+  ],
+  "region": "US",
+  "hq": "Palo Alto, USA"
+ },
+ {
+  "name": "Maveron",
+  "website": "https://www.maveron.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Consumer"
+  ],
+  "region": "US",
+  "hq": "Seattle, USA"
+ },
+ {
+  "name": "Mavin Ventures",
+  "website": "https://mavin.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Mayfield",
+  "website": "https://www.mayfield.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "AI/ML",
+   "Enterprise/SaaS",
+   "Consumer"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "Meet Ventures",
+  "website": "https://www.meetventures.com",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "AI/ML",
+   "Consumer"
+  ],
+  "region": "Asia",
+  "hq": "Singapore, Singapore"
+ },
+ {
+  "name": "Mendoza Ventures",
+  "website": "https://mendoza-ventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Fintech",
+   "AI/ML"
+  ],
+  "region": "US",
+  "hq": "Boston, USA"
+ },
+ {
+  "name": "Mercuri Ventures",
+  "website": "https://www.mercuri.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Consumer",
+   "AI/ML",
+   "Enterprise/SaaS"
+  ],
+  "region": "Europe",
+  "hq": "London, United Kingdom"
+ },
+ {
+  "name": "Moment Ventures",
+  "website": "https://www.momentventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Consumer"
+  ],
+  "region": "US",
+  "hq": "Los Angeles, USA"
+ },
+ {
+  "name": "Montage Ventures",
+  "website": "https://www.montageventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Morado Ventures",
+  "website": "https://www.moradoventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Palo Alto, USA"
+ },
+ {
+  "name": "Morgan Stanley Inclusive & Sustainable Ventures",
+  "website": "https://www.morganstanley.com/about-us/inclusive-sustainable-ventures",
+  "status": "verified",
+  "type": "Corporate",
+  "stage": [
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Climate",
+   "Health/Bio",
+   "Fintech",
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Motivate",
+  "website": "https://motivate.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Fintech",
+   "AI/ML",
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "Chicago, USA"
+ },
+ {
+  "name": "Moxxie Ventures",
+  "website": "https://www.moxxie.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Consumer",
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Mystic Ventures",
+  "website": "https://www.mystic.ventures/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Health/Bio"
+  ],
+  "region": "US",
+  "hq": "Los Angeles, USA"
+ },
+ {
+  "name": "New Enterprise Associates (NEA)",
+  "website": "https://www.nea.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "NFDG",
+  "website": "",
+  "status": "none",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "AI/ML"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Nyca Partners",
+  "website": "https://www.nyca.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Fintech"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Ocean Azul Partners",
+  "website": "https://oceanazulpartners.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Deep Tech",
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "Coral Gables, USA"
+ },
+ {
+  "name": "ODF",
+  "website": "https://joinodf.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "One Tree Hill Ventures",
+  "website": "https://onetreehillventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "India",
+  "hq": "Mumbai, India"
+ },
+ {
+  "name": "Overlook Ventures",
+  "website": "https://www.overlook.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Overture Ventures",
+  "website": "https://www.overture.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Pale blue dot",
+  "website": "https://paleblue.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Climate"
+  ],
+  "region": "Europe",
+  "hq": "Malmo, Sweden"
+ },
+ {
+  "name": "Partech Partners",
+  "website": "https://partechpartners.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Paris, France"
+ },
+ {
+  "name": "Pear VC",
+  "website": "https://pear.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "PeerCapital",
+  "website": "https://peercapital.in/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "India",
+  "hq": "Mumbai, India"
+ },
+ {
+  "name": "People Ventures",
+  "website": "https://www.people.ventures/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Fintech"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Pillar VC",
+  "website": "https://www.pillar.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Boston, USA"
+ },
+ {
+  "name": "Plug and Play",
+  "website": "https://www.plugandplaytechcenter.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Sunnyvale, USA"
+ },
+ {
+  "name": "Point72 Ventures",
+  "website": "https://p72.vc/",
+  "status": "verified",
+  "type": "Corporate",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Fintech",
+   "AI/ML",
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Post Urban Ventures",
+  "website": "https://www.posturban.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Precursor Ventures",
+  "website": "https://precursorvc.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "prehype",
+  "website": "https://prehype.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Prelude Ventures",
+  "website": "https://www.preludeventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Climate"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Primary Venture Partners",
+  "website": "https://www.primary.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Progression",
+  "website": "https://www.progression.fund/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Fintech",
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "London, UK"
+ },
+ {
+  "name": "Pruven Capital",
+  "website": "https://www.pruvencap.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "Fintech"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Quiet Capital",
+  "website": "https://quiet.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Rabbit VC",
+  "website": "https://rabbitvc.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Asia",
+  "hq": "Singapore"
+ },
+ {
+  "name": "Rackhouse",
+  "website": "https://www.rackhouse.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Climate"
+  ],
+  "region": "US",
+  "hq": "Denver, USA"
+ },
+ {
+  "name": "Raine Group",
+  "website": "https://raine.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Red Bike Capital",
+  "website": "https://redbikecapital.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Refashiond Ventures",
+  "website": "https://www.refashiond.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Consumer"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Restive Ventures",
+  "website": "https://www.restive.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Fintech"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Ridge Ventures",
+  "website": "https://ridge.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Ripple Ventures",
+  "website": "https://www.rippleventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Toronto, Canada"
+ },
+ {
+  "name": "Robin Capital",
+  "website": "https://robincap.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Fintech"
+  ],
+  "region": "Europe",
+  "hq": "Paris, France"
+ },
+ {
+  "name": "Root Ventures",
+  "website": "https://root.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Deep Tech",
+   "Hardware"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Samaipata",
+  "website": "https://www.samaipata.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Consumer"
+  ],
+  "region": "Europe",
+  "hq": "Madrid, Spain"
+ },
+ {
+  "name": "SBXi",
+  "website": "https://www.sbxi.com/",
+  "status": "verified",
+  "type": "Corporate",
+  "stage": [
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Asia",
+  "hq": "Tokyo, Japan"
+ },
+ {
+  "name": "SciFi VC",
+  "website": "https://scifi.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "AI/ML"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Script Capital",
+  "website": "https://script.capital/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York, USA"
+ },
+ {
+  "name": "Scrum VC",
+  "website": "https://scrum.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Seattle Foundations",
+  "website": "https://www.fndtns.org/",
+  "status": "verified",
+  "type": "Community",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Seattle, USA"
+ },
+ {
+  "name": "Seedcamp",
+  "website": "https://seedcamp.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "London, UK"
+ },
+ {
+  "name": "SemperVirens Venture Capital",
+  "website": "https://www.sempervirensvc.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Health/Bio",
+   "Fintech",
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Sequoia Capital",
+  "website": "https://www.sequoiacap.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "Silkroad Innovation Hub",
+  "website": "https://silkroadinnovationhub.com/",
+  "status": "verified",
+  "type": "Community",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Asia",
+  "hq": "Almaty, Kazakhstan"
+ },
+ {
+  "name": "Slauson & Co.",
+  "website": "https://www.slauson.co/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Los Angeles, USA"
+ },
+ {
+  "name": "SOSA",
+  "website": "https://www.sosa.co/",
+  "status": "verified",
+  "type": "Community",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "MENA",
+  "hq": "Tel Aviv, Israel"
+ },
+ {
+  "name": "South Loop Ventures",
+  "website": "https://www.southloop.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Chicago, USA"
+ },
+ {
+  "name": "South Park Commons",
+  "website": "https://www.southparkcommons.com/",
+  "status": "verified",
+  "type": "Community",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "SparkLabs Group",
+  "website": "https://www.sparklabsgroup.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Asia",
+  "hq": "Seoul, South Korea"
+ },
+ {
+  "name": "Speedinvest",
+  "website": "https://www.speedinvest.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Vienna, Austria"
+ },
+ {
+  "name": "Starship Ventures",
+  "website": "https://www.starship.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Deep Tech",
+   "Hardware"
+  ],
+  "region": "Europe",
+  "hq": "Tallinn, Estonia"
+ },
+ {
+  "name": "Startup Wise Guys",
+  "website": "https://startupwiseguys.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Tallinn, Estonia"
+ },
+ {
+  "name": "Sterling Road",
+  "website": "https://www.sterlingroad.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Strong Ventures",
+  "website": "https://strongvc.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Consumer",
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Los Angeles, USA"
+ },
+ {
+  "name": "Sun Icon VC",
+  "website": "https://sunicon.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Crypto/Web3",
+   "Generalist"
+  ],
+  "region": "Asia",
+  "hq": "Singapore"
+ },
+ {
+  "name": "Sure Valley Ventures",
+  "website": "https://www.svv.ai/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "AI/ML"
+  ],
+  "region": "Europe",
+  "hq": "Dublin, Ireland"
+ },
+ {
+  "name": "Susa Ventures",
+  "website": "https://susaventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "T-Hub",
+  "website": "https://www.t-hub.co/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "India",
+  "hq": "Hyderabad, India"
+ },
+ {
+  "name": "Techstart Ventures",
+  "website": "https://www.techstart.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Belfast, United Kingdom"
+ },
+ {
+  "name": "TenOneTen Ventures",
+  "website": "https://www.tenoneten.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Los Angeles, USA"
+ },
+ {
+  "name": "The House Fund",
+  "website": "https://thehouse.fund/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Thin Air Labs",
+  "website": "https://www.thinairlabs.ca/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist",
+   "Deep Tech"
+  ],
+  "region": "US",
+  "hq": "Calgary, Canada"
+ },
+ {
+  "name": "Titan Capital",
+  "website": "https://www.titancapital.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "India",
+  "hq": "New Delhi, India"
+ },
+ {
+  "name": "Tola Capital",
+  "website": "https://tolacapital.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "AI/ML"
+  ],
+  "region": "US",
+  "hq": "Seattle, USA"
+ },
+ {
+  "name": "Triangle Tweener Fund",
+  "website": "https://www.tweenerfund.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Durham, USA"
+ },
+ {
+  "name": "Tribe Capital",
+  "website": "https://tribecap.co/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Generalist",
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Triple Point Ventures",
+  "website": "https://www.triplepoint.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Series B+",
+   "Growth"
+  ],
+  "sector": [
+   "Generalist",
+   "Deep Tech"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "True Ventures",
+  "website": "https://www.trueventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Ubiquity Ventures",
+  "website": "https://www.ubiquity.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "Deep Tech"
+  ],
+  "region": "US",
+  "hq": "Palo Alto, USA"
+ },
+ {
+  "name": "Unanimous Capital",
+  "website": "https://unanimous.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Uncork Capital",
+  "website": "https://uncorkcapital.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Uncorrelated Ventures",
+  "website": "https://uncorrelated.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Unshackled Ventures",
+  "website": "https://www.unshackledvc.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Unusual Ventures",
+  "website": "https://www.unusual.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "UpWest",
+  "website": "https://upwest.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Palo Alto, USA"
+ },
+ {
+  "name": "Valia Ventures",
+  "website": "https://www.valia.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Lisbon, Portugal"
+ },
+ {
+  "name": "Variant",
+  "website": "https://variant.fund/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Vertical Insure, Inc.",
+  "website": "https://verticalinsure.com/",
+  "status": "verified",
+  "type": "Corporate",
+  "stage": [
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Fintech"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Veteran Fund",
+  "website": "https://www.veteran.fund/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Village Global",
+  "website": "https://www.villageglobal.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Visionaries Club",
+  "website": "https://visionaries.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Berlin, Germany"
+ },
+ {
+  "name": "W Health Ventures",
+  "website": "https://www.whealthventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Health/Bio"
+  ],
+  "region": "US",
+  "hq": "Boston, USA"
+ },
+ {
+  "name": "Whiteboard Capital",
+  "website": "https://www.whiteboardcap.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Worklife",
+  "website": "https://www.worklife.vc/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Paris, France"
+ },
+ {
+  "name": "WTFund",
+  "website": "https://allthingswtf.com/wtfund",
+  "status": "verified",
+  "type": "Community",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Consumer"
+  ],
+  "region": "Europe",
+  "hq": "London, UK"
+ },
+ {
+  "name": "Y Combinator",
+  "website": "https://www.ycombinator.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "TEMP smoke-test data. The original startup accelerator, running batches in San Francisco since 2005.",
+   "funding": "$500,000",
+   "equity": "7% + MFN SAFE",
+   "duration": "3 months",
+   "location": "San Francisco — in person",
+   "cadence": "2 batches/year"
   }
+ },
+ {
+  "name": "YL Ventures",
+  "website": "https://www.ylventures.com/",
+  "status": "verified",
+  "type": "Fund",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Enterprise/SaaS",
+   "AI/ML"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Zinc",
+  "website": "https://www.zinc.vc/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "London, UK"
+ }
 ]

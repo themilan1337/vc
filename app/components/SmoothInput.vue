@@ -96,11 +96,15 @@ onBeforeUnmount(() => {
 
 <template>
   <div
-    class="relative w-full max-w-[420px] rounded-2xl bg-muted2 p-4
+    class="relative flex w-full items-center gap-2 rounded-lg bg-muted2 px-3
            has-[:focus-visible]:outline has-[:focus-visible]:outline-2
            has-[:focus-visible]:outline-offset-2 has-[:focus-visible]:outline-muted3"
   >
-    <div ref="containerRef" class="relative grid grid-cols-1 text-2xl" style="caret-color: transparent">
+    <svg class="h-3.5 w-3.5 shrink-0 text-foreground/40" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+      <circle cx="7" cy="7" r="4.5" stroke="currentColor" stroke-width="1.5" />
+      <path d="m10.5 10.5 3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+    </svg>
+    <div ref="containerRef" class="relative grid h-9 min-w-0 flex-1 grid-cols-1 items-center text-sm" style="caret-color: transparent">
       <input
         ref="inputRef"
         :value="modelValue"

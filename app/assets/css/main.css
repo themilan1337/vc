@@ -2,6 +2,7 @@
 @import "tailwindcss";
 
 @theme {
+  --font-sans: "Geist", ui-sans-serif, system-ui, sans-serif;
   --color-background: #ffffff;
   --color-foreground: #0a0a0a;
   --color-muted: #f6f6f7;
@@ -13,4 +14,11 @@
 html, body {
   background: var(--color-background);
   color: var(--color-foreground);
+  font-family: var(--font-sans);
+}
+
+/* Tailwind v4 preflight leaves buttons with the default cursor */
+button:not(:disabled),
+[role="button"]:not(:disabled) {
+  cursor: pointer;
 }

@@ -11,6 +11,15 @@ export type Region = (typeof REGIONS)[number]
 export type VcType = (typeof TYPES)[number]
 export type Status = (typeof STATUSES)[number]
 
+export interface ProgramInfo {
+  description: string
+  funding?: string | null // e.g. "$500,000 ($125k for 7% + $375k MFN SAFE)"
+  equity?: string | null // e.g. "7%"
+  duration?: string | null // e.g. "3 months"
+  location?: string | null // e.g. "San Francisco — in person"
+  cadence?: string | null // e.g. "2 batches/year"
+}
+
 export interface Vc {
   name: string
   website: string // '' when status === 'none'
@@ -20,6 +29,7 @@ export interface Vc {
   sector: Sector[] // >= 1
   region: Region
   hq: string // display-only, e.g. "Menlo Park, US"
+  program?: ProgramInfo // present for application-based accelerator/incubator programs
 }
 
 export interface FilterCriteria {

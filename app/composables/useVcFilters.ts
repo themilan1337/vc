@@ -38,6 +38,7 @@ export function useVcFilters(vcs: Vc[]) {
     criteria.q = ''
     for (const f of FACETS) (criteria[f] as string[]).length = 0
     highlighted.value = null
+    trigger('light')
   }
   function surprise() {
     const list = filtered.value

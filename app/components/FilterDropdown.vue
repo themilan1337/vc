@@ -18,6 +18,7 @@ function toggleOpen() {
     alignRight.value = !!r && r.left + 200 > window.innerWidth
   }
   open.value = !open.value
+  trigger('light')
 }
 
 function toggle(opt: T) {
@@ -26,6 +27,11 @@ function toggle(opt: T) {
   else set.add(opt)
   trigger('nudge')
   emit('update:modelValue', [...set])
+}
+
+function clearAll() {
+  trigger('light')
+  emit('update:modelValue', [])
 }
 
 function onPointerDown(e: PointerEvent) {
@@ -97,7 +103,7 @@ onBeforeUnmount(() => {
           <button
             type="button"
             class="w-full rounded-lg px-2.5 py-1.5 text-left text-xs text-foreground/40 transition-colors hover:bg-foreground/5 hover:text-foreground"
-            @click="emit('update:modelValue', [])"
+            @click="clearAll"
           >clear</button>
         </div>
       </motion.div>

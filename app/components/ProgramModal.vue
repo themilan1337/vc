@@ -5,10 +5,15 @@ import type { Vc } from '~/lib/vcTypes'
 
 const props = defineProps<{ vc: Vc | null }>()
 const dialog = ref<HTMLDialogElement>()
+const { trigger } = useHaptics() // auto-imported (Task B6)
 
 // ponytail: imperative show() instead of watching prop transitions — no dependency on the dialog 'close' event to resync state
 function show() {
   if (!dialog.value?.open) dialog.value?.showModal()
+}
+function close() {
+  trigger('light')
+  dialog.value?.close()
 }
 defineExpose({ show })
 
@@ -46,7 +51,7 @@ const details = computed(() => {
           type="button"
           class="-m-1.5 shrink-0 rounded-lg p-1.5 text-foreground/40 transition-colors hover:bg-foreground/5 hover:text-foreground"
           aria-label="Close"
-          @click="dialog?.close()"
+          @click="close"
         >
           <svg class="h-4 w-4" viewBox="0 0 16 16" fill="none" aria-hidden="true">
             <path d="m4 4 8 8M12 4l-8 8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />

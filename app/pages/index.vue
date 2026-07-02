@@ -7,12 +7,14 @@ import { STATUSES, TYPES, STAGES, SECTORS, REGIONS } from '~/lib/vcTypes'
 
 const vcs = vcsData as Vc[]
 const { criteria, filtered, highlighted, reset, surprise } = useVcFilters(vcs)
+const { trigger } = useHaptics()
 const selected = ref<Vc | null>(null)
 const modal = ref<{ show: () => void }>()
 const programs = computed(() => filtered.value.filter(v => v.program))
 const funds = computed(() => filtered.value.filter(v => !v.program))
 
 async function openProgram(vc: Vc) {
+  trigger('medium')
   selected.value = vc
   await nextTick()
   modal.value?.show()

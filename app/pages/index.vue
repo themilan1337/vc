@@ -71,7 +71,6 @@ useHead({ title: 'VC Finder' })
     <FadeScrollArea class="mt-2 min-h-48 flex-1">
       <div class="space-y-1 p-1">
         <template v-if="programs.length">
-          <div class="px-1 pb-1 pt-1 text-[10px] uppercase tracking-wide text-foreground/30">programs — apply & join</div>
           <VcRow
             v-for="vc in programs"
             :key="vc.name"

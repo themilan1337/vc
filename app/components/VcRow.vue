@@ -4,9 +4,9 @@ import { ref } from 'vue'
 import type { Vc } from '~/lib/vcTypes'
 
 const props = defineProps<{ vc: Vc }>()
-const emit = defineEmits<{ open: [rect: DOMRect] }>()
-function open(e: Event) {
-  if (props.vc.program) emit('open', (e.currentTarget as HTMLElement).getBoundingClientRect())
+const emit = defineEmits<{ open: [] }>()
+function open() {
+  if (props.vc.program) emit('open')
 }
 const copied = ref(false)
 const { trigger } = useHaptics() // auto-imported (Task B6)

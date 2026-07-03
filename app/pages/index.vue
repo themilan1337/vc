@@ -10,7 +10,7 @@ const totalPrograms = vcs.filter(v => v.program).length
 const { criteria, filtered, highlighted, reset, surprise } = useVcFilters(vcs)
 const { trigger } = useHaptics()
 const selected = ref<Vc | null>(null)
-const modal = ref<{ show: (from?: DOMRect) => void }>()
+const modal = ref<{ show: () => void }>()
 
 // The household-name programs float to the very top, in this order; then the rest
 // of tier-1 alphabetically, then tier-2. Keeps "apply to Antler / YC" front and centre.
@@ -29,11 +29,11 @@ const programs = computed(() =>
 )
 const funds = computed(() => filtered.value.filter(v => !v.program))
 
-async function openProgram(vc: Vc, from?: DOMRect) {
+async function openProgram(vc: Vc) {
   trigger('medium')
   selected.value = vc
   await nextTick()
-  modal.value?.show(from)
+  modal.value?.show()
 }
 const loopWords = ['seed-stage AI', 'climate funds', 'crypto backers', 'fintech VCs', 'your next check']
 
@@ -77,7 +77,7 @@ useHead({ title: 'VC Finder' })
             :key="vc.name"
             :vc="vc"
             :class="highlighted === vc.name ? 'rounded-lg ring-1 ring-primary' : ''"
-            @open="rect => openProgram(vc, rect)"
+            @open="openProgram(vc)"
           />
           <div v-if="funds.length" class="px-1 pb-1 pt-4 text-[10px] uppercase tracking-wide text-foreground/30">venture funds &amp; investors</div>
         </template>

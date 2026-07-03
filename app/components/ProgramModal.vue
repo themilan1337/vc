@@ -9,34 +9,10 @@ const { trigger } = useHaptics() // auto-imported (Task B6)
 
 // ponytail: imperative show() instead of watching prop transitions — no dependency on the dialog 'close' event to resync state
 const reduceMotion = () => window.matchMedia('(prefers-reduced-motion: reduce)').matches
-let fromRect: DOMRect | null = null
 let closing = false
 
-// FLIP morph: dialog is laid out at its final spot, then transformed back to the
-// clicked row's rect and released.
-function morphKeyframes(el: HTMLElement) {
-  const to = el.getBoundingClientRect()
-  const from = fromRect!
-  return [
-    {
-      transform: `translate(${from.left - to.left}px, ${from.top - to.top}px) scale(${from.width / to.width}, ${from.height / to.height})`,
-      opacity: 0.4,
-      borderRadius: '8px',
-    },
-    { transform: 'none', opacity: 1, borderRadius: '16px' },
-  ]
-}
-const EASE = 'cubic-bezier(0.32, 0.72, 0, 1)'
-
-function show(from?: DOMRect) {
-  const el = dialog.value
-  if (!el || el.open) return
-  el.showModal()
-  fromRect = from ?? null
-  if (!from || reduceMotion()) return
-  el.style.transformOrigin = 'top left'
-  el.animate(morphKeyframes(el), { duration: 350, easing: EASE })
-  el.animate([{ opacity: 0 }, { opacity: 1 }], { duration: 250, pseudoElement: '::backdrop' })
+function show() {
+  if (!dialog.value?.open) dialog.value?.showModal()
 }
 
 async function close() {
@@ -45,11 +21,10 @@ async function close() {
   trigger('light')
   if (reduceMotion()) return el.close()
   closing = true
+  const opts = { duration: 180, easing: 'ease-in', fill: 'forwards' as const }
   const anims = [
-    el.animate([{ opacity: 1 }, { opacity: 0 }], { duration: 200, pseudoElement: '::backdrop', fill: 'forwards' }),
-    fromRect
-      ? el.animate(morphKeyframes(el).reverse(), { duration: 250, easing: EASE, fill: 'forwards' })
-      : el.animate([{ opacity: 1, transform: 'none' }, { opacity: 0, transform: 'scale(0.96)' }], { duration: 200, easing: EASE, fill: 'forwards' }),
+    el.animate([{ opacity: 1, transform: 'none' }, { opacity: 0, transform: 'translateY(8px) scale(0.97)' }], opts),
+    el.animate([{ opacity: 1 }, { opacity: 0 }], { ...opts, pseudoElement: '::backdrop' }),
   ]
   await Promise.allSettled(anims.map(a => a.finished))
   anims.forEach(a => a.cancel()) // release fill: forwards so the next open starts clean
@@ -126,3 +101,25 @@ const details = computed(() => {
     </template>
   </dialog>
 </template>
+
+<style scoped>
+@media (prefers-reduced-motion: no-preference) {
+  dialog[open] {
+    animation: modal-in 0.28s cubic-bezier(0.32, 0.72, 0, 1);
+  }
+  dialog[open]::backdrop {
+    animation: backdrop-in 0.28s ease-out;
+  }
+}
+@keyframes modal-in {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(0.96);
+  }
+}
+@keyframes backdrop-in {
+  from {
+    opacity: 0;
+  }
+}
+</style>

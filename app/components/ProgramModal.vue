@@ -37,12 +37,13 @@ const details = computed(() => {
   <!-- ponytail: native <dialog> — focus trap, Escape, and top layer for free -->
   <dialog
     ref="dialog"
-    class="m-auto w-full max-w-md rounded-2xl bg-background p-0 shadow-xl shadow-foreground/10
+    class="m-auto flex max-h-[85dvh] w-full max-w-md flex-col rounded-2xl bg-background p-0 shadow-xl shadow-foreground/10
            backdrop:bg-foreground/25 backdrop:backdrop-blur-sm"
     @click="$event.target === dialog && dialog?.close()"
   >
-    <div v-if="vc" class="p-6">
-      <div class="flex items-start justify-between gap-4">
+    <template v-if="vc">
+      <!-- fixed header -->
+      <div class="flex items-start justify-between gap-4 px-6 pb-4 pt-6">
         <div class="min-w-0">
           <h2 class="truncate text-lg font-semibold tracking-tight">{{ vc.name }}</h2>
           <p class="mt-0.5 text-xs text-foreground/40">{{ vc.type }} · {{ vc.hq || vc.region }}</p>
@@ -59,22 +60,27 @@ const details = computed(() => {
         </button>
       </div>
 
-      <p class="mt-4 text-sm leading-relaxed text-foreground/70">{{ vc.program?.description }}</p>
+      <!-- scrollable body -->
+      <div class="min-h-0 flex-1 overflow-y-auto px-6">
+        <p class="text-sm leading-relaxed text-foreground/70">{{ vc.program?.description }}</p>
 
-      <dl v-if="details.length" class="mt-5 space-y-2.5 border-t border-foreground/10 pt-4">
-        <div v-for="[label, value] in details" :key="label" class="flex gap-4 text-sm">
-          <dt class="w-20 shrink-0 text-foreground/40">{{ label }}</dt>
-          <dd class="min-w-0 text-foreground/80">{{ value }}</dd>
-        </div>
-      </dl>
+        <dl v-if="details.length" class="mt-5 space-y-2.5 border-t border-foreground/10 pt-4">
+          <div v-for="[label, value] in details" :key="label" class="flex gap-4 text-sm">
+            <dt class="w-20 shrink-0 text-foreground/40">{{ label }}</dt>
+            <dd class="min-w-0 text-foreground/80">{{ value }}</dd>
+          </div>
+        </dl>
+      </div>
 
-      <a
-        v-if="vc.website"
-        :href="vc.website"
-        target="_blank"
-        rel="noopener noreferrer"
-        class="mt-6 flex h-9 w-full items-center justify-center rounded-lg bg-foreground text-sm text-background transition-colors hover:bg-foreground/85"
-      >apply on website ↗</a>
-    </div>
+      <!-- pinned footer -->
+      <div v-if="vc.website" class="px-6 pb-6 pt-4">
+        <a
+          :href="vc.website"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="flex h-9 w-full items-center justify-center rounded-lg bg-foreground text-sm text-background transition-colors hover:bg-foreground/85"
+        >apply on website ↗</a>
+      </div>
+    </template>
   </dialog>
 </template>

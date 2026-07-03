@@ -13,6 +13,7 @@ export type Status = (typeof STATUSES)[number]
 
 export interface ProgramInfo {
   description: string
+  tier: 1 | 2 // 1 = internationally famous; 2 = strong regional/vertical. Sorts programs to the top.
   funding?: string | null // e.g. "$500,000 ($125k for 7% + $375k MFN SAFE)"
   equity?: string | null // e.g. "7%"
   duration?: string | null // e.g. "3 months"

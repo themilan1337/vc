@@ -6,11 +6,27 @@ import type { Vc } from '~/lib/vcTypes'
 import { STATUSES, TYPES, STAGES, SECTORS, REGIONS } from '~/lib/vcTypes'
 
 const vcs = vcsData as Vc[]
+const totalPrograms = vcs.filter(v => v.program).length
 const { criteria, filtered, highlighted, reset, surprise } = useVcFilters(vcs)
 const { trigger } = useHaptics()
 const selected = ref<Vc | null>(null)
 const modal = ref<{ show: () => void }>()
-const programs = computed(() => filtered.value.filter(v => v.program))
+
+// The household-name programs float to the very top, in this order; then the rest
+// of tier-1 alphabetically, then tier-2. Keeps "apply to Antler / YC" front and centre.
+const FLAGSHIP = ['Y Combinator', 'Techstars', 'a16z speedrun', 'Antler', 'Entrepreneurs First',
+  '500 Global', 'Sequoia Arc', 'PearX (Pear VC)', 'Neo Accelerator (Neo Residency)', 'HF0 Residency',
+  'South Park Commons Founder Fellowship', 'MassChallenge']
+const flagRank = (v: Vc) => {
+  const i = FLAGSHIP.indexOf(v.name)
+  return i === -1 ? FLAGSHIP.length : i
+}
+const programs = computed(() =>
+  filtered.value
+    .filter(v => v.program)
+    .sort((a, b) =>
+      (flagRank(a) - flagRank(b)) || (a.program!.tier - b.program!.tier) || a.name.localeCompare(b.name)),
+)
 const funds = computed(() => filtered.value.filter(v => !v.program))
 
 async function openProgram(vc: Vc) {
@@ -31,7 +47,7 @@ useHead({ title: 'VC Finder' })
         Funds for <LoopText :items="loopWords" class="text-primary" />
       </h1>
       <p class="mt-1.5 text-sm text-foreground/40">
-        {{ vcs.length }} venture funds, accelerators and angels — filter down to the ones that fit.
+        {{ totalPrograms }} accelerator &amp; incubator programs to apply to, then {{ vcs.length - totalPrograms }} venture funds &amp; angels.
       </p>
     </header>
 

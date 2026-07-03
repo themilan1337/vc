@@ -1,5 +1,29 @@
 [
  {
+  "name": "100X.VC",
+  "website": "https://www.100x.vc/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "India",
+  "hq": "Mumbai, India",
+  "program": {
+   "description": "Sanjay Mehta's first-cheque investor for Indian startups, writing a fixed ₹1.25 crore per company on its India SAFE (iSAFE) note — 180+ companies funded to date. Selected startups join a class with a 6-week in-person HomeRun Masterclass Series in Mumbai covering product-market fit, fundraising, and leadership, then pitch at an invite-only VC Pitch Day attended by 400+ angels, family offices, and VC funds. Applications were open as of mid-2026, with term sheet to deal closure estimated at 2 weeks.",
+   "tier": 2,
+   "funding": "₹1.25 Cr (~$150K) fixed first cheque via iSAFE note",
+   "equity": "15% of future equity",
+   "duration": "6-week in-person masterclass series, followed by VC Pitch Day",
+   "location": "Mumbai — in-person masterclasses; for India-based startups",
+   "cadence": "Rolling applications, batched into classes (Class 12 Pitch Day held Jan 2025; applications open in 2026)"
+  }
+ },
+ {
   "name": "12 Flags",
   "website": "https://www.12flags.com/",
   "status": "verified",
@@ -93,7 +117,7 @@
   "name": "500 Global",
   "website": "https://500.co/",
   "status": "verified",
-  "type": "Fund",
+  "type": "Accelerator",
   "stage": [
    "Pre-seed",
    "Seed",
@@ -103,7 +127,16 @@
    "Generalist"
   ],
   "region": "Global",
-  "hq": "San Francisco, USA"
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "The long-running Silicon Valley accelerator from 500 Global (formerly 500 Startups), a four-month in-person program in Palo Alto aimed at globally minded early-stage tech startups. Companies receive $150K for 6% plus a curriculum covering customer discovery, product-market fit, fundraising prep, and pitch development, backed by one of the largest accelerator alumni networks. Batch 37 is accepting applications for a Q2 2026 start.",
+   "tier": 1,
+   "funding": "$150,000 for 6% (subject to terms and diligence)",
+   "equity": "6%",
+   "duration": "4 months",
+   "location": "Palo Alto, California — in person",
+   "cadence": "Rolling applications; Batch 37 starts Q2 2026"
+  }
  },
  {
   "name": "645 Ventures",
@@ -171,6 +204,54 @@
   "hq": "Menlo Park, USA"
  },
  {
+  "name": "a16z Crypto Startup Accelerator (CSX)",
+  "website": "https://a16zcrypto.com/accelerator/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA (a16z; cohorts rotate cities)",
+  "program": {
+   "description": "a16z crypto's intensive in-person accelerator for early-stage web3/crypto startups, covering product-market fit, tokenization, go-to-market, fundraising and regulatory navigation, with cohorts of 20-25 companies in rotating cities (London and NYC in 2024, San Francisco in 2025). a16z invests a minimum of $500,000 in each accepted company; third-party trackers report 7% equity, but terms are not published on the official page. Caution: the program page is live in 2026, but the latest confirmed cohort is CSX 2025 (SF, April-June 2025) and no 2026 cohort had been announced as of July 2026.",
+   "tier": 1,
+   "funding": "$500,000 minimum investment per company (per official CSX 04 announcement)",
+   "equity": "7% (reported by third-party trackers; not published on official page)",
+   "duration": "~12 weeks (CSX 2025 SF ran April–June 2025)",
+   "location": "In-person, rotating cities (London, New York, San Francisco)",
+   "cadence": "Historically ~2 cohorts/year; no 2026 cohort announced as of July 2026 — latest was CSX 2025 (SF)"
+  }
+ },
+ {
+  "name": "a16z speedrun",
+  "website": "https://speedrun.a16z.com",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "Andreessen Horowitz's 12-week, in-person San Francisco accelerator, started in games and now open to startups across tech with a heavy AI tilt. Companies get up to $1M ($500K upfront for 10% plus $500K committed to the next round within 18 months), over $5M in cloud/AI/software credits, and hands-on a16z operator support, with no board seat taken. Acceptance rate is under 0.4%, with 60-70 teams per cohort; SR007 runs July 27 to October 11, 2026.",
+   "tier": 1,
+   "funding": "Up to $1,000,000 ($500k for 10% via SAFE + $500k into next round within 18 months), plus >$5M in credits",
+   "equity": "10%",
+   "duration": "12 weeks",
+   "location": "San Francisco — in person (mandatory)",
+   "cadence": "2 cohorts/year (SR007: Jul 27 – Oct 11, 2026; applications closed May 17, 2026)"
+  }
+ },
+ {
   "name": "Accel",
   "website": "https://www.accel.com/",
   "status": "verified",
@@ -186,6 +267,76 @@
   ],
   "region": "US",
   "hq": "Palo Alto, USA"
+ },
+ {
+  "name": "Accel Atoms",
+  "website": "https://atoms.accel.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "AI/ML",
+   "Deep Tech"
+  ],
+  "region": "India",
+  "hq": "Bengaluru, India",
+  "program": {
+   "description": "Accel India's pre-seed scaling program for Indian and Indian-origin founders building from anywhere; idea or prototype stage is acceptable. The AI Cohort 2026, run with Google's AI Futures Fund, co-invests up to $2M per startup and adds up to $350K in Google compute credits plus early access to Gemini and DeepMind models (5 startups selected from 4,000+ applications, kicked off March 2026 in Bengaluru). A parallel Atoms X track with Prosus backs deep-tech LeapTech startups, with Prosus matching Accel's investment in each company.",
+   "tier": 2,
+   "funding": "Up to $2M co-invested by Accel and Google's AI Futures Fund per startup (AI Cohort 2026), plus up to $350K Google compute credits; Atoms X: Prosus matches Accel's investment",
+   "location": "Remote-friendly — founders can build from anywhere; program events in Bengaluru",
+   "cadence": "Annual themed cohorts; AI Cohort 2026 applications closed 26 Jan 2026, Atoms X cohort announced March 2026 — early applications open for next cohorts"
+  }
+ },
+ {
+  "name": "Accelerate Africa",
+  "website": "https://acceler8.africa/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "Lagos, Nigeria",
+  "program": {
+   "description": "A 12-week accelerator for early-stage African startups, co-founded in 2024 by Iyin Aboyeji (co-founder of Flutterwave and Andela) and often called the 'YC of Africa'. Joining costs nothing and takes no equity; after the November demo day, founders can take an optional $250,000-$500,000 check from the Accelerate Africa Fund and Future Africa. Each cohort of 10 startups gets one-on-one coaching across storytelling, people and operations, go-to-market, product, and fundraising.",
+   "tier": 2,
+   "funding": "$0 at admission; optional $250,000-$500,000 pre-seed/seed investment from the Accelerate Africa Fund and Future Africa after demo day",
+   "equity": "0% to join; equity only if the optional post-program investment is taken",
+   "duration": "12 weeks",
+   "location": "Mostly remote with in-person welcome week and demo day week in Lagos",
+   "cadence": "~2 cohorts/year; Cohort 5 applications close late July 2026, program runs Aug-Nov 2026"
+  }
+ },
+ {
+  "name": "ACE Ventures",
+  "website": "https://aceventures.com.br/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist",
+   "AI/ML"
+  ],
+  "region": "LatAm",
+  "hq": "São Paulo, Brazil",
+  "program": {
+   "description": "São Paulo investor that grew out of Brazil's best-known accelerator (investing since 2012) and now runs investment-plus-acceleration tracks. Its Trilha AI track invests R$500k-2M for 8-15% equity in B2B startups applying AI with initial traction and operations in Brazil, paired with a 6-week sprint on product, strategy, and fundraising; applications for the current edition closed October 31, 2025. ACE also executes the ABVCAP/ApexBrasil Inova+Invest Nordeste program, whose 15-startup cohort was selected in March 2026, with further editions planned for the Northeast and North regions.",
+   "tier": 2,
+   "funding": "R$500,000 - R$2,000,000 (Trilha AI)",
+   "equity": "8-15%, depending on stage and negotiation (Trilha AI)",
+   "duration": "6 weeks (Trilha AI sprint)",
+   "cadence": "Periodic editions; Trilha AI applications closed Oct 2025, Inova+Invest Nordeste 2026 cohort selected Mar 2026"
+  }
  },
  {
   "name": "Acequia Capital",
@@ -219,6 +370,33 @@
   "hq": "Los Angeles, USA"
  },
  {
+  "name": "Activate Fellowship",
+  "website": "https://activate.org",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Deep Tech",
+   "Hardware",
+   "Climate",
+   "Health/Bio"
+  ],
+  "region": "US",
+  "hq": "Berkeley, California, USA",
+  "program": {
+   "description": "A two-year, non-dilutive fellowship that helps scientists and engineers turn research into hard-tech companies. Fellows receive an annual living stipend plus $100,000 in R&D funding (more than $300k total over two years), lab access, and entrepreneurial training, and join one of five communities: Berkeley, Boston, Houston, New York, or the remote 'Activate Anywhere.' It is aimed at researchers at the pre-company stage, and Activate takes no equity.",
+   "tier": 1,
+   "funding": "More than $300k per fellow over two years: $100,000 R&D funding plus an annual living stipend and cost-of-living support; non-dilutive",
+   "equity": "None (non-dilutive)",
+   "duration": "2 years",
+   "location": "Berkeley, Boston, Houston, New York (in person) or Activate Anywhere (remote) — US",
+   "cadence": "1 cohort/year; Cohort 2026 applications closed Oct 28, 2025, cohort starts summer 2026"
+  }
+ },
+ {
   "name": "Afore Capital",
   "website": "https://www.afore.vc/",
   "status": "verified",
@@ -245,7 +423,15 @@
    "AI/ML"
   ],
   "region": "US",
-  "hq": "San Francisco, USA"
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "Collaborative Fund's residency for small teams building human-centered, design-led AI products, from idea stage through Series B, including an EIR track for individual builders still shaping an idea. Invests $50-500K on an uncapped, no-discount MFN SAFE (or at the price of a round closed within the last 60 days), with founders keeping full IP ownership. Started as a 10-week NYC cohort program (Cohort 2 kicked off January 2026) and now operates as a rolling-admission global residency with community events in NYC, SF, LA, London, and Paris plus an annual AI & Design Summit in NYC.",
+   "tier": 2,
+   "funding": "$50K-$500K",
+   "equity": "No fixed % — uncapped, no-discount MFN SAFE (or priced at a round within the last 60 days)",
+   "location": "Global residency — events in NYC, SF, LA, London, Paris; annual summit in NYC",
+   "cadence": "Rolling admissions, no deadline (earlier cohort model: Cohort 2 began Jan 2026)"
+  }
  },
  {
   "name": "Alchemist Accelerator",
@@ -261,7 +447,42 @@
    "Generalist"
   ],
   "region": "US",
-  "hq": "San Francisco, USA"
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "A six-month accelerator focused exclusively on enterprise and B2B startups (AI-SaaS and deeptech monetizing from enterprises), aimed at technical founders selling to businesses. Companies typically grant 5% equity and receive an average of about $30K in cash (net of a tuition offset) plus coaching, a customer/VC network, and free SF co-working. The format is hybrid: an in-person kickoff week in the SF Bay Area, then participation from anywhere, optimized for California and Europe time zones; the 2026 flagship class began January 22.",
+   "tier": 2,
+   "funding": "~$30,000 average investment proceeds (net of tuition offset), via SAFE, plus credits and perks",
+   "equity": "Typically 5% (flexible terms)",
+   "duration": "6 months",
+   "location": "Hybrid — remote-friendly with in-person kickoff week; SF Bay Area presence strongly encouraged",
+   "cadence": "Rolling application deadlines (decisions within ~3 weeks); 2026 flagship class began January 22"
+  }
+ },
+ {
+  "name": "Alliance DAO",
+  "website": "https://alliance.xyz/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Crypto/Web3",
+   "AI/ML",
+   "Fintech"
+  ],
+  "region": "Global",
+  "hq": "New York, USA (remote-first organization)",
+  "program": {
+   "description": "Widely regarded as the top crypto-native accelerator, open to technical founders globally at any stage from pre-product to traction, backing crypto, fintech and AI startups. Invests $500,000 via SAFE at a $5M post-money valuation with a 1:1 token side letter, plus an automatic additional $500,000 when the company closes its seed round. The 10-week program runs a 2-week in-person onboarding in New York City, 8 weeks remote, and an in-person Demo Day in NYC; the program itself is free.",
+   "tier": 1,
+   "funding": "$500,000 SAFE at $5M post-money + automatic $500,000 follow-on at seed",
+   "equity": "~10% via $500k SAFE at $5M post-money, with 1:1 token side letter (official site states 1:1, not 1:1.5)",
+   "duration": "10 weeks",
+   "location": "Hybrid — 2-week onboarding and Demo Day in New York City, 8 weeks remote",
+   "cadence": "Rolling applications, ~3 cohorts/year; ALL17 started May 11, 2026; ALL18 starts Sept 7, 2026 (apply by July 22)"
+  }
  },
  {
   "name": "AltaIR Capital",
@@ -355,7 +576,42 @@
    "Generalist"
   ],
   "region": "Global",
-  "hq": "Singapore"
+  "hq": "Singapore",
+  "program": {
+   "description": "Global founder residency that admits individuals and complete teams pre-idea, runs co-founder matching and validation in 26+ cities, and invests pre-seed capital only in teams it selects during the residency. There is no fee to attend; investment terms vary by location — the Continental Europe track commits €500k at inception, with the residency run from a Berlin hub plus Amsterdam and Munich launch pads. Upcoming 2026 residencies include Continental Europe (Sept 14), London (Sept 22), Jakarta (Jul 20), Sydney/Melbourne/Brisbane (Jul 27), Nairobi and Singapore (Oct 5).",
+   "tier": 1,
+   "funding": "Varies by location. Continental Europe: €500k committed at inception — €100k converting to ~8.5% equity + €100k uncapped MFN convertible + up to €300k follow-on (ARC), plus €4M+ in credits",
+   "equity": "Varies by location; Continental Europe ~8.5% for the first €100k (only if Antler invests)",
+   "duration": "~6 weeks (complete teams) to ~10 weeks (with co-founder matching); varies by location",
+   "location": "26+ cities worldwide — in person (Europe: London; Continental Europe hub Berlin with Amsterdam/Munich launch pads)",
+   "cadence": "Multiple cohorts/year per location; Continental Europe 2x/year (March & September — next starts Sept 14, 2026; London Sept 22, 2026)"
+  }
+ },
+ {
+  "name": "AppWorks Accelerator",
+  "website": "https://appworks.tw/accelerator/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "AI/ML",
+   "Deep Tech",
+   "Crypto/Web3"
+  ],
+  "region": "Asia",
+  "hq": "Taipei, Taiwan",
+  "program": {
+   "description": "Taipei-based accelerator running since 2010 for founders in Taiwan and Greater Southeast Asia, with cohorts of ~50 founders, 100+ mentors, and a 2,000+ founder alumni network. The program is completely free and equity-free; AppWorks' VC funds can separately lead or syndicate investment (equity, SAFE, token, or SAFT) where there is a fit. AW#33 (Sep–Dec 2026) prioritizes Manufacturing AI, Defense Tech, On-Chain Banking, and Post-Quantum Cryptography, with applications open May 18 – July 19, 2026.",
+   "tier": 2,
+   "funding": "No standard cheque; program is free, with optional investment from AppWorks Funds (equity, SAFE, token, or SAFT)",
+   "equity": "0% — no equity, tokens, or fees for the program",
+   "duration": "6 months (AW#33: Sep 8, 2026 kickoff to December 2026 Demo Day)",
+   "location": "Taipei — in person; Demo Days in Taipei, Singapore, Kuala Lumpur, and Jakarta",
+   "cadence": "~2 batches/year (33 batches since 2010); AW#33 applications close July 19, 2026"
+  }
  },
  {
   "name": "Array Ventures",
@@ -462,7 +718,16 @@
    "Generalist"
   ],
   "region": "Europe",
-  "hq": "Liverpool, United Kingdom"
+  "hq": "Liverpool, United Kingdom",
+  "program": {
+   "description": "Liverpool-based accelerator for digital tech startups from the UK and beyond that have a product or prototype and early traction. Up to 12 companies per cohort get a £25k investment via ASA, three months of coaching and workshops, office space for up to 9 months, and curated investor dinners in Liverpool and London plus a subsidised Slush trip. Companies can also raise up to £75k follow-on from the Baltic Ventures Angel Syndicate.",
+   "tier": 2,
+   "funding": "£25,000 via ASA, plus up to £75,000 follow-on from the Baltic Ventures Angel Syndicate (up to £100k total)",
+   "equity": "ASA converts to equity at the next qualifying round (£200k+ within 6 months) or at a pre-agreed backstop valuation if no raise",
+   "duration": "3 months (Sept–Nov 2026; Demo Day 26 Nov 2026, London Investor Dinner 21 Jan 2027)",
+   "location": "Liverpool (Baltic Triangle) — ~1.5 days/week in person required; remote/international founders welcome, visa support available",
+   "cadence": "1 cohort/year; 2026 applications closed 29 May 2026"
+  }
  },
  {
   "name": "BAM Ventures",
@@ -478,6 +743,31 @@
   ],
   "region": "US",
   "hq": "Los Angeles, USA"
+ },
+ {
+  "name": "Base Batches",
+  "website": "https://www.basebatches.xyz/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Crypto/Web3",
+   "AI/ML"
+  ],
+  "region": "Global",
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "Coinbase's cohort program for founders building on Base, its Ethereum L2. In Batch 003 the Startup Track admits early-stage teams (pre-product to pre-seed, under ~$250K raised); the top 15 receive a $10K grant, an 8-week virtual program with a weekly dedicated advisor, access to Base builder hubs, and a slot at an in-person Demo Day in San Francisco. At least three teams get a $50K investment from the Base Ecosystem Fund and all are considered by Coinbase Ventures.",
+   "tier": 1,
+   "funding": "$10,000 grant to the top 15 Startup Track teams; at least 3 teams receive a $50,000 investment from the Base Ecosystem Fund (subject to diligence); all teams considered by Coinbase Ventures",
+   "equity": "Grants are non-dilutive; the $50k Base Ecosystem Fund investment is on separate terms",
+   "duration": "8 weeks (plus a virtual kickoff week)",
+   "location": "Virtual, with optional access to Base builder hubs (SF, NYC, London, Network School); in-person Demo Day in San Francisco",
+   "cadence": "Periodic batches (Batch 003 ran in H1 2026, Demo Day in May)"
+  }
  },
  {
   "name": "Base Ventures",
@@ -543,6 +833,54 @@
   "hq": "San Francisco, USA"
  },
  {
+  "name": "Berkeley Blockchain Xcelerator",
+  "website": "https://xcelerator.berkeley.edu/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "US",
+  "hq": "Berkeley, California, USA",
+  "program": {
+   "description": "An equity-free accelerator for blockchain and web3 startups run jointly by UC Berkeley's Sutardja Center (SCET), Haas School of Business and Blockchain at Berkeley. Cohorts of roughly 10-16 teams with MVP/beta-stage products get mentorship, UC Berkeley ecosystem access and introductions to grants and partner capital, with no dilution. Best for technical founding teams that want university credibility and investor exposure without giving up equity.",
+   "tier": 2,
+   "funding": "Equity-free; access to up to ~$200,000 in grants and partner capital ($0-$200k)",
+   "equity": "None (equity-free)",
+   "duration": "12 weeks",
+   "location": "Berkeley, California — hybrid (accepts globally distributed teams)",
+   "cadence": "~1 cohort per year (~10-16 teams)"
+  }
+ },
+ {
+  "name": "Berkeley SkyDeck",
+  "website": "https://skydeck.berkeley.edu",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Berkeley, USA",
+  "program": {
+   "description": "UC Berkeley's flagship accelerator, selecting roughly 20-25 cohort teams every six months plus a larger equity-free Pad-13 track. Open to early-stage startups worldwide, with an edge for teams that want access to Berkeley's advisor and researcher network. Cohort companies get a $210K investment from the Berkeley SkyDeck Fund, dedicated desk space at SkyDeck, and 900+ advisors.",
+   "tier": 1,
+   "funding": "$210,000 from the Berkeley SkyDeck Fund (standard post-money cap SAFE)",
+   "equity": "7.5%",
+   "duration": "6 months (Batch 23: Nov 2, 2026 – Apr 15, 2027)",
+   "location": "Berkeley, CA — in person (startup's primary residence is SkyDeck)",
+   "cadence": "2 batches/year; Batch 23 applications open Jul 20 – Aug 21, 2026"
+  }
+ },
+ {
   "name": "Bessemer Venture Partners",
   "website": "https://www.bvp.com/",
   "status": "verified",
@@ -574,6 +912,55 @@
   ],
   "region": "US",
   "hq": "New York, USA"
+ },
+ {
+  "name": "Betaworks Camp",
+  "website": "https://www.betaworks.com/camp",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "AI/ML",
+   "Deep Tech"
+  ],
+  "region": "US",
+  "hq": "New York, USA",
+  "program": {
+   "description": "Betaworks' thematic 12-week cohort-based investment and residency program, running since 2016 with 8-12 pre-seed companies per camp at its NYC Meatpacking District office. Each camp has a frontier-tech theme; Spring 2026 was 'Agent Systems' (March 2 - May 15, 2026), following App Layer and Agents camps. In-person attendance is required for the first and final two weeks, with hybrid options in between; founders get mentorship, weekly workshops, office space, and investor access.",
+   "tier": 2,
+   "funding": "Up to $500,000 total: up to $250K from Betaworks Ventures on an uncapped SAFE with 25% discount (plus 5% common stock), and up to $250K from syndicate partners on uncapped SAFEs with the same 25% discount",
+   "equity": "5% common stock to Betaworks + uncapped SAFE with 25% discount",
+   "duration": "12 weeks",
+   "location": "New York City (Meatpacking District) — in person; first and final two weeks required IRL, hybrid options in between",
+   "cadence": "2 camps/year (Spring: Mar-May, apps Dec-Jan; Fall: Aug-Nov, apps Jun-Jul)"
+  }
+ },
+ {
+  "name": "Bethnal Green Ventures",
+  "website": "https://www.bethnalgreenventures.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Generalist",
+   "Climate",
+   "Health/Bio"
+  ],
+  "region": "Europe",
+  "hq": "London, UK",
+  "program": {
+   "description": "Early-stage 'tech for good' VC in London running a twice-yearly Tech for Good Programme for founders using technology on social and environmental problems (climate, health, inequality). Successful applicants get £60,000 upfront for 7% equity plus a six-week hybrid programme (online Wednesdays, in-person Fridays in London) followed by six weeks of coaching. Teams must be UK-incorporated (or willing to be) companies limited by shares; acceptance rate is around 3-4%, and BGV makes follow-on investments through Series A/B.",
+   "tier": 2,
+   "funding": "£60,000 upfront",
+   "equity": "7%",
+   "duration": "6-week intensive programme + 6 further weeks of coaching and mentoring",
+   "location": "London — hybrid (online sessions Wednesdays, in-person Fridays at BGV's London office; ~8-10 hrs/week)",
+   "cadence": "2 cohorts/year (Spring and Autumn); Autumn 2026 applications closed, programme starts September 2026"
+  }
  },
  {
   "name": "Better Tomorrow Ventures",
@@ -671,6 +1058,29 @@
   "hq": "Mumbai, India"
  },
  {
+  "name": "BNB Chain MVB (Most Valuable Builder) Accelerator",
+  "website": "https://www.bnbchain.org/en/programs/mvb",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "Global",
+  "hq": "Global (remote; BNB Chain ecosystem)",
+  "program": {
+   "description": "A short accelerator for early-stage teams building on BNB Chain, jointly run by YZi Labs (formerly Binance Labs) and CoinMarketCap's CMC Labs. Selected projects get 1:1 mentorship and a Launch-as-a-Service package of tech support, infrastructure credits, and marketing tools worth up to $300,000, plus consideration for direct investment from YZi Labs. It has run 9+ seasons and incubated 147+ projects including Galxe, SpaceID, and AltLayer.",
+   "tier": 1,
+   "funding": "No fixed cash from the accelerator; Launch-as-a-Service resource/credit package worth up to $300,000, plus consideration for direct investment by YZi Labs",
+   "duration": "4 weeks",
+   "location": "Remote / virtual (global)",
+   "cadence": "Rolling applications; a new batch of projects is selected roughly every two weeks (replaced the earlier ~3x/year seasonal model)"
+  }
+ },
+ {
   "name": "Bonfire Ventures",
   "website": "https://www.bonfirevc.com/",
   "status": "verified",
@@ -716,6 +1126,30 @@
   "hq": "San Francisco, USA"
  },
  {
+  "name": "Breakthrough Energy Fellows",
+  "website": "https://www.breakthroughenergy.org",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Climate",
+   "Deep Tech"
+  ],
+  "region": "Global",
+  "hq": "Kirkland, Washington, USA",
+  "program": {
+   "description": "Breakthrough Energy Fellows is Bill Gates-backed Breakthrough Energy's fellowship for early-stage climate-tech innovators, run in annual cohorts (Cohort 6 begins September 2026). The flagship Innovator track is a full-time, roughly one-year commitment for founders and researchers commercializing hard-tech emissions solutions who have typically raised under $2M in dilutive funding. Selected fellows receive up to $500,000 in catalytic funding plus $500,000+ in in-kind support (lab/office space, equipment, staffing, technical mentorship) and access to Breakthrough Energy's investor and corporate-partner network.",
+   "tier": 1,
+   "funding": "Innovator track: up to $500,000 in catalytic funding plus $500,000+ in in-kind support (lab/office space, equipment, staffing, mentorship)",
+   "duration": "~1 year (full-time)",
+   "location": "Global / remote-first (fellows based worldwide; cohorts across US, Europe, and Southeast Asia)",
+   "cadence": "Annual cohort (Cohort 6 begins September 2026; Cohort 6 applications opened via Concept Paper due Nov 2025)"
+  }
+ },
+ {
   "name": "Brick & Mortar Ventures",
   "website": "https://brickmortar.vc/",
   "status": "verified",
@@ -744,7 +1178,16 @@
    "Crypto/Web3"
   ],
   "region": "Europe",
-  "hq": "Amsterdam, Netherlands"
+  "hq": "Amsterdam, Netherlands",
+  "program": {
+   "description": "build3 is a sustainability and impact-focused accelerator in Goa, India for early-stage startups aligned with the UN Sustainable Development Goals and ESG standards. Its next intake (Cohort 3) starts February 16, 2026 with a one-week bootcamp in Goa, then runs virtually over roughly 10 weeks with an optional in-person Goa residency, ending in a demo day to impact investors. It provides a fixed 25 lakh (~$30k) investment on founder-friendly terms - no valuation set upfront and only 1.5% equity transferred on startup commencement - plus up to 24 months of ongoing support.",
+   "tier": 2,
+   "funding": "25 lakh (~$30k) fixed investment",
+   "equity": "1.5% (transferred on commencement; no upfront valuation)",
+   "duration": "~10 weeks core program; up to 24 months of support",
+   "location": "Virtual, with a 1-week Goa bootcamp and optional in-person Goa residency",
+   "cadence": "Cohort-based (next: Cohort 3, starts Feb 16, 2026)"
+  }
  },
  {
   "name": "Bullish",
@@ -780,6 +1223,29 @@
   "hq": "Cambridge, USA"
  },
  {
+  "name": "Carbon13",
+  "website": "https://carbonthirteen.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Climate",
+   "Deep Tech"
+  ],
+  "region": "Europe",
+  "hq": "Cambridge, UK",
+  "program": {
+   "description": "Venture builder for the climate emergency that brings together cohorts of ~80 scientists, engineers and commercial operators in Cambridge and Berlin to form teams and build climate tech startups, each targeting a net 10M tonnes CO2e per year reduction at scale. Teams that pass the Investment Committee after the validation phase receive pre-seed equity investment and continue into a 4-month scaling phase. Latest cohort kicked off end of April 2026 (applications opened 12 January); also runs a Venture Accelerator for existing pre-seed climate startups.",
+   "tier": 2,
+   "funding": "£120k-£150k equity investment for ventures approved by the Investment Committee (programme page states £120,000; FAQ states £150,000 with £60,000 returned to Carbon13 as Phase 3 fee, net £90,000 to the venture; Berlin figures in EUR)",
+   "duration": "8 months in three phases (6-10 weeks teaming and ideation, 3 months validation, 4 months post-investment)",
+   "location": "Cambridge, UK and Berlin, Germany — hybrid with mandatory in-person days in Phase 1",
+   "cadence": "Roughly one cohort per year per city; most recent cohort kicked off April 2026"
+  }
+ },
+ {
   "name": "Cardumen Capital",
   "website": "https://www.cardumencapital.com/",
   "status": "verified",
@@ -809,6 +1275,55 @@
   ],
   "region": "US",
   "hq": "Salt Lake City, USA"
+ },
+ {
+  "name": "Character Labs",
+  "website": "https://www.character.vc/labs",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "AI/ML",
+   "Enterprise/SaaS"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "Five-week accelerator from Character Capital, run by ex-GV partners Jake Knapp and John Zeratsky (creators of the Design Sprint and authors of Sprint), focused entirely on reaching product-market fit through structured sprints. Each startup receives $200,000 for 5% equity with no contingencies or fees; up to 15 companies per cohort, ideally teams of 2-3 pre-PMF software founders. G7 runs Oct 27 - Nov 25, 2026, opening with an in-person Foundation Sprint in San Francisco followed by remote sprints.",
+   "tier": 2,
+   "funding": "$200,000",
+   "equity": "5%",
+   "duration": "5 weeks",
+   "location": "Hybrid — first week in person in San Francisco, remainder remote (US Pacific hours)",
+   "cadence": "~2 cohorts/year (G6 spring 2026; G7 Oct 27 - Nov 25, 2026, applications due Sep 23, 2026)"
+  }
+ },
+ {
+  "name": "Co-creation Hub (CcHUB)",
+  "website": "https://cchub.africa/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "Lagos, Nigeria",
+  "program": {
+   "description": "Pan-African innovation hub headquartered in Lagos with centres in Nairobi (iHub), Kigali, and Windhoek, running application-based incubation and acceleration programs alongside a growth capital fund. Its flagship 2026 program is the Mastercard Foundation EdTech Fellowship Cohort 4, which gives 12 early-stage Nigerian edtech startups $100,000 equity-free plus an 18-month structured incubation. Cohort 4 targets founders building for underserved learners: disability, displaced and rural communities, girls and women, and education data systems.",
+   "tier": 2,
+   "funding": "$100,000 equity-free per startup (Mastercard Foundation EdTech Fellowship Cohort 4, 2026); terms of other CcHUB tracks vary and current amounts are not published",
+   "equity": "0% (EdTech Fellowship is equity-free)",
+   "duration": "18 months (12-month incubation + 6-month post-incubation) for the EdTech Fellowship",
+   "location": "Lagos, Nigeria — hubs in Nairobi, Kigali, Windhoek; EdTech Fellowship Cohort 4 requires incorporation and physical presence in Nigeria",
+   "cadence": "Program-dependent; EdTech Fellowship runs annual cohorts (Cohort 4 applications Feb 27 – Apr 10, 2026, now closed)"
+  }
  },
  {
   "name": "Coinbase",
@@ -857,6 +1372,29 @@
   "hq": "London, UK"
  },
  {
+  "name": "Conception X",
+  "website": "https://www.conceptionx.org/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Deep Tech"
+  ],
+  "region": "Europe",
+  "hq": "London, UK",
+  "program": {
+   "description": "UK non-profit running Europe's largest venture programme for PhD students, postdocs and early-career researchers turning research into deep-tech startups, drawing from 90+ universities across the UK and Europe. The flagship 9-month Venture Scientist programme (VS100, ~100-115 researchers/year, March-November, mostly virtual with some London events) is equity-free and designed to run alongside a PhD, with investment and coaching for top teams and a separate CX Raise fast-track for teams preparing a pre-seed/seed round. Alumni include Humanloop (team acquired by Anthropic in 2025), Rahko and Kapacity.io; 700+ founders and 200+ startups supported to date.",
+   "tier": 2,
+   "funding": "No standard cash investment — equity-free programme; investment and expert coaching offered to top teams, plus angel funding for selected CX Raise cohorts",
+   "equity": "0% (equity-free programme)",
+   "duration": "9 months (March-November), designed to fit around PhD research; CX Raise is a shorter fast-track",
+   "location": "Mostly virtual, with some events in London",
+   "cadence": "1 flagship cohort/year; applications for the next VS100 cohort open September 2026 (2026 cohort deadline was 16 Dec 2025)"
+  }
+ },
+ {
   "name": "Congruent Ventures",
   "website": "https://www.congruentvc.com/",
   "status": "verified",
@@ -870,6 +1408,29 @@
   ],
   "region": "US",
   "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Conviction Embed",
+  "website": "https://embed.conviction.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "AI/ML"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "Conviction's (Sarah Guo's fund) cohort program for pre-seed and seed founders building AI-native 'Software 3.0' products on foundation models. Batches of 10-12 companies with under 1% acceptance in early cohorts; the 7th cohort is recruiting. Mostly remote, with a mandatory in-person retreat in San Francisco and an angel/VC demo day, plus access to Conviction's advisors and visiting AI researchers and executives.",
+   "tier": 2,
+   "funding": "$250,000 on an uncapped, no-discount MFN SAFE (or at the price of a round closed within the last 60 days), plus ~$1.2M in credits: $350K AWS, $350K Azure, and $500K+ from OpenAI, Anthropic, Baseten, Pinecone, Vercel, and Weights & Biases",
+   "equity": "No fixed % (uncapped MFN SAFE)",
+   "location": "Mostly remote; mandatory in-person retreat and demo day in San Francisco",
+   "cadence": "~2 cohorts/year"
+  }
  },
  {
   "name": "Correlation Ventures",
@@ -950,7 +1511,16 @@
    "Generalist"
   ],
   "region": "Global",
-  "hq": "Toronto, Canada"
+  "hq": "Toronto, Canada",
+  "program": {
+   "description": "A nine-month, mentor-driven program for seed-stage science and technology startups run out of university sites worldwide. Founders work through eight-week objective-setting sessions with entrepreneurs, investors, and scientists across roughly 20 thematic streams (AI, quantum, climate, space, health, defence, and more). CDL charges no fees and takes no equity; it does not invest directly but connects founders to its investor network.",
+   "tier": 1,
+   "funding": "None — CDL does not invest; equity-free and no fees (structured mentorship plus investor introductions only)",
+   "equity": "None (equity-free)",
+   "duration": "9 months (five in-person sessions, ~8 weeks apart)",
+   "location": "16 sites across 10 countries (Canada, US, Europe, Australia, Middle East/Asia) at partner universities — in person",
+   "cadence": "1 cohort/year (Sept–May); 2026/27 applications close July 24, 2026 (some streams earlier)"
+  }
  },
  {
   "name": "Crosslink Capital",
@@ -967,6 +1537,30 @@
   ],
   "region": "US",
   "hq": "San Francisco, USA"
+ },
+ {
+  "name": "CV Labs Incubation Program",
+  "website": "https://www.cvlabs.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "Europe",
+  "hq": "Zug, Switzerland",
+  "program": {
+   "description": "CV Labs (part of CV VC) runs a batch-based Web3 accelerator/incubation program for blockchain startups at the centre of Switzerland's Crypto Valley in Zug. Selected teams get investment plus access to 70+ mentors, protocols and investors, and up to $500k in follow-on. It suits early-stage crypto/web3 founders wanting a European institutional and regulatory network.",
+   "tier": 2,
+   "funding": "$150k ($115k in cash + $35k program value), plus up to $500k in follow-on investment; ~$3k travel stipend and perks worth $200k+",
+   "equity": "6% equity with a token side letter",
+   "duration": "10 weeks (2 weeks in person in Switzerland + 8 weeks remote)",
+   "location": "Zug, Switzerland — hybrid; co-working access in Vaduz, Cape Town, Berlin and Lisbon",
+   "cadence": "Batch-based (Batch_08 upcoming; Batch_07 closed)"
+  }
  },
  {
   "name": "Davidovs VC",
@@ -1012,6 +1606,55 @@
   ],
   "region": "US",
   "hq": "San Francisco, USA"
+ },
+ {
+  "name": "DIFC Innovation Hub (FinTech Hive / DIFC Launchpad)",
+  "website": "https://www.innovationhub.difc.ae/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Fintech",
+   "AI/ML",
+   "Crypto/Web3"
+  ],
+  "region": "MENA",
+  "hq": "Dubai, UAE",
+  "program": {
+   "description": "Innovation arm of the Dubai International Financial Centre, home to the first and largest fintech accelerator in the MEASA region, plus rotating partner-led startup programs (in 2026: XRPL Accelerator with Ripple, Transguard Early-Stage Accelerator, du Business AI series, and the CapitalHer program starting March 2026). The flagship FinTech Accelerator is industry-driven and equity-free, built around proof-of-concept work with partner banks and insurers, DFSA regulatory guidance, and an investor demo day; 200+ startups have graduated and collectively raised over $600M. Best suited to fintech, insurtech, regtech, and Islamic fintech startups with a working product targeting Gulf financial institutions.",
+   "tier": 2,
+   "equity": "0% (FinTech Accelerator is equity-free; per third-party reviews, not stated on official site)",
+   "duration": "~12 weeks (FinTech Accelerator, two 6-week sprints; per third-party review)",
+   "location": "Dubai (DIFC), UAE — in person",
+   "cadence": "Multiple programs per year (recurring FinTech Accelerator editions plus partner-led cohorts; CapitalHer registration closed 30 Mar 2026)"
+  }
+ },
+ {
+  "name": "DMZ (Toronto Metropolitan University)",
+  "website": "https://dmz.torontomu.ca/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "Toronto, Canada",
+  "program": {
+   "description": "DMZ is Toronto Metropolitan University's tech startup incubator, offering an 18-month program (in person in Toronto or virtual) for early-stage software founders. The flagship Incubator takes 2–2.5% equity with no cash grant, providing mentorship, investor and customer access, and community; a separate, Town-funded DMZ Caledon site is free and equity-free. Its alumni base spans 2,600+ startups that have collectively raised $3.1B+.",
+   "tier": 2,
+   "funding": "No direct investment / no cash grants; provides investor and customer access. (Flagship Incubator only takes equity; DMZ Caledon takes none.)",
+   "equity": "2–2.5% for the flagship DMZ Incubator (no cash grant); DMZ Caledon is equity-free and free to join",
+   "duration": "18 months (flagship Incubator); DMZ Caledon runs Sept–Dec",
+   "location": "Toronto, Canada — in person plus virtual option; additional DMZ Caledon site (Bolton)",
+   "cadence": "Cohort intakes — Incubator Fall 2026 deadline Sept 1, 2026; DMZ Caledon 2026 deadline July 10, 2026"
+  }
  },
  {
   "name": "Dogpatch Labs",
@@ -1060,6 +1703,32 @@
   "hq": "San Francisco, USA"
  },
  {
+  "name": "Elemental Impact",
+  "website": "https://elementalimpact.com",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Climate",
+   "Deep Tech",
+   "Hardware"
+  ],
+  "region": "US",
+  "hq": "Honolulu, Hawaii, USA",
+  "program": {
+   "description": "Elemental Impact (formerly Elemental Excelerator) is a nonprofit climate investor that backs startups deploying first-of-a-kind climate projects with catalytic capital and hands-on support, emphasizing benefit to the communities where projects are built. Companies apply on a rolling basis to tracks including a Project Track (about $1M per deployment, Series A and beyond) and a Go-to-Market track, with a separate Data Center Innovation Initiative investing $500k–$5M per project in up to 10 startups through 2027. It is aimed at later-stage climate hardware and infrastructure companies scaling real-world deployments rather than a fixed-length cohort accelerator.",
+   "tier": 1,
+   "funding": "Up to ~$3M per company across tracks; Project Track deploys ~$1M per first-of-a-kind project (Series A+); Data Center Innovation Initiative invests $500k–$5M per project",
+   "equity": "Varies (catalytic capital — equity or non-dilutive project funding depending on the track; not a fixed equity percentage)",
+   "location": "Remote-first — HQ Honolulu, HI; projects deployed across the US and globally",
+   "cadence": "Rolling applications"
+  }
+ },
+ {
   "name": "Elevation Capital",
   "website": "https://www.elevationcapital.com/",
   "status": "verified",
@@ -1105,6 +1774,53 @@
   "hq": "Arlington, USA"
  },
  {
+  "name": "Emprelatam",
+  "website": "https://emprelatam.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "LatAm",
+  "hq": "Uruguay (remote-first, operates across Latin America)",
+  "program": {
+   "description": "Equity-free remote accelerator for Latin American startups from $0 to ~$3M revenue, founded in 2019 by Juan Manuel Amorós; roughly 1,100 startups accelerated across 20 countries. The core Aceleración (EPA) track is a 10-week remote program for pre-seed startups with monthly sales, with an assigned mentor, US$150,000+ in perks (including $25k Google Cloud and $10k AWS credits) and access to a demo day before investors. No cash investment, no equity and no success fees; three other tracks (Exploración, Grow & Scale, Internacionalización) cover earlier and later stages.",
+   "tier": 2,
+   "funding": "No cash investment; US$150,000+ in perks/credits on the Aceleración track",
+   "equity": "0% (equity-free)",
+   "duration": "10 weeks (Aceleración track)",
+   "location": "Remote across Latin America; Internacionalización track adds a 1-week in-person trip",
+   "cadence": "Multiple cohorts/year across four tracks; mid-2026 cohorts started July 8–20, 2026"
+  }
+ },
+ {
+  "name": "Encode Club (Encode x Solana Accelerator)",
+  "website": "https://www.encodeclub.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Crypto/Web3",
+   "AI/ML"
+  ],
+  "region": "Global",
+  "hq": "London, UK",
+  "program": {
+   "description": "An 8-week virtual accelerator run by Encode Club, a London-based web3 and AI developer community, in partnership with Solana. It is education-heavy: weekly workshops plus individualized sessions on technical development, design, product testing, and fundraising, with mentor and investor introductions rather than a standard capital check. The 2026 cohort is aimed primarily at teams from Encode's past or present Solana programmes building on Solana.",
+   "tier": 2,
+   "duration": "8 weeks",
+   "location": "Remote / virtual (global); organisation based in London, UK",
+   "cadence": "Runs periodically (2026 Solana edition); Encode runs multiple bootcamps and accelerators year-round"
+  }
+ },
+ {
   "name": "Eniac Ventures",
   "website": "https://www.eniac.vc/",
   "status": "verified",
@@ -1132,7 +1848,39 @@
    "Generalist"
   ],
   "region": "Europe",
-  "hq": "London, UK"
+  "hq": "London, UK",
+  "program": {
+   "description": "The original 'talent investor': EF selects exceptional individuals pre-team and pre-idea, matches cofounders, and funds the companies they form. Hubs run in London, Bangalore, and San Francisco (Paris and Berlin programs were scrapped in favor of the US push), plus The Bridge, an 8-week Bay Area residency for non-US founders whose inaugural cohort started April 2026 with Summer and Fall 2026 cohorts open. Founders get an equity-free stipend while forming, then up to $250K investment, up to $5M in follow-on, and $600K+ in credits (Azure, OpenAI, Anthropic, GitHub).",
+   "tier": 1,
+   "funding": "Equity-free stipend during the form phase, then up to $250,000: $125K for 8% via a post-money EF SAFE plus an optional $125K uncapped MFN SAFE (tied to relocating to San Francisco as a Delaware C-corp); up to $5M follow-on and $600K+ in credits",
+   "equity": "8% for $125K (post-money SAFE); optional further $125K on uncapped MFN SAFE",
+   "location": "London, Bangalore, San Francisco — in person; The Bridge is an 8-week residency in the Bay Area with housing covered",
+   "cadence": "Multiple cohorts/year (Bridge: Spring, Summer, and Fall 2026 cohorts)"
+  }
+ },
+ {
+  "name": "Entrepreneurs Roundtable Accelerator (ERA)",
+  "website": "https://www.eranyc.com",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "New York City, USA",
+  "program": {
+   "description": "NYC's largest accelerator, running two four-month cohorts a year for early-stage startups that relocate to its New York facility. Each class of 10-15 companies gets $150K on a 6% post-money SAFE plus mentorship from 500+ resident experts. Portfolio of 400+ startups that have raised over $2B.",
+   "tier": 2,
+   "funding": "$150,000 on a post-money SAFE",
+   "equity": "6%",
+   "duration": "4 months",
+   "location": "New York City — in person (relocation required for the program)",
+   "cadence": "2 cohorts/year (winter starts January, summer starts June); Summer 2026 closed, Winter 2027 applications next"
+  }
  },
  {
   "name": "Equal Ventures",
@@ -1181,6 +1929,30 @@
   "hq": "New York, USA"
  },
  {
+  "name": "EWOR Fellowship",
+  "website": "https://www.ewor.com/fellowship",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "Berlin, Germany",
+  "program": {
+   "description": "EWOR runs a highly selective, virtual-first founder fellowship, accepting roughly 35 fellows per year from about 35,000 applicants, for both idea-stage and proven repeat founders. Accepted fellows get up to EUR 500k in funding with EWOR acting as first investor, plus 1:1 sparring with unicorn founders and access to a 10,000+ expert and advisor network. The program is modular with no fixed timeline, reviews applications on a rolling basis, and raised EUR 60M in 2025 to scale its Global Founder Fellowship.",
+   "tier": 2,
+   "funding": "Up to EUR 500,000 per fellow (Traction track): approx. EUR 110k cash plus approx. EUR 390k via an uncapped MFN SAFE/convertible; Ideation track up to EUR 300k",
+   "equity": "~7% for the EUR 500k (Traction); Ideation track charges a 3% equity tuition fee only if EWOR invests",
+   "duration": "Modular, no fixed term",
+   "location": "Remote-first (virtual, global reach)",
+   "cadence": "Rolling applications"
+  }
+ },
+ {
   "name": "Expert Dojo",
   "website": "https://expertdojo.com/",
   "status": "verified",
@@ -1193,7 +1965,15 @@
    "Generalist"
   ],
   "region": "US",
-  "hq": "Santa Monica, USA"
+  "hq": "Santa Monica, USA",
+  "program": {
+   "description": "Expert Dojo is a Santa Monica-based international accelerator running virtual cohorts with a heavy growth-marketing and customer-acquisition focus, aimed at early-stage technology startups pushing toward Series A. Standard deals invest roughly $50k-$100k for a 3.5%-7% stake (partly delivered as program services), with up to $1M in follow-on for companies that show strong growth. In FY2026 it also launched a $15M India-dedicated fund committing about $100k each to 20-25 early-stage Indian startups in AI, fintech, B2B and SaaS.",
+   "tier": 2,
+   "funding": "$50k for 3.5% (up to $100k / 7%); up to $1M follow-on. India cohort: ~$100k/startup from a $15M FY2026 India fund",
+   "equity": "3.5%-7%",
+   "location": "Remote / virtual; HQ Santa Monica, CA",
+   "cadence": "Rolling applications; multiple cohorts per year"
+  }
  },
  {
   "name": "f7 Ventures",
@@ -1243,6 +2023,32 @@
   "hq": "Los Angeles, USA"
  },
  {
+  "name": "FinTech Innovation Lab (Accenture)",
+  "website": "https://www.fintechinnovationlab.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Fintech",
+   "Enterprise/SaaS"
+  ],
+  "region": "Global",
+  "hq": "New York, USA (also London and Hong Kong labs)",
+  "program": {
+   "description": "The FinTech Innovation Lab is a 12-week, highly competitive accelerator run by Accenture (with the Partnership Fund for New York City) that pairs early- to growth-stage enterprise fintech companies with major banks and financial institutions to validate product-market fit and enterprise adoption. It takes no equity and charges no fee; participants get mentorship, proof-of-concept opportunities, and structured access to 40+ financial-services partners such as Goldman Sachs, JPMorgan Chase, Barclays and HSBC. It runs annual cohorts across three regional labs: New York, London, and Asia-Pacific (Hong Kong).",
+   "tier": 2,
+   "funding": "No direct investment; a mentorship and proof-of-concept program connecting startups with 40+ bank/FS partners",
+   "equity": "0% (no equity, no fees)",
+   "duration": "12 weeks",
+   "location": "New York, London, and Asia-Pacific (Hong Kong) — in person",
+   "cadence": "Annual (one cohort per regional lab); London 2026 applications close Nov 28, 2026"
+  }
+ },
+ {
   "name": "First Pick Ventures",
   "website": "https://firstpick.vc/",
   "status": "verified",
@@ -1287,6 +2093,30 @@
   ],
   "region": "US",
   "hq": "New York, USA"
+ },
+ {
+  "name": "Flat6Labs",
+  "website": "https://flat6labs.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "MENA",
+  "hq": "Cairo, Egypt",
+  "program": {
+   "description": "MENA's largest accelerator and seed investor, active in 2026 with programs across 11 markets including Egypt, Saudi Arabia, Jordan, Tunisia, Morocco, Lebanon, Iraq, UAE, Palestine, Bahrain and Pakistan, managing eight seed funds with $85M AUM. Programs run about 4 months and combine cash seed funding with mentorship, office space, legal/marketing support and demo days; the flagship Riyadh Seed Program (SAR 500K cash seed funding, up to SAR 2.4M follow-on) held its sixth demo day on Jan 15, 2026. Aimed at pre-seed to pre-Series A tech founders in each program's local market.",
+   "tier": 2,
+   "funding": "Varies by program: ~$65k-$120k initial cash (Riyadh Seed Program: SAR 500,000), follow-on ~$120k-$500k (Riyadh: up to SAR 2.4M)",
+   "equity": "Up to 10% maximum (varies by office/program)",
+   "duration": "4 months (Riyadh Seed Program; varies by program)",
+   "location": "In person across 11 MENA+ markets (Cairo, Riyadh, Amman, Tunis, Abu Dhabi and others)",
+   "cadence": "Multiple cycles/year across locations; Riyadh Seed Program ~2 cycles/year (20+ Saudi startups annually)"
+  }
  },
  {
   "name": "Flex Capital",
@@ -1363,7 +2193,16 @@
    "Enterprise/SaaS"
   ],
   "region": "US",
-  "hq": "New York, USA"
+  "hq": "New York, USA",
+  "program": {
+   "description": "Forum Ventures runs a pre-seed accelerator for B2B SaaS and AI-first founders, typically those with an MVP and under $500k raised, operated remotely with offices in Toronto, New York, and San Francisco. It invests $100,000 for 7.5% on a post-money SAFE and pairs each company with a dedicated Managing Director who acts as a fractional co-founder over roughly 15 weeks focused on go-to-market and fundraising. The 2026 program runs Winter and Summer cohorts with tracks for AI/LLM applications, fintech, and supply-chain SaaS.",
+   "tier": 2,
+   "funding": "$100,000",
+   "equity": "7.5% on a post-money SAFE",
+   "duration": "~15 weeks",
+   "location": "Remote-friendly (work from anywhere); offices in Toronto, New York, and San Francisco",
+   "cadence": "2 cohorts per year (Winter and Summer)"
+  }
  },
  {
   "name": "Foundation Capital",
@@ -1396,6 +2235,56 @@
   "hq": "Cambridge, USA"
  },
  {
+  "name": "Founder Institute",
+  "website": "https://fi.co/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "Palo Alto, USA",
+  "program": {
+   "description": "Founder Institute is a pre-seed accelerator and company builder that runs a 14-week, part-time program taking founders from idea to an incorporated, fundable company. It operates across 200+ cities plus virtual cohorts, making it one of the largest programs by geographic reach. There is no cash investment; instead founders pay a refundable entrance fee and pledge a 2.5% warrant per company into a shared Equity Collective.",
+   "tier": 1,
+   "funding": "None — no cash investment. Refundable entrance fee (~$799 USD by the early deadline, varies by city; higher after) that is 100% refundable before the 'Revenue & Business Models' session.",
+   "equity": "2.5% warrant per company, pledged into the shared Equity Collective",
+   "duration": "14 weeks (part-time; ~4 months)",
+   "location": "200+ cities worldwide plus virtual cohorts",
+   "cadence": "Rolling cohorts across cities; 2026 early application deadline Jul 14, final deadline Oct 6"
+  }
+ },
+ {
+  "name": "Founders Factory",
+  "website": "https://foundersfactory.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Fintech",
+   "Health/Bio",
+   "Climate",
+   "Deep Tech"
+  ],
+  "region": "Europe",
+  "hq": "London, UK",
+  "program": {
+   "description": "London-based accelerator and venture studio funded by corporate partners (Aviva, L'Oreal, Rio Tinto, Northwestern Medicine, HSBC), running sector-specific programs in fintech, health, mining tech, industrials and climate across London, Chicago, Perth, Singapore and other hubs. Accelerator companies get £30k-£250k plus roughly four months of hands-on operational support from a 60+ operator team and access to corporate pilots. The venture studio co-builds companies from scratch for £50k initially plus £150k at MVP spin-out.",
+   "tier": 2,
+   "funding": "Accelerator: £30k–£250k (UK baseline £30k); Venture studio: £50k initial + £150k at MVP spin-out",
+   "equity": "Accelerator: up to 7% (typically 4–6% in the UK); Venture studio: 25%",
+   "duration": "~4 months cohort (accelerator); studio ongoing until spin-out",
+   "location": "London HQ; programs in London, Chicago, Perth, Singapore and hybrid/global depending on partner program",
+   "cadence": "Multiple sector accelerator cohorts per year; several programs listed as open for applications (Typeform), studio applications rolling"
+  }
+ },
+ {
   "name": "Founders, Inc.",
   "website": "https://f.inc/",
   "status": "verified",
@@ -1408,7 +2297,15 @@
    "Generalist"
   ],
   "region": "US",
-  "hq": "San Francisco, USA"
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "Early-stage fund and 42,000 sq ft Fort Mason campus in San Francisco that writes first checks of $100K-$250K into founders working on hard problems in emerging domains (AI, AR/VR, robotics, hardware). Runs cohort programs including Off Season, a six-week summer program for students, recent grads, and dropouts; Off Season II ran June 24 - August 7, 2026 with up to $250K in funding for top teams. Founders build in person at the campus alongside roughly 100 other builders.",
+   "tier": 2,
+   "funding": "$100K-$250K first checks; Off Season: up to $250K for top teams",
+   "duration": "6 weeks (Off Season)",
+   "location": "San Francisco (Fort Mason campus) — in person",
+   "cadence": "Rolling applications year-round; Off Season runs annually each summer (Off Season II: Jun 24 - Aug 7, 2026)"
+  }
  },
  {
   "name": "Fresco Capital",
@@ -1503,6 +2400,30 @@
   "hq": "San Francisco, USA"
  },
  {
+  "name": "gener8tor",
+  "website": "https://www.gener8tor.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Milwaukee, Wisconsin, USA",
+  "program": {
+   "description": "A US accelerator network running two main tracks: 12-week investment accelerators that put $100,000 into 5-6 companies per cohort for equity, and the free gBETA pre-accelerator that takes no equity and prepares small cohorts for fundraising. Programs run across 50+ US communities and span verticals from sustainability and fintech to healthcare, agriculture, and manufacturing. Confirmed 2026 activity includes gBETA-powered pre-accelerators such as the Michigan Founders Fund cohort.",
+   "tier": 2,
+   "funding": "$100,000 per company (investment accelerators); gBETA pre-accelerators are free / non-dilutive (some offer up to $15,000 non-dilutive)",
+   "equity": "7.5% via SAFE (investment accelerators); 0% for gBETA and pre-accelerators",
+   "duration": "12 weeks (investment accelerators); 7 weeks (gBETA / pre-accelerators)",
+   "location": "50+ US communities — city-based, in person",
+   "cadence": "Multiple cohorts per year across cities; applications by program/city"
+  }
+ },
+ {
   "name": "GFR Fund",
   "website": "https://gfrfund.com/",
   "status": "verified",
@@ -1516,6 +2437,30 @@
   ],
   "region": "US",
   "hq": "New York, USA"
+ },
+ {
+  "name": "Google for Startups Accelerator",
+  "website": "https://startup.google.com/programs/accelerator/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "AI/ML"
+  ],
+  "region": "Global",
+  "hq": "Mountain View, USA",
+  "program": {
+   "description": "Google for Startups Accelerator is a no-cost, equity-free accelerator run as regional cohorts of 10-15 growth-stage tech startups, now heavily AI/ML focused and typically Seed to Series A with traction. Each program mixes remote and in-person sessions over roughly 10 weeks (India cohort runs ~3 months). Participants get dedicated Google mentoring, Google Cloud and TPU credits, and early access to Google's AI products. 2026 cohorts run across regions including North America, India, Africa, and MENAT, plus AI-focused tracks.",
+   "tier": 1,
+   "funding": "None — equity-free and no cash investment; includes Google Cloud and Cloud TPU credits plus product access.",
+   "equity": "None (equity-free)",
+   "duration": "~10 weeks (India cohort ~3 months)",
+   "location": "Regional cohorts worldwide (North America, India, Africa, MENAT, etc.) — remote plus in-person sessions",
+   "cadence": "Multiple regional cohorts per year"
+  }
  },
  {
   "name": "Gradient",
@@ -1564,6 +2509,33 @@
   "hq": "New York, USA"
  },
  {
+  "name": "Greentown Labs",
+  "website": "https://greentownlabs.com",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Climate",
+   "Hardware",
+   "Deep Tech"
+  ],
+  "region": "US",
+  "hq": "Somerville, Massachusetts, USA",
+  "program": {
+   "description": "Greentown Labs is the largest climatetech startup incubator in North America, with facilities in Somerville, Massachusetts and Houston, Texas hosting 250+ member startups (675+ incubated to date, $12.5B raised by members). Membership provides lab and office space, equipment, and access to customers, capital, talent, and community for hardware-heavy climate startups. It also runs application-based cohort programs, including ACCEL (a BIPOC-founder accelerator with $25,000 non-dilutive grants, run with Browning the Green Space) and the corporate-partnered Greentown Go series (e.g. Go Build 2026 with Amazon and Go Make 2026 with Shell and Technip Energies).",
+   "tier": 1,
+   "funding": "Membership-based incubator (no direct investment); ACCEL provides $25,000 non-dilutive grants per team; Greentown Go programs are corporate-partnership based (no direct cash investment)",
+   "equity": "None (equity-free; grants plus paid membership, no equity taken)",
+   "duration": "Incubator membership: rolling/ongoing; ACCEL: ~12 months; Greentown Go: ~4-6 months per cohort",
+   "location": "Somerville, MA and Houston, TX — in person",
+   "cadence": "Rolling incubator membership; ACCEL annual cohort; multiple Greentown Go cohorts per year"
+  }
+ },
+ {
   "name": "Greylock",
   "website": "https://greylock.com/",
   "status": "verified",
@@ -1582,6 +2554,52 @@
   "hq": "Menlo Park, USA"
  },
  {
+  "name": "Greylock Edge",
+  "website": "https://greylock.com/edge/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Menlo Park, USA",
+  "program": {
+   "description": "Greylock's bespoke 3-month company-building program for pre-idea, pre-seed, and seed founders, including those who already raised or did another accelerator. There is no standard curriculum or mandatory programming; founders get hands-on access to Greylock partners, AI Researchers in Residence, recruiting and customer-intro support. Financing is fully flexible: a priced seed round, an uncapped SAFE, or no capital at all.",
+   "tier": 2,
+   "funding": "Flexible — priced seed round, uncapped SAFE, or no capital at all; plus $500K+ in credits with AWS, Google, Microsoft and others",
+   "equity": "Flexible — depends on financing chosen; none if no capital taken",
+   "duration": "3 months",
+   "cadence": "Rolling applications"
+  }
+ },
+ {
+  "name": "Grindstone Accelerator",
+  "website": "https://www.grindstonexl.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "Cape Town, South Africa",
+  "program": {
+   "description": "Structured scale-up accelerator for South African tech-enabled companies with proven traction, co-owned by Knife Capital and Thinkroom, with 12 cohorts completed and roughly 20 companies taken in per year. Companies work through a 6-9 month growth-engineering curriculum (due diligence, financial modelling, data rooms, market access) delivered in Cape Town and Johannesburg, with an online pan-Africa track and a UK/Channel Islands edition. There is no investment check and no upfront equity; the draw is investor-readiness plus a funding pipeline into Knife Capital funds and Grindstone Ventures.",
+   "tier": 2,
+   "equity": "0% — no upfront equity taken (programme free to qualifying participants)",
+   "duration": "6-9 months",
+   "location": "Cape Town + Johannesburg, South Africa — in person; separate online Grindstone Africa track",
+   "cadence": "~20 companies/year across cohorts; 2026 application dates not published"
+  }
+ },
+ {
   "name": "Grove Ventures",
   "website": "https://www.grovevc.com/",
   "status": "verified",
@@ -1596,6 +2614,29 @@
   ],
   "region": "Europe",
   "hq": "Tel Aviv, Israel"
+ },
+ {
+  "name": "GSF Accelerator (GSF Founders Academy)",
+  "website": "https://www.gsfindia.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "India",
+  "hq": "New Delhi, India",
+  "program": {
+   "description": "One of India's pioneering accelerators, founded by Rajesh Sawhney in 2012 and now a vertical-agnostic first-cheque early-stage fund with 130 investments (most recent verified: Trackk, May 18, 2026). Its structured program is the GSF Founders Academy, a 3-month online cohort for founders building from India and Southeast Asia, with mentoring sessions from founders, VCs and CxOs and demo days online and in Bangalore. The Academy takes no equity and carries no guaranteed investment; it charges INR 20,000 per team (India) or $250 per founder (SEA), with GSF's fund investing separately.",
+   "tier": 2,
+   "equity": "0% for the Founders Academy (no equity; program fee INR 20,000 per team / $250 per founder)",
+   "duration": "3 months (10 weeks of sessions)",
+   "location": "Remote (online); demo days online and in Bangalore",
+   "cadence": "~2 cohorts/year, rolling admissions (winter cohort Dec-mid Mar; next cohort started May 11, 2026)"
+  }
  },
  {
   "name": "gumi Cryptos Capital",
@@ -1626,6 +2667,31 @@
   ],
   "region": "US",
   "hq": "New York, USA"
+ },
+ {
+  "name": "HAX (SOSV)",
+  "website": "https://hax.co",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Deep Tech",
+   "Hardware",
+   "Climate"
+  ],
+  "region": "US",
+  "hq": "Newark, New Jersey, USA",
+  "program": {
+   "description": "SOSV's pre-seed hard-tech accelerator for founders building physical products in areas like advanced materials, robotics, industrial and climate tech. Teams complete a 180-day, full-time, hands-on engineering residency at HAX's 35,000 sq ft Newark facility (plus the HAX Plasma Forge in Princeton) with in-house prototyping labs and engineers. It is aimed at technical founders who need to de-risk hardware before institutional investors will engage.",
+   "tier": 1,
+   "funding": "$250k first investment ($150k cash + $100k in-kind, paid at 30-day intervals); up to $550k in total pre-seed capital",
+   "equity": "~10% target ownership via a pre-negotiated post-money SAFE",
+   "duration": "180 days (~6 months), full-time residency",
+   "location": "Newark, New Jersey — in person; plus HAX Plasma Forge in Princeton, NJ",
+   "cadence": "Rolling admissions"
+  }
  },
  {
   "name": "Headline",
@@ -1660,6 +2726,30 @@
   "hq": "Menlo Park, USA"
  },
  {
+  "name": "HF0 Residency",
+  "website": "https://www.hf0.com",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "A 12-week live-in residency in San Francisco for repeat and highly technical founders, with only 10 teams backed at a time. Founders live together with living expenses covered so they can build full-time, ending in a Demo Day in front of top-tier investors. Standard deal reported in 2026 is up to $1M on an uncapped SAFE for 5%.",
+   "tier": 1,
+   "funding": "Up to $1,000,000 uncapped SAFE (terms per third-party sources; not published on official site)",
+   "equity": "5%",
+   "duration": "12 weeks",
+   "location": "San Francisco — in-person, live-in residency",
+   "cadence": "Rolling applications; multiple batches/year (site lists upcoming batch starts Sep 13 and Jan 4)"
+  }
+ },
+ {
   "name": "Homebrew",
   "website": "https://homebrew.co/",
   "status": "verified",
@@ -1672,6 +2762,30 @@
   ],
   "region": "US",
   "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Hub71",
+  "website": "https://www.hub71.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "MENA",
+  "hq": "Abu Dhabi, UAE",
+  "program": {
+   "description": "Hub71 is Abu Dhabi's government-backed tech ecosystem in ADGM that admits startups in cohorts and gives them cash and in-kind incentives to build from the UAE. It runs a generalist Access Programme plus specialist tracks (Hub71+ ClimateTech, AI, Life Sciences, Digital Assets) for startups from seed to Series A willing to put a founder on the ground. Selected companies get AED 250K cash via a SAFE, AED 250K in in-kind services, and a 12-month program with corporate and government access. Cohort 20 applications are open with a deadline of August 2, 2026.",
+   "tier": 2,
+   "funding": "AED 250,000 cash via SAFE + AED 250,000 in-kind support services; top-performing startups eligible for up to AED 250,000 additional cash for further equity",
+   "equity": "Via uncapped, no-discount MFN SAFE (no fixed percentage)",
+   "duration": "12 months (first 3 months on-ground; includes a 3-month guided track)",
+   "location": "Abu Dhabi (ADGM) — at least one founder on-ground for the first 3 months",
+   "cadence": "Cohort-based; Cohort 20 deadline Aug 2, 2026 (program starts Feb 2027), later applications roll to the next cohort"
+  }
  },
  {
   "name": "Hult Prize Foundation",
@@ -1701,6 +2815,54 @@
   ],
   "region": "Europe",
   "hq": "Helsinki, Finland"
+ },
+ {
+  "name": "Ignite DeepTech (fka Intel Ignite)",
+  "website": "https://ignitedeeptech.com",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Deep Tech",
+   "AI/ML",
+   "Hardware"
+  ],
+  "region": "MENA",
+  "hq": "Tel Aviv, Israel",
+  "program": {
+   "description": "Ignite DeepTech (formerly Intel Ignite) is an equity-free, no-fee 12-week accelerator for pre-seed and seed deep-tech founders, relaunched as an independent nonprofit in 2025 after Intel closed the program. Its flagship cohorts run in Israel, with Ignite Next, a scaleup program, based in Dresden, Germany alongside partners such as Infineon and Intel. Founders get mentorship, industrial and corporate partner connections, and fundraising support with no equity or fees; the first independent Israel cohort selected 10 companies from 258 applicants (a ~4% acceptance rate).",
+   "tier": 1,
+   "funding": "$0 (equity-free, non-dilutive; no program fee)",
+   "equity": "0% (equity-free)",
+   "duration": "12 weeks (flagship accelerator)",
+   "location": "Israel (flagship cohorts) + Dresden, Germany (Ignite Next scaleup program)",
+   "cadence": "2 cohorts/year (Spring and Fall)"
+  }
+ },
+ {
+  "name": "Illumina Ventures Labs (fka Illumina Accelerator)",
+  "website": "https://www.illuminaventures.com/labs/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Health/Bio",
+   "Deep Tech"
+  ],
+  "region": "Global",
+  "hq": "San Francisco Bay Area, USA",
+  "program": {
+   "description": "Illumina Ventures Labs (formerly Illumina Accelerator) is a genomics-focused company-creation and accelerator program run by Illumina Ventures for founders building from formation to Series A. It operates in the San Francisco Bay Area and Cambridge, UK, combining virtual planning with on-site lab execution sprints. Participants receive capital plus in-kind support, including sequencing platform access, reagents, technical expertise, mentorship, and fully equipped genomics labs; investment and equity terms are negotiated case by case rather than offered as a fixed package.",
+   "tier": 1,
+   "location": "San Francisco Bay Area + Cambridge, UK — hybrid (virtual planning + on-site lab sprints)",
+   "cadence": "Rolling applications (no fixed cohort windows)"
+  }
  },
  {
   "name": "Illuminate Ventures",
@@ -1735,6 +2897,31 @@
   "hq": "New York, USA"
  },
  {
+  "name": "IndieBio (SOSV)",
+  "website": "https://indiebio.co",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Health/Bio",
+   "Deep Tech"
+  ],
+  "region": "US",
+  "hq": "San Francisco & New York, USA",
+  "program": {
+   "description": "SOSV's flagship early-stage biotech and deep-tech accelerator, renamed from IndieBio to SOSV SF and SOSV NY at the start of 2026. Founders get funding, wet-lab and prototyping space, and a full-time in-person program (~4 months) ending in a demo day; the most recent IndieBio SF demo day ran on 30 January 2026. Its 310 graduates from 2015-2025 raised a combined $3.6B, making it one of the most active pre-seed deep-tech programs.",
+   "tier": 1,
+   "funding": "$250k for 8% (via SAFEs); up to $525k total including a $250k Genesis Consortium follow-on SAFE at a ~$6M valuation cap",
+   "equity": "8% for $250k initial",
+   "duration": "~4 months",
+   "location": "San Francisco and New York — in person",
+   "cadence": "Multiple cohorts per year across SF and NY"
+  }
+ },
+ {
   "name": "Industry Ventures",
   "website": "https://www.industryventures.com/",
   "status": "verified",
@@ -1763,6 +2950,30 @@
   ],
   "region": "US",
   "hq": "San Francisco, USA"
+ },
+ {
+  "name": "InovAtiva Brasil",
+  "website": "https://www.inovativa.online/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "LatAm",
+  "hq": "Brasília, Brazil",
+  "program": {
+   "description": "Brazil's federal government acceleration program, run by the Ministry of Development (MDIC) and Sebrae and co-executed by ImpactHub Brasil and Fundação CERTI. It is free and equity-free, selecting startups in validation, operation or traction stage for 4-month cycles of individual and collective mentoring, pitch training, investor connections and a demo day. There is no cash investment; the 2026 InovAtiva de Impacto cycle took applications April 13 to May 22, 2026, and the flagship track selects up to 90 startups per year aligned with the Nova Indústria Brasil policy.",
+   "tier": 2,
+   "funding": "No investment (fully free, government-funded program)",
+   "equity": "0% (equity-free)",
+   "duration": "4 months",
+   "location": "Brazil — mostly online, with in-person events (InovAtiva Experience)",
+   "cadence": "Annual cycles per track; 2026 Impacto cycle applications ran Apr 13 – May 22, 2026"
+  }
  },
  {
   "name": "Inverted Capital",
@@ -1798,7 +3009,7 @@
   "name": "Iterative",
   "website": "https://www.iterative.vc/",
   "status": "verified",
-  "type": "Fund",
+  "type": "Accelerator",
   "stage": [
    "Pre-seed",
    "Seed"
@@ -1808,7 +3019,16 @@
    "Generalist"
   ],
   "region": "Asia",
-  "hq": "Seoul, South Korea"
+  "hq": "Seoul, South Korea",
+  "program": {
+   "description": "YC-style accelerator run by former Y Combinator partners, investing exclusively in Southeast Asia startups from idea stage onward. Founders get a 12-week program with weekly 1:1 office hours with a lead partner, weekly speakers, and a demo day to raise the next round. The program opens with a 4-day in-person orientation and runs remotely after that, so founders can stay in their home market.",
+   "tier": 2,
+   "funding": "US$150K–$500K on a post-money SAFE (base tier US$150K for 10%; US$500K reserved for companies with ~$1M+ ARR or major enterprise contracts)",
+   "equity": "~10–15% (10% at the US$150K base tier)",
+   "duration": "12 weeks",
+   "location": "Remote across Southeast Asia after a 4-day in-person kickoff",
+   "cadence": "2 batches/year (Winter Feb–May, Summer Jul–Sep); Summer 2026 deadline passed June 2026 but late applications still reviewed"
+  }
  },
  {
   "name": "IVP",
@@ -1855,6 +3075,30 @@
   ],
   "region": "US",
   "hq": "New York, USA"
+ },
+ {
+  "name": "K-Startup Grand Challenge",
+  "website": "https://ksgc.global",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Asia",
+  "hq": "Pangyo, South Korea",
+  "program": {
+   "description": "The Korean government's flagship landing program (Ministry of SMEs & Startups, operated by KISED with GCCEI) for foreign-founded startups under 7 years old (10 for deep tech) entering Korea and Asia. Runs in three cut-down phases from 80 to 40 to 20 teams, all in English, with up to ₩950M in equity-free support including prizes and commercialization grants. Teams get free workspace in Pangyo and Gangnam, incorporation and visa support (D-10-2, D-8-4, C-3), corporate PoC matchmaking, a COMEUP 2026 Demo Day, and up to 3 years of post-program support. 2026 applications closed June 17, 2026.",
+   "tier": 2,
+   "funding": "Up to ₩950M equity-free total (Phase 2 prizes ₩380M for top 20; Phase 3 scale-up grants ₩250M for top 8; plus up to ₩8M/team travel support)",
+   "equity": "0% (equity-free)",
+   "duration": "~10 months (Jul 2026 – Apr 2027; Phase 1 Jul-Aug, Phase 2 Sep-Dec 2026, Phase 3 Jan-Apr 2027)",
+   "location": "Pangyo/Gangnam, Korea — hybrid (Phase 1 online, later phases on/offline with free workspace)",
+   "cadence": "1 batch/year (2026 applications: May 6 – Jun 17, 2026; now closed)"
+  }
  },
  {
   "name": "Kalei Ventures",
@@ -1979,6 +3223,29 @@
   "hq": "San Francisco, USA"
  },
  {
+  "name": "LACI (Los Angeles Cleantech Incubator)",
+  "website": "https://laincubator.org",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Climate"
+  ],
+  "region": "US",
+  "hq": "Los Angeles, USA",
+  "program": {
+   "description": "LACI (Los Angeles Cleantech Incubator) is a nonprofit incubator for pre-seed and seed US-based cleantech startups, offering roughly two years of incubation built around a 6-month core curriculum (the first four months are intensive workshops and one-on-one coaching). Startups get EIR advisory services, up to $20,000 in pilot funding, about $160,000 in perks and platform credits, and access to $50K–$500K checks via LACI's Impact and Debt Funds. LACI takes a 1.5–3% equity warrant that founders can earn back by achieving impact milestones.",
+   "tier": 2,
+   "funding": "Up to $20K pilot funding; $50K–$500K checks via LACI Impact & Debt Funds; ~$160K in perks/platform credits",
+   "equity": "1.5–3% warrant (earn-back via impact milestones)",
+   "duration": "~2-year incubation with a 6-month core curriculum (first 4 months intensive)",
+   "location": "Los Angeles — in person"
+  }
+ },
+ {
   "name": "Laconia",
   "website": "https://www.laconiacapitalgroup.com/",
   "status": "verified",
@@ -1992,6 +3259,29 @@
   ],
   "region": "US",
   "hq": "New York, USA"
+ },
+ {
+  "name": "Latitud Fellowship",
+  "website": "https://www.latitud.com/fellowship",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "LatAm",
+  "hq": "São Paulo, Brazil (distributed team across LatAm)",
+  "program": {
+   "description": "Fellowship for idea-stage (-1 to 0) Latin American founders from the Latitud network co-founded by Brian Requarth. Roughly 10 founders per cohort get a US$62.5k check on a SAFE at a US$2.5M post-money cap (2.5%), an 8-week remote program, and a one-week roadshow in San Francisco with expenses covered except flights. LFSF4 applications are open June 13 to August 10, 2026, with the virtual program starting October 4 and SF week October 26-30, 2026.",
+   "tier": 2,
+   "funding": "US$62,500 on a SAFE at US$2.5M post-money",
+   "equity": "2.5%",
+   "duration": "9 weeks (8 weeks remote + 1 week in San Francisco)",
+   "location": "Remote (Latin America) + 1 week in San Francisco",
+   "cadence": "Cohort-based (LFSF4 is the 4th SF cohort); applications Jun 13 - Aug 10, 2026, program starts Oct 4, 2026"
+  }
  },
  {
   "name": "Laude Ventures",
@@ -2008,6 +3298,29 @@
   ],
   "region": "US",
   "hq": "San Francisco, USA"
+ },
+ {
+  "name": "LAUNCH Accelerator",
+  "website": "https://launchaccelerator.co",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "Jason Calacanis's 14-week accelerator focused on getting early-revenue startups fundable: 11 pitch sessions in front of a 500+ investor network plus exposure through the LAUNCH/This Week in Startups media channels. Small cohorts of 7-12 startups each receive $125K for 7% via SAFE. LAUNCH's fund has backed 1,000+ companies including early checks into Uber, Robinhood, and Calm.",
+   "tier": 2,
+   "funding": "$125,000 via SAFE",
+   "equity": "7%",
+   "duration": "14 weeks",
+   "location": "Remote-friendly — join from anywhere in the world"
+  }
  },
  {
   "name": "Lemnos",
@@ -2197,6 +3510,59 @@
   "hq": "New York, USA"
  },
  {
+  "name": "MassChallenge",
+  "website": "https://masschallenge.org",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed",
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "Boston, USA",
+  "program": {
+   "description": "Zero-equity, zero-cost accelerator whose active 2026 early-stage cohorts run from Switzerland and UK hubs: 193 startups selected from 1,961 applicants, a 4-month hybrid program with mentoring, corporate access, and up to CHF 1M in equity-free prizes. The old Boston/Texas generalist cohorts are not currently listed; the US arm instead runs vertical programs (2026 Security & Resiliency Traction is accepting applications; Healthcare & Life Sciences Traction closed Feb 20, 2026; Healthcare and FinTech Challenge programs open later in 2026 for 2027). Open to startups across all industries with vertical tracks in health, climate, food, fintech, and security.",
+   "tier": 1,
+   "funding": "No investment — equity-free cash prizes (up to CHF 1M across the 2026 Switzerland/UK cohorts)",
+   "equity": "0%",
+   "duration": "4 months (2026 Switzerland/UK early-stage programs)",
+   "location": "Hybrid hubs in Renens (Switzerland), London (UK), Jerusalem (Israel), plus US vertical programs",
+   "cadence": "Annual cohorts per hub; CH/UK 2026 applications closed Mar 4, 2026; US Security & Resiliency Traction accepting applications"
+  }
+ },
+ {
+  "name": "Mastercard Start Path",
+  "website": "https://www.mastercard.com/us/en/innovation/partner-with-us/start-path.html",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Fintech",
+   "Crypto/Web3",
+   "AI/ML"
+  ],
+  "region": "Global",
+  "hq": "Purchase, New York, USA",
+  "program": {
+   "description": "Mastercard Start Path is a global, non-equity engagement program for growth-stage fintech and payments startups (typically those that have raised seed or Series A), organized into specialized tracks including emerging fintech, acceptance, blockchain/digital assets, open finance, small business, security, and a new 2026 agentic-commerce track opened in January 2026. Selected companies join a roughly four-month virtual cohort and gain access to Mastercard's network of banks, merchants and partners plus hands-on support to run commercial pilots. Participation requires no fee or equity, though Mastercard may take an optional investment in select companies.",
+   "tier": 1,
+   "funding": "Non-equity engagement program with no standard cash investment; Mastercard may take an optional investment in select startups",
+   "equity": "None required (fee- and equity-free); optional investment in select startups only",
+   "duration": "~4 months (virtual; some tracks run ~6 months)",
+   "location": "Global, virtual",
+   "cadence": "Multiple cohorts per year across tracks (rolling applications by track)"
+  }
+ },
+ {
   "name": "Maven",
   "website": "https://www.mavenventures.com/",
   "status": "verified",
@@ -2261,6 +3627,30 @@
   "hq": "Menlo Park, USA"
  },
  {
+  "name": "MedTech Innovator",
+  "website": "https://medtechinnovator.org",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Health/Bio"
+  ],
+  "region": "Global",
+  "hq": "Los Angeles, California, USA",
+  "program": {
+   "description": "MedTech Innovator is the world's largest medtech accelerator, headquartered in Los Angeles and run as a free, equity-free four-month program for medical device, diagnostics, and digital-health startups. The 2026 cohort selected 65 companies (the top ~4% of 1,835 global applicants) across 18 US states and 16 countries, plus specialty tracks with the American Society of Plastic Surgeons and American Heart Association Ventures. Companies receive industry mentorship and investor access and compete for a share of $800,000 in non-dilutive funding, culminating at The MedTech Conference in Boston (Oct 18-21, 2026).",
+   "tier": 1,
+   "funding": "$800,000 in non-dilutive funding competed for across the cohort; program is free (no fee) and equity-free",
+   "equity": "None (equity-free)",
+   "duration": "4 months",
+   "location": "Hybrid — virtual program with in-person events in the US (culminates at The MedTech Conference, Boston)",
+   "cadence": "Annual cohort"
+  }
+ },
+ {
   "name": "Meet Ventures",
   "website": "https://www.meetventures.com",
   "status": "verified",
@@ -2294,6 +3684,28 @@
   "hq": "Boston, USA"
  },
  {
+  "name": "Merantix (Venture Studio)",
+  "website": "https://www.merantix-capital.com/venture-studio",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "AI/ML"
+  ],
+  "region": "Europe",
+  "hq": "Berlin, Germany",
+  "program": {
+   "description": "Berlin AI venture studio (part of the Merantix group, running the Merantix AI Campus) whose founder-in-residence track pairs experienced founders with the studio to explore and validate AI business cases before company formation. If both sides build conviction after validation, Merantix invests EUR 1M on day one as an institutional co-founder. Backed by a new EUR 103M fund closed in June 2026, half of which is reserved for studio-built companies.",
+   "tier": 2,
+   "funding": "EUR 1M day-one investment after the validation phase",
+   "equity": "25% (15% preferred shares + 10% common shares)",
+   "duration": "4-8 weeks exploration + 2-4 months validation before investment",
+   "location": "Berlin (Merantix AI Campus); also an AI Hub in London"
+  }
+ },
+ {
   "name": "Mercuri Ventures",
   "website": "https://www.mercuri.vc/",
   "status": "verified",
@@ -2309,6 +3721,52 @@
   ],
   "region": "Europe",
   "hq": "London, United Kingdom"
+ },
+ {
+  "name": "MEST Africa (MEST AI Startup Program)",
+  "website": "https://meltwater.org/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "AI/ML"
+  ],
+  "region": "Global",
+  "hq": "Accra, Ghana",
+  "program": {
+   "description": "Meltwater's nonprofit founder school in Accra, running since 2008 and now an AI-focused program: seven months of residential training (January-July) followed by a four-month incubation for the strongest ventures. It is fully sponsored — no payments to MEST, with flights to Ghana and healthcare covered — and high-performing teams pitch for up to $100,000 in pre-seed investment. Aimed at aspiring AI founders aged 21-35 from West and East Africa; Class of 2027 recruits from Nigeria, Ghana, Kenya, and Senegal.",
+   "tier": 2,
+   "funding": "Fully sponsored program (no fees; flights and healthcare covered); top ventures pitch for up to $100,000 pre-seed investment after incubation",
+   "duration": "Up to 11 months (7-month training + 4-month incubation for selected ventures)",
+   "location": "Accra, Ghana — in-person, residential",
+   "cadence": "1 class/year; Class of 2027 applications close July 20, 2026"
+  }
+ },
+ {
+  "name": "Misk Accelerator",
+  "website": "https://hub.misk.org.sa/programs/entrepreneurship/misk-accelerator/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "MENA",
+  "hq": "Riyadh, Saudi Arabia",
+  "program": {
+   "description": "Misk Foundation's 12-week hybrid accelerator for seed-stage tech startups operating in or expanding to Saudi Arabia, with in-person weeks in Riyadh. It takes zero equity and charges no fees, and instead of cash provides mentorship, workshops, investor access, a demo day, plus accommodation and partial flights for the physical weeks. Since 2019 it has supported 193 startups across 10 cohorts; Cohort 11 (20 startups) ran April-July 2025, with the next intake expected on the same annual rhythm.",
+   "tier": 2,
+   "funding": "No cash investment; zero fees. Covers full accommodation and partial flight costs for the in-person weeks in Riyadh",
+   "equity": "0%",
+   "duration": "12 weeks",
+   "location": "Riyadh, Saudi Arabia — hybrid (in-person weeks + virtual)",
+   "cadence": "1 cohort/year (Cohort 11 apps Dec 2024–Feb 2025, program Apr–Jul 2025)"
+  }
  },
  {
   "name": "Moment Ventures",
@@ -2423,6 +3881,30 @@
   "hq": "Los Angeles, USA"
  },
  {
+  "name": "Neo Accelerator (Neo Residency)",
+  "website": "https://neo.com/accelerator",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "Ali Partovi's selective accelerator, rebranded Neo Residency in 2026, for strong technical founders at the earliest stage. Teams get $750K on an uncapped SAFE whose ownership is only set at the next priced round — about 5% if that round is at $15M, down to 0.75% at $100M — making it one of the lowest-dilution accelerator deals available. The three-month program runs in person at Neo's San Francisco Jackson Square offices with roughly 30 mentor-operators per cohort and a two-week retreat in Oregon.",
+   "tier": 1,
+   "funding": "$750,000 on an uncapped SAFE",
+   "equity": "Variable — uncapped SAFE, set at next round (~5% at a $15M next-round valuation, 0.75% at $100M)",
+   "duration": "3 months",
+   "location": "San Francisco (Jackson Square) — in person, plus 2-week Oregon retreat",
+   "cadence": "2 cohorts/year, ~12-15 teams each (summer 2026 cohort confirmed)"
+  }
+ },
+ {
   "name": "New Enterprise Associates (NEA)",
   "website": "https://www.nea.com/",
   "status": "verified",
@@ -2440,6 +3922,53 @@
   "hq": "Menlo Park, USA"
  },
  {
+  "name": "Newtopia VC",
+  "website": "https://newtopia.vc/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "LatAm",
+  "hq": "Buenos Aires, Argentina",
+  "program": {
+   "description": "Buenos Aires-based early-stage fund (US$50M first fund, founded 2021, second fund underway) that runs a 10-week acceleration program twice a year for roughly 10 LatAm startups per batch, hosted in a rotating city such as Buenos Aires, Mexico City, São Paulo, Bogotá, or Miami. The standard acceleration deal is US$100k on a post-money SAFE for 7%, ending in an invite-only Demo Day. Outside the program it writes seed checks up to about US$1M with follow-ons of US$2-3M into Series A.",
+   "tier": 2,
+   "funding": "US$100,000 on a post-money SAFE (acceleration stage); direct seed checks US$100k-1M, follow-ons up to US$2-3M",
+   "equity": "7% (post-money SAFE)",
+   "duration": "10 weeks",
+   "location": "Rotating LatAm host city (Buenos Aires, Mexico City, São Paulo, Bogotá, Miami) — in person with remote flexibility",
+   "cadence": "2 batches/year, ~10 startups each"
+  }
+ },
+ {
+  "name": "NEXT Canada (NEXT 36)",
+  "website": "https://www.nextcanada.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Toronto, Canada",
+  "program": {
+   "description": "NEXT 36 is NEXT Canada's flagship venture-building program for Canadian undergraduates and recent graduates (any discipline) launching their own startups. The 8-month program runs part-time and remote from mid-January to April, then full-time in person in Toronto from May to August, pairing each founder with an experienced mentor and access to NEXT Canada's investor network. There is no program fee, and as of September 2025 the former 2.5% equity requirement has been removed.",
+   "tier": 2,
+   "funding": "No direct cash investment; in-kind partner credits (cloud, legal) plus access to NEXT Canada's investor network",
+   "equity": "None (former 2.5% requirement removed September 2025)",
+   "duration": "8 months",
+   "location": "Remote Jan-Apr, then in person in Toronto May-Aug",
+   "cadence": "1 cohort/year (applications open ~Aug, deadline ~Oct)"
+  }
+ },
+ {
   "name": "NFDG",
   "website": "",
   "status": "none",
@@ -2455,6 +3984,30 @@
   ],
   "region": "US",
   "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Nucleate Activator",
+  "website": "https://nucleate.org",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Health/Bio",
+   "Climate"
+  ],
+  "region": "Global",
+  "hq": "Boston, USA",
+  "program": {
+   "description": "Nucleate Activator is a free, equity-free six-month program that helps academic scientists (PhDs, postdocs, PIs) turn lab discoveries into biotech and sustainability ventures. It runs a Bio track (human health) and an Eco track (sustainability) across 17 regional chapters plus a Global Virtual track, ending in an investor pitch showcase. Teams receive curriculum, mentorship, funded fellowships, legal support, and subsidized perks; the 2026 cohort admitted 180 teams from 800+ applicants.",
+   "tier": 2,
+   "funding": "No cash investment; equity-free program providing funded fellowships, legal support, and highly subsidized perks",
+   "equity": "0% (equity-free)",
+   "duration": "6 months",
+   "location": "17 regional chapters worldwide (in person) + Global Virtual track",
+   "cadence": "1 cohort/year (annual)"
+  }
  },
  {
   "name": "Nyca Partners",
@@ -2504,6 +4057,28 @@
   "hq": "New York, USA"
  },
  {
+  "name": "On Deck Founders (ODF)",
+  "website": "https://joinodf.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "On Deck Founders is an application-based fellowship for people who want to start a company, now centered on a one-week in-person onboarding in San Francisco to meet potential cofounders and collaborators and build conviction on ideas. It takes no equity (non-dilutive), is pay-what-you-can, and comes with lifetime access to a 3,000+ member community and $800k+ in startup perks. Cohorts run 80-100 participants (50%+ technical); alumni have launched 1,000+ startups that have raised $2B+.",
+   "tier": 2,
+   "equity": "None (non-dilutive — no equity taken)",
+   "duration": "1-week in-person onboarding in San Francisco plus lifetime community access",
+   "location": "San Francisco — one week in person; remote-first global community afterward",
+   "cadence": "Multiple cohorts per year (ODF28 kicks off Q3 2026)"
+  }
+ },
+ {
   "name": "One Tree Hill Ventures",
   "website": "https://onetreehillventures.com/",
   "status": "verified",
@@ -2517,6 +4092,77 @@
   ],
   "region": "India",
   "hq": "Mumbai, India"
+ },
+ {
+  "name": "Open Network Lab (Onlab)",
+  "website": "https://onlab.jp/en/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Asia",
+  "hq": "Tokyo, Japan",
+  "program": {
+   "description": "Japan's first seed accelerator, run by Digital Garage since 2010, now on its 31st batch (applications closed Feb 6, 2026; final screening April 16, 2026). A roughly three-month intensive program in Shibuya, Tokyo for pre-seed and seed teams, with investment of about JPY 10-30 million from Onlab Fund II, mentoring from investors and alumni CEOs, free workspace for up to 2 years, and a demo day. Also runs sister tracks (Fukuoka, Hokkaido, web3, ESG) and a San Francisco option for its Global Track.",
+   "tier": 2,
+   "funding": "Approx. JPY 10-30 million from Onlab Fund II (terms set case-by-case)",
+   "duration": "3 months",
+   "location": "Shibuya, Tokyo — in person (San Francisco for Global Track)",
+   "cadence": "2 batches/year (winter and summer)"
+  }
+ },
+ {
+  "name": "Orange DAO Fellowship",
+  "website": "https://www.orangedao.xyz/orange-fellowship",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Crypto/Web3"
+  ],
+  "region": "Global",
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "A crypto and web3 startup fellowship run by Orange DAO, a collective of 1,300+ Y Combinator alumni. Founders from the ideation stage through pre-Series A get a $100,000 investment, structured mentorship, and access to the DAO's investor network. The cohort includes an in-person orientation in San Francisco and ends with a demo day pitched to 300+ crypto VCs.",
+   "tier": 1,
+   "funding": "$100,000 on an uncapped MFN SAFE",
+   "equity": "No fixed equity (uncapped MFN SAFE); 2% program fee under a separate agreement",
+   "duration": "12 weeks",
+   "location": "Hybrid — in-person orientation and demo day in San Francisco, otherwise remote",
+   "cadence": "Quarterly cohorts, rolling applications"
+  }
+ },
+ {
+  "name": "Orbit Startups",
+  "website": "https://orbitventures.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "Singapore",
+  "program": {
+   "description": "Emerging-markets accelerator and fund led by William Bao Bean, successor to SOSV's Chinaccelerator and MOX, investing in startups digitizing traditional industries across ~30 growth markets in South/Southeast Asia, Africa, MENA and Latin America. Active in 2026 with open applications, an Orbit 10 Demo Day, and the Riyadh-based Sanabil Accelerator by Orbit (Batch 5 applications close Oct 1, 2026), which invests $80,000-$100,000 per startup over a 4-month program with no participation fees. Third-party profiles report typical Orbit checks of $100,000-$180,000 across roughly four cohorts a year of ~10 companies.",
+   "tier": 2,
+   "funding": "$80,000-$100,000 per startup (Sanabil Accelerator by Orbit, official); core Orbit checks reported at $100k-$180k (third-party, unverified)",
+   "duration": "4 months (Sanabil Accelerator by Orbit)",
+   "location": "Remote-first across emerging markets; Sanabil Accelerator requires Riyadh presence weeks 1-4 and 8-12",
+   "cadence": "Historically ~4 cohorts/year; Sanabil Batch 5 applications close Oct 1, 2026"
+  }
  },
  {
   "name": "Overlook Ventures",
@@ -2563,6 +4209,29 @@
   "hq": "Malmo, Sweden"
  },
  {
+  "name": "Parallel18",
+  "website": "https://parallel18.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "LatAm",
+  "hq": "San Juan, Puerto Rico",
+  "program": {
+   "description": "International accelerator run by the Puerto Rico Science, Technology & Research Trust in San Juan, with 500+ startups supported since 2016. Terms changed for Gen 14 (16 startups from 9 countries, starting July 6, 2026): a 16-week in-person program plus a US$100,000 investment per startup ($1.6M committed total), replacing the earlier US$40k equity-free grant + US$20k SAFE over 20 weeks. Requires a C-level founder to relocate to Puerto Rico for the program, the company to be incorporated in Puerto Rico or the US, traction (sales or users), and three years or less in operation.",
+   "tier": 2,
+   "funding": "US$100,000 investment per startup (Gen 14, 2026; instrument not publicly specified — prior cohorts used equity-free grant + SAFE)",
+   "duration": "16 weeks (Gen 14, 2026; earlier cohorts were 20 weeks)",
+   "location": "San Juan, Puerto Rico — in person (founder relocation required)",
+   "cadence": "~1 cohort/year recently (Gen 13 mid-2025; Gen 14 starts July 6, 2026)"
+  }
+ },
+ {
   "name": "Partech Partners",
   "website": "https://partechpartners.com/",
   "status": "verified",
@@ -2593,6 +4262,28 @@
   ],
   "region": "US",
   "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "PearX (Pear VC)",
+  "website": "https://pear.vc/pearx/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco / Menlo Park, USA",
+  "program": {
+   "description": "Pear VC's 12-week in-person pre-seed accelerator in the SF Bay Area, capped at roughly 20 teams per cohort, with each company getting a dedicated investment partner and embedded operating and recruiting support. Pear invests $250K-$2M calibrated to each company's needs, plus over $1M in cloud credits (Azure, OpenAI, etc.). Pear reports 90% of PearX companies go on to raise from top-tier investors; the S26 cohort kicked off July 2026 (regular application deadline was April 12, 2026).",
+   "tier": 1,
+   "funding": "$250K-$2M (sized per company) plus $1M+ in cloud credits",
+   "duration": "12 weeks",
+   "location": "San Francisco Bay Area — in person (relocation for the cohort)",
+   "cadence": "2 cohorts/year (January and July); S26 kicked off July 2026"
+  }
  },
  {
   "name": "PeerCapital",
@@ -2640,6 +4331,30 @@
   "hq": "Boston, USA"
  },
  {
+  "name": "Platanus",
+  "website": "https://platan.us/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "LatAm",
+  "hq": "Santiago, Chile",
+  "program": {
+   "description": "Santiago-based seed accelerator often described as the YC of Latin America, aimed at Spanish-speaking technical founders anywhere (at least one technical co-founder is required). It invests US$200,000 for 7% on a post-money SAFE and runs a 12-week, mostly online program bookended by mandatory in-person kick-off and Demo Day weeks in Latin American cities, with 90+ startups accelerated to date. 2026 runs two batches: the first started June 8 and applications for the second opened in July for a September start.",
+   "tier": 2,
+   "funding": "US$200,000 (post-money SAFE)",
+   "equity": "7%",
+   "duration": "3 months (12 weeks)",
+   "location": "Online from anywhere, with in-person kick-off and Demo Day weeks in LatAm cities; based in Santiago",
+   "cadence": "2 batches/year; applications for the Sept 2026 batch opened July 2026"
+  }
+ },
+ {
   "name": "Plug and Play",
   "website": "https://www.plugandplaytechcenter.com/",
   "status": "verified",
@@ -2652,7 +4367,16 @@
    "Generalist"
   ],
   "region": "US",
-  "hq": "Sunnyvale, USA"
+  "hq": "Sunnyvale, USA",
+  "program": {
+   "description": "Plug and Play runs no-fee, no-equity vertical batch accelerator programs that connect startups with its corporate partners for pilots and proofs of concept; its first Silicon Valley batches of 2026 admitted 113 startups across verticals such as Enterprise & AI, Fintech, Health, and Mobility. The three-month programs offer mentor-led workshops, corporate and investor introductions, and a showcase at the Silicon Valley Summit (May 19-21, 2026). Joining costs no equity; any investment is separate and optional through Plug and Play's in-house VC (Plug and Play Ventures) via SAFE.",
+   "tier": 1,
+   "funding": "No fee and no equity to participate; investment is separate and optional via Plug and Play Ventures (in-house VC) on a SAFE, amount not standardized",
+   "equity": "0% (no-equity program)",
+   "duration": "3 months",
+   "location": "Silicon Valley (Sunnyvale, CA), USA - in person; also runs programs at 60+ global locations",
+   "cadence": "Multiple vertical batches per year (first Silicon Valley batches of 2026 admitted 113 startups)"
+  }
  },
  {
   "name": "Point72 Ventures",
@@ -2930,6 +4654,28 @@
   "hq": "Paris, France"
  },
  {
+  "name": "Rockstart",
+  "website": "https://rockstart.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Climate",
+   "Deep Tech"
+  ],
+  "region": "Europe",
+  "hq": "Amsterdam, Netherlands",
+  "program": {
+   "description": "Amsterdam-based accelerator-VC (offices in Amsterdam, Copenhagen and Bogota) backing purpose-driven founders through three domain funds and programs: AgriFood, Energy and Emerging Tech, with 368+ startups invested since 2011 and follow-on capacity to Series B. Its EUR 50M AgriFood Fund II (launched Dec 2023, backed by EIFO, De Hoge Dennen and Danish Agro) invests in up to 50 startups over 5 years, each getting an initial investment plus a tailor-made AgriFood accelerator that runs biannually in spring and autumn. Still actively investing in 2026 (4 new investments by May 2026); ticket sizes and equity are not published on official pages.",
+   "tier": 2,
+   "location": "Amsterdam and Copenhagen (plus Bogota for LatAm); applications accepted year-round via website",
+   "cadence": "AgriFood accelerator runs biannually (spring and autumn cohorts) per Rockstart's Fund II announcement"
+  }
+ },
+ {
   "name": "Root Ventures",
   "website": "https://root.vc/",
   "status": "verified",
@@ -2959,6 +4705,29 @@
   ],
   "region": "Europe",
   "hq": "Madrid, Spain"
+ },
+ {
+  "name": "Sanabil Accelerator by 500 Global",
+  "website": "https://www.sanabil500.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "MENA",
+  "hq": "Riyadh, Saudi Arabia",
+  "program": {
+   "description": "A Riyadh-based seed accelerator run by 500 Global with PIF-owned Sanabil Investments, for early-stage tech startups with an MVP and early traction that operate in or target MENA. Selected startups get a $100K+ equity investment from 500 Global plus a 12-week program of mentorship, growth experiments, and a Demo Day; Phase 1 carries a $35K program fee. Batch 11 ran April 5 to July 1, 2026 (eight startups from 690+ applicants), and Batch 12 applications close August 9, 2026 for a September 27 to December 16, 2026 run.",
+   "tier": 2,
+   "funding": "$100,000+ equity investment from 500 Global; $35,000 program fee for Phase 1 (excluding travel)",
+   "duration": "12 weeks",
+   "location": "Riyadh — hybrid (in-person during intensive weeks; Batch 11 Phases 1-2 ran remote)",
+   "cadence": "2 batches/year; Batch 12 applications close Aug 9, 2026"
+  }
  },
  {
   "name": "SBXi",
@@ -3068,6 +4837,29 @@
   "hq": "San Francisco, USA"
  },
  {
+  "name": "Sequoia Arc",
+  "website": "https://www.sequoiacap.com/arc/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "Menlo Park, USA",
+  "program": {
+   "description": "Sequoia's bi-annual open call for pre-seed and seed founders in the Americas and Europe; roughly 10 companies per cohort receive a Sequoia investment on company-specific terms plus the Arc Intensive. The official page now describes the Intensive as four days ('Four days. Five decades of insights.') — not the earlier 7-week immersion — covering customers, product, go-to-market, and team, with dedicated 1:1 partner time. Founders also get 200+ partner benefits, including up to $500K in NVIDIA savings, $350K in Azure credits, and $250K from Cloudflare, plus Sequoia's Ampersand founder hub.",
+   "tier": 1,
+   "funding": "No standard terms — each pre-seed/seed investment is company-specific (per official FAQ)",
+   "duration": "4 days (Arc Intensive; formerly a 7-week immersion)",
+   "location": "Cohorts for founders in the Americas and Europe — in-person intensive",
+   "cadence": "Bi-annual open call (spring closes late February, fall closes mid-August)"
+  }
+ },
+ {
   "name": "Sequoia Capital",
   "website": "https://www.sequoiacap.com/",
   "status": "verified",
@@ -3083,6 +4875,55 @@
   ],
   "region": "US",
   "hq": "Menlo Park, USA"
+ },
+ {
+  "name": "Seraphim Space Accelerator (Space Camp)",
+  "website": "https://accelerator.seraphim.vc/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Deep Tech",
+   "Hardware"
+  ],
+  "region": "Europe",
+  "hq": "London, UK",
+  "program": {
+   "description": "A dedicated spacetech accelerator run by VC firm Seraphim Space (operating as Generation Space in the US) for pre-seed to Series A startups building space and adjacent deep-tech and hardware. Over roughly 13 weeks, founders get expert-led workshops, one-on-one mentoring, investor introductions, and exposure across both the UK and US. Its Mission 15 cohort (10 companies from 6 countries) is the current 2026 intake.",
+   "tier": 1,
+   "equity": "Small equity stake per company (percentage not publicly disclosed)",
+   "duration": "12-13 weeks",
+   "location": "London, UK and US (Generation Space); activities run across both UK and US",
+   "cadence": "2 cohorts per year (Mission series)"
+  }
+ },
+ {
+  "name": "Sheraa (Sharjah Entrepreneurship Center)",
+  "website": "https://sheraa.ae/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "MENA",
+  "hq": "Sharjah, UAE",
+  "program": {
+   "description": "Sharjah's government-backed startup hub running a ladder of equity-free, no-fee programs, with the 4-month Sharjah Startup Studio (S3) as the flagship for tech-enabled startups that already have early traction and revenue and will operate in Sharjah/UAE. S3 gives no cash but covers the first-year business license at Sharjah Research Technology and Innovation Park, coworking space, AED 3M+ in software perks, and mentor/investor credits; priority sectors are edtech, sustainability, manufacturing, and creative industries. Active in 2026: the current S3 cohort ran Oct 2025–Feb 2026, and in April 2026 Sheraa launched a separate AED 5M equity-free, non-repayable Entrepreneurs Resilience Fund for established Sharjah startups and SMEs. Note: the widely cited AED 35K accelerator grant belongs to Sheraa's earlier accelerator format and could not be verified as a current offer.",
+   "tier": 2,
+   "funding": "No standard cash investment in S3 (in-kind: first-year SRTIP business license, coworking, AED 3M+ software perks); separate AED 5M equity-free non-repayable Entrepreneurs Resilience Fund launched Apr 2026 for established Sharjah startups/SMEs",
+   "equity": "0%",
+   "duration": "4 months (S3); 8 weeks (Startup Dojo)",
+   "location": "Sharjah, UAE — hybrid, part-time",
+   "cadence": "1 S3 cohort/year (apps ~Jul–Sep, cohort of 20 runs Oct–Feb)"
+  }
  },
  {
   "name": "Silkroad Innovation Hub",
@@ -3160,6 +5001,29 @@
   "hq": "San Francisco, USA"
  },
  {
+  "name": "South Park Commons Founder Fellowship",
+  "website": "https://www.southparkcommons.com/founder-fellowship/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "A '-1 to 0' fellowship for technical founders who haven't committed to an idea yet, run inside the South Park Commons community. Fellows get $400K upfront for 7%, a guaranteed $600K in their next external round, and up to $1M in partner credits (Anthropic, OpenAI, AWS, GCP, Azure). Starts with an in-person bootcamp, then an open-ended residency until you're ready to raise.",
+   "tier": 1,
+   "funding": "$400,000 upfront + $600,000 guaranteed in the next external funding round; up to $1M in partner credits",
+   "equity": "7% (on the $400k upfront)",
+   "duration": "In-person bootcamp followed by an open-ended residency (Fall 2026 kicks off late September)",
+   "location": "San Francisco and New York City — in person",
+   "cadence": "2 cohorts/year (Spring and Fall); Fall 2026 applications open summer 2026"
+  }
+ },
+ {
   "name": "SparkLabs Group",
   "website": "https://www.sparklabsgroup.com/",
   "status": "verified",
@@ -3172,7 +5036,16 @@
    "Generalist"
   ],
   "region": "Asia",
-  "hq": "Seoul, South Korea"
+  "hq": "Seoul, South Korea",
+  "program": {
+   "description": "Seoul's leading private accelerator, running since 2013 as part of SparkLabs Group (which also operates programs in Taipei, Saudi Arabia, and vertical funds). It takes 8-12 seed to early-stage Korean and Korea-focused startups per batch through a 22-week mentorship program ending at one of the world's largest Demo Days (3,000+ attendees). Startups get up to $100K investment, 4-6 dedicated mentors, free office space at MARU180, and over $900K in perks.",
+   "tier": 2,
+   "funding": "Up to $100,000 (recent batches invested ~₩100M/~$75K initial) plus $900K+ in perks",
+   "equity": "Up to 6% (negotiable depending on startup size and investment status)",
+   "duration": "22 weeks (official; recent batches reported at 15-18 weeks)",
+   "location": "Seoul — in person (free office at MARU180)",
+   "cadence": "2 batches/year (applications open mid-March and mid-September)"
+  }
  },
  {
   "name": "Speedinvest",
@@ -3191,6 +5064,32 @@
   "hq": "Vienna, Austria"
  },
  {
+  "name": "Starburst Aerospace",
+  "website": "https://starburst.aero/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Deep Tech",
+   "Hardware"
+  ],
+  "region": "Global",
+  "hq": "Los Angeles, USA",
+  "program": {
+   "description": "A global accelerator and investor for aviation, space, and defense/dual-use startups, connected to 60+ corporate and government partners across hubs in the US, Europe, the Middle East, and Asia. Programs pair founders with industry mentors and OEM partners to refine strategy, pilot technology, and raise capital, with a separate Starburst venture arm investing alongside. Its ASTRA accelerator (Cohort 8, run with Israel Aerospace Industries) is open for 2026, a seven-month program running March to July 2026.",
+   "tier": 1,
+   "funding": "Varies by program; ASTRA Cohort 8 offers up to $100K in cash funding plus $100K in strategic in-kind support",
+   "equity": "No equity taken in the ASTRA accelerator (corporate-partner driven); venture investment handled by a separate Starburst fund",
+   "duration": "Varies by program; ASTRA Cohort 8 is a 7-month program",
+   "location": "Global — hubs include Los Angeles, Paris, Tel Aviv, Munich, Madrid, Singapore, Seoul, Washington DC, and San Marcos, Texas",
+   "cadence": "Multiple cohorts across hubs; ASTRA Cohort 8 applications close 1 Feb 2026"
+  }
+ },
+ {
   "name": "Starship Ventures",
   "website": "https://www.starship.vc/",
   "status": "verified",
@@ -3207,6 +5106,55 @@
   "hq": "Tallinn, Estonia"
  },
  {
+  "name": "Start-Up Chile",
+  "website": "https://startupchile.org/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "LatAm",
+  "hq": "Santiago, Chile",
+  "program": {
+   "description": "CORFO's public accelerator, running since 2010 with 2,000+ startups accelerated, and the model most government accelerators copied. It gives equity-free grants across three tracks: Build (CLP 15M, 4-month pre-acceleration for MVP-stage teams), Ignite (CLP 25M plus a CLP 20M extension, 4 months, for startups with early validation) and Growth (up to CLP 75M, ~US$100k, 8 months, for expansion-stage companies), plus a 2-year visa for foreign founders. Two BIG generations per year; BIG 12 applications closed in April 2026 and BIG 13 opens November 4-30, 2026.",
+   "tier": 1,
+   "funding": "Equity-free grants: Build CLP 15M (~US$15k); Ignite CLP 25M + CLP 20M extension; Growth up to CLP 75M (~US$100k)",
+   "equity": "0% (equity-free)",
+   "duration": "Build/Ignite: 4 months; Growth: 8 months",
+   "location": "Santiago, Chile — in person, with 2-year temporary visa for foreign founders",
+   "cadence": "2 generations/year; BIG 13 applications Nov 4-30, 2026"
+  }
+ },
+ {
+  "name": "Startmate",
+  "website": "https://www.startmate.com/accelerator/program",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Asia",
+  "hq": "Sydney, Australia",
+  "program": {
+   "description": "Startmate is a top Australia/New Zealand accelerator (backed by Blackbird) for industry-agnostic, mostly pre-revenue founders, at least one of whom must be based in ANZ. The 12-week hybrid program invests AUD $120,000 per startup - for first-time raisers at an AUD $1.5M post-money valuation (~8%), or matched to your last-round valuation if you have already raised AUD $250k+ - via a SAFE or priced round. It combines in-person weeks in Melbourne with remote programming, plus a San Francisco trip and Demo Day for select founders.",
+   "tier": 2,
+   "funding": "AUD $120,000 per startup",
+   "equity": "~8% (AUD $120k at AUD $1.5M post-money for first-time raisers; or matched to your last-round valuation if you have raised AUD $250k+); founders choose SAFE or priced round",
+   "duration": "12 weeks",
+   "location": "Hybrid, accessible from Australia or New Zealand; in-person weeks in Melbourne (Week 0, mid-program, Demo Day) plus remote, with a San Francisco trip for select founders; at least one founder must be in ANZ",
+   "cadence": "2 cohorts per year (Summer and Winter)"
+  }
+ },
+ {
   "name": "Startup Wise Guys",
   "website": "https://startupwiseguys.com/",
   "status": "verified",
@@ -3219,7 +5167,90 @@
    "Generalist"
   ],
   "region": "Europe",
-  "hq": "Tallinn, Estonia"
+  "hq": "Tallinn, Estonia",
+  "program": {
+   "description": "Estonian accelerator and VC fund running since 2012, one of Europe's most active early-stage B2B investors with 460+ portfolio companies and 20+ exits. Runs stage-based accelerator programs (Building, Growing, Scaling) across verticals including SaaS, fintech, cybersecurity, defence, sustainability, proptech and Web3, with hubs across Europe and Africa. Requires a working MVP, at least 2 co-founders and initial traction; actively accepting applications in 2026.",
+   "tier": 2,
+   "funding": "Up to EUR 100,000 convertible investment (EUR 35,000 program cost invoiced after investment transfer) plus EUR 250,000 follow-on opportunity",
+   "equity": "Negotiated per startup based on stage, revenue and market; typically taken as preferred shares via equity, convertible note or SAFE",
+   "duration": "Flagship: 5 months (80% online, 20% onsite in Tallinn); core acceleration described as 14 weeks",
+   "location": "Hybrid — mostly online with onsite modules in Tallinn, Estonia; programs also run across Europe and Africa",
+   "cadence": "Multiple programs and batches per year across verticals and regions; applications reviewed first-come-first-serve"
+  }
+ },
+ {
+  "name": "Startupbootcamp",
+  "website": "https://startupbootcamp.org/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist",
+   "Climate",
+   "Health/Bio",
+   "Deep Tech"
+  ],
+  "region": "Global",
+  "hq": "Amsterdam, Netherlands",
+  "program": {
+   "description": "Global network of industry-focused accelerators running since 2010, with 1,600+ startups supported across 20+ countries. Current 2026 programs are 3-month hybrid vertical cohorts mostly run from Amsterdam (Energy & Climate III and Food & AgriTech III ran Jan 5 - Mar 26, 2026; Health & Lifescience I, DeepTech & Robotics III and Georgia I listed with open applications). Selected startups get EUR 25,000 cash, a partner deal kit valued at over EUR 100k, and mentorship from 100+ industry experts.",
+   "tier": 1,
+   "funding": "€25,000 cash + partner deal kit valued at over €100k",
+   "duration": "3 months",
+   "location": "Hybrid — Amsterdam/Netherlands for the main 2026 vertical programs; other network programs (e.g. Georgia)",
+   "cadence": "Multiple vertical cohorts per year, roughly annual per vertical"
+  }
+ },
+ {
+  "name": "StartX (Stanford)",
+  "website": "https://startx.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "Palo Alto, California, USA",
+  "program": {
+   "description": "StartX is a non-profit accelerator for founders with a qualifying Stanford affiliation (current students, alumni, faculty, postdocs, researchers), run as a roughly 3-month program three times a year. It takes no equity and charges no fees, giving admitted teams mentorship, about $1M+ in vendor credits and resources, and access to a community of ~3,000 Stanford founders. The affiliated Stanford-StartX Fund historically co-invested in members' qualifying VC rounds but is now fully invested, so the program itself provides no direct cash.",
+   "tier": 1,
+   "funding": "No direct cash investment (non-profit, zero-equity); ~$1M+ in resources/perks. The Stanford-StartX Fund (co-invested in qualifying VC rounds) is fully invested — 124 investments, last new one in 2024.",
+   "equity": "0% (takes no equity, charges no fees)",
+   "duration": "~3 months (one quarter)",
+   "location": "Palo Alto / Stanford Research Park, California — in person plus lifelong community",
+   "cadence": "3 cohorts/year (Fall, Spring, Summer); Spring 2026 deadline was Feb 15, 2026"
+  }
+ },
+ {
+  "name": "Station F — Founders Program",
+  "website": "https://stationf.co/programs",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Paris, France",
+  "program": {
+   "description": "The selective flagship in-house program of Station F, the Paris startup campus, aimed at early-stage tech startups working on team, product-market fit and first funding. It is a fee-based desk model (from €259/desk/month) rather than an investment deal, with 3 to 18 months on campus, advisor and VC access, and select companies able to qualify for separate Station F investment. Station F also runs the free Fighters Program for founders from underprivileged backgrounds and the F/ai hub for AI startups.",
+   "tier": 1,
+   "funding": "No standard investment — fee-based (from €259/desk/month); select companies may qualify for separate Station F funding",
+   "equity": "0% for program participation (equity-free desk model)",
+   "duration": "3 to 18 months on campus",
+   "location": "Paris — on campus (hybrid, minimum on-site presence required)",
+   "cadence": "Rolling application review; recent batches (max ~25 companies) onboarded roughly twice a year"
+  }
  },
  {
   "name": "Sterling Road",
@@ -3284,6 +5315,29 @@
   "hq": "Dublin, Ireland"
  },
  {
+  "name": "Surge by Peak XV",
+  "website": "https://surge.peakxv.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Asia",
+  "hq": "Bengaluru, India",
+  "program": {
+   "description": "Peak XV's (formerly Sequoia Capital India & SEA) flagship seed program for early-stage founders, historically centered on India and Southeast Asia with a global founder community. Invests $500K–$5M in equity and runs an 8-week core immersion mixing in-person sessions (culminating in San Francisco) with weekly online sessions, plus a dedicated investment advisor and platform access with no end date. Peak XV's sister Spark fellowship separately gives women founders a $100K equity-free grant.",
+   "tier": 1,
+   "funding": "$500K–$5M seed capital as an equity investment (per company)",
+   "duration": "8-week core immersion; ongoing platform support after",
+   "location": "Hybrid — in-person immersions (ending in San Francisco) plus weekly online sessions; Peak XV offices in India, Singapore, UAE, US",
+   "cadence": "Rolling applications; next cohort kicks off September 2026"
+  }
+ },
+ {
   "name": "Susa Ventures",
   "website": "https://susaventures.com/",
   "status": "verified",
@@ -3310,7 +5364,65 @@
    "Generalist"
   ],
   "region": "India",
-  "hq": "Hyderabad, India"
+  "hq": "Hyderabad, India",
+  "program": {
+   "description": "India's largest startup incubator, backed by the Telangana government, hosting 10,000+ startups on a 572K sq ft Hyderabad campus. Its flagship Lab32 is a 100-day, equity-free market-readiness cohort for MVP-ready Indian/subcontinent startups (12+ cohorts run to date), alongside a Foundation Program and vertical cohorts with Atal Innovation Mission (semiconductor, spacetech, mobility, healthcare, sustainability) and corporates like Boeing, Kotak, and Hexagon. It provides mentorship, corporate connects, and investor access rather than direct funding — Lab32 charges ₹90,000 + GST and explicitly does not focus on funding.",
+   "tier": 2,
+   "funding": "None — programs are largely equity-free with no standard direct investment (Lab32 fee: ₹90,000 + GST); funding via investor connects",
+   "equity": "0% (equity-free)",
+   "duration": "100 days (Lab32); varies by program",
+   "location": "Hyderabad — in person (T-Hub 2.0 campus, Madhapur)",
+   "cadence": "Rolling — multiple cohorts/year across Lab32 and vertical/corporate programs (Lab32 applications currently closed; express-interest open)"
+  }
+ },
+ {
+  "name": "TAQADAM Startup Accelerator (KAUST x SAB)",
+  "website": "https://taqadam.kaust.edu.sa/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist",
+   "Deep Tech"
+  ],
+  "region": "MENA",
+  "hq": "Thuwal, Saudi Arabia",
+  "program": {
+   "description": "A six-month accelerator run by KAUST and Saudi Awwal Bank since 2016, open to startups worldwide that want to build in Saudi Arabia. Every team accepted after the one-month pre-accelerator bootcamp receives a $40,000 non-dilutive grant, and up to 10 of the strongest graduates win an additional $100,000 zero-equity follow-on at the annual showcase (up to $140,000 total). Mostly virtual with mandatory in-person weeks at KAUST; international founders get visa and flight support.",
+   "tier": 2,
+   "funding": "$40,000 non-dilutive grant per startup; up to 10 top graduates receive an additional $100,000 zero-equity follow-on (max $140,000 total)",
+   "equity": "0% (non-dilutive)",
+   "duration": "6 months (1-month bootcamp, then monthly sessions plus weekly mentorship)",
+   "location": "Hybrid — mostly virtual with mandatory in-person weeks at KAUST, Thuwal, Saudi Arabia",
+   "cadence": "1 cohort/year (~60 startups into bootcamp, 20-30 into the full program); Cohort 10 applications opened in 2026"
+  }
+ },
+ {
+  "name": "Techstars",
+  "website": "https://www.techstars.com",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "New York City, USA",
+  "program": {
+   "description": "The largest mentorship-driven accelerator network, running three-month, in-person programs in 21 cities including Boston, Boulder, NYC, San Francisco, London, Amsterdam, Sydney, Tel Aviv, and Tokyo. Each cohort pairs pre-seed and seed teams with a dense local mentor network and ends with investor exposure. Standard investment is $220K with no program fee (Asia-Pacific programs invest $100K on an uncapped MFN SAFE instead).",
+   "tier": 1,
+   "funding": "$220,000 ($20k convertible equity agreement for 5% + $200k uncapped MFN SAFE); $100k MFN SAFE in Asia-Pacific programs",
+   "equity": "5% common stock (plus MFN SAFE conversion)",
+   "duration": "3 months",
+   "location": "21 cities worldwide (US, Europe, Middle East, Asia-Pacific) — in person",
+   "cadence": "2 sessions/year per city (Spring and Fall cohorts)"
+  }
  },
  {
   "name": "Techstart Ventures",
@@ -3343,6 +5455,55 @@
   "hq": "Los Angeles, USA"
  },
  {
+  "name": "The Baobab Network",
+  "website": "https://thebaobabnetwork.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "Nairobi, Kenya",
+  "program": {
+   "description": "A Nairobi-based accelerator that writes a standard, non-negotiable $100K check for 12.5% into pre-seed African startups — teams must be Africa-based and African-led, with an MVP and early traction. The program is remote: two weeks of intensive consulting followed by three months of hands-on support from venture partners, aimed at getting companies ready for their next raise. It has backed 50+ startups since 2019, with $55M+ in follow-on funding raised by the portfolio.",
+   "tier": 2,
+   "funding": "$100,000, disbursed in one lump sum at the start of the program",
+   "equity": "12.5%",
+   "duration": "~12 weeks (2 weeks intensive consulting + 3 months hands-on support), remote",
+   "location": "Remote-first, pan-African (team based in Nairobi)",
+   "cadence": "Applications accepted year-round; intake is cohort-based"
+  }
+ },
+ {
+  "name": "The Engine (Blueprint)",
+  "website": "https://engine.xyz",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Deep Tech",
+   "Hardware",
+   "Climate",
+   "Health/Bio"
+  ],
+  "region": "US",
+  "hq": "Cambridge, Massachusetts, USA",
+  "program": {
+   "description": "Blueprint is a free eight-week program from The Engine (the MIT-born tough-tech hub in Cambridge, MA) for researchers, grad students, postdocs, and early founders testing whether a breakthrough technology can become a startup. It is mostly virtual with weekly Friday sessions plus an in-person showcase, covering market discovery, IP strategy, and technology de-risking; it takes no equity and no fee, and participants keep their IP. It is a pre-company program, not an investment vehicle — the affiliated Engine Ventures fund invests separately in later-stage tough-tech startups.",
+   "tier": 1,
+   "funding": "None — no investment or stipend; free to participate, no equity (affiliated Engine Ventures fund invests separately)",
+   "equity": "None (no equity taken)",
+   "duration": "8 weeks",
+   "location": "Virtual (weekly sessions) plus in-person showcase at The Engine HQ, Cambridge, MA",
+   "cadence": "Roughly 2 cohorts/year (spring and fall); Spring 2026 ran Apr 3–May 20"
+  }
+ },
+ {
   "name": "The House Fund",
   "website": "https://thehouse.fund/",
   "status": "verified",
@@ -3356,6 +5517,29 @@
   ],
   "region": "US",
   "hq": "San Francisco, USA"
+ },
+ {
+  "name": "Thiel Fellowship",
+  "website": "https://thielfellowship.org/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Global",
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "A two-year fellowship from the Thiel Foundation for people aged 22 or younger who skip or drop out of college to build a startup, pursue scientific research, or start a movement. Fellows receive a grant (no equity taken) plus mentorship and access to a network of founders, investors, and scientists. It is a structured, application-based program rather than a VC fund.",
+   "tier": 1,
+   "funding": "$250,000 grant over two years (raised from $100,000 starting with the 2026 class)",
+   "equity": "None (grant, no equity taken)",
+   "duration": "2 years",
+   "location": "Remote / global — no campus; open to applicants worldwide",
+   "cadence": "Rolling applications, year-round"
+  }
  },
  {
   "name": "Thin Air Labs",
@@ -3372,6 +5556,33 @@
   ],
   "region": "US",
   "hq": "Calgary, Canada"
+ },
+ {
+  "name": "Third Derivative (RMI)",
+  "website": "https://www.third-derivative.org",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed",
+   "Series A"
+  ],
+  "sector": [
+   "Climate",
+   "Deep Tech",
+   "Hardware"
+  ],
+  "region": "Global",
+  "hq": "Basalt, Colorado, USA (RMI)",
+  "program": {
+   "description": "Third Derivative (D3) is RMI's global, virtual climate-tech accelerator for hard-tech startups moving from pilot to scale. The 18-month program requires at least Technology Readiness Level 4 and two full-time employees, and connects companies to RMI's 600+ experts, corporate partners, policymakers, and an investor network offering $100M+ in potential follow-on capital. Accepted startups can optionally take a $100,000 investment (via SAFE); the cohort unveiled in May 2026 selected 26 hardware-heavy startups spanning 13 countries with an average TRL around 6.3.",
+   "tier": 1,
+   "funding": "Optional $100,000 investment (via SAFE); first access to $100M+ in follow-on from the investor network; no participation fee",
+   "equity": "Optional SAFE tied to the $100k investment; no fixed equity percentage",
+   "duration": "18 months",
+   "location": "Remote / virtual (global)",
+   "cadence": "Roughly 1-2 cohorts per year (latest 26-startup cohort announced May 2026)"
+  }
  },
  {
   "name": "Titan Capital",
@@ -3634,6 +5845,32 @@
   "hq": "San Francisco, USA"
  },
  {
+  "name": "Village Capital",
+  "website": "https://vilcap.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed",
+   "Seed"
+  ],
+  "sector": [
+   "Climate",
+   "Fintech",
+   "Health/Bio"
+  ],
+  "region": "Global",
+  "hq": "Washington, D.C., USA",
+  "program": {
+   "description": "Village Capital is a global impact accelerator that has run 150+ programs since 2009 for early-stage founders working on climate, economic mobility, and access to essential services. Its programs are equity-free and use a peer-selection model in which cohort founders rank each other, with top-ranked startups receiving grant capital - for example, the 2026 US Women in Tech Accelerator with Standard Chartered Foundation (April-July 2026) awards USD $25,000 grants to two peer-selected startups. It runs multiple regional and thematic cohorts each year and provides investment-readiness training and mentorship.",
+   "tier": 2,
+   "funding": "Equity-free programming; peer-selected grants that vary by program (e.g. USD $25,000 each to two peer-selected startups in the 2026 US Women in Tech Accelerator)",
+   "equity": "0% (equity-free programming)",
+   "duration": "Varies by program (e.g. ~4 months, April-July 2026, for the US Women in Tech Accelerator)",
+   "location": "Remote/virtual programming; global cohorts (US and international)",
+   "cadence": "Multiple regional and thematic cohorts per year"
+  }
+ },
+ {
   "name": "Village Global",
   "website": "https://www.villageglobal.com/",
   "status": "verified",
@@ -3677,6 +5914,29 @@
   ],
   "region": "US",
   "hq": "Boston, USA"
+ },
+ {
+  "name": "Wayra (Telefonica)",
+  "website": "https://wayra.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Seed",
+   "Series A",
+   "Series B+"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "Europe",
+  "hq": "Madrid, Spain",
+  "program": {
+   "description": "Wayra is Telefonica's corporate venture arm, running application-based innovation and acceleration programs (such as OUTLIERS 2026, its Activation Programme, and vertical tracks like the ACCION health accelerator and TUI Futureshapers) across active hubs in Spain, Germany, the UK and Brazil. It operates a venture-client model, investing roughly EUR 150k to EUR 5M and connecting startups with Telefonica's business units for commercial pilots and revenue rather than pure equity dilution. It suits startups with a product mature enough to sell into a large telco, not idea-stage founders.",
+   "tier": 1,
+   "funding": "Investment range approx. EUR 150,000 to EUR 5 million (venture-client model; terms vary by deal)",
+   "location": "In-person programs across hubs in Madrid, Munich, London and Sao Paulo",
+   "cadence": "Multiple programs and vertical tracks per year (e.g. OUTLIERS 2026, Activation Programme)"
+  }
  },
  {
   "name": "Whiteboard Capital",
@@ -3739,12 +5999,13 @@
   "region": "US",
   "hq": "San Francisco, USA",
   "program": {
-   "description": "TEMP smoke-test data. The original startup accelerator, running batches in San Francisco since 2005.",
-   "funding": "$500,000",
-   "equity": "7% + MFN SAFE",
+   "description": "The original and most influential startup accelerator, running three-month batches four times a year for early-stage companies in any sector. Founders get $500K, weekly group office hours with YC partners, in-person meetups in San Francisco, and a Demo Day in front of investors. Alumni include Airbnb, Stripe, and Dropbox, and the network is widely considered its biggest asset.",
+   "tier": 1,
+   "funding": "$500,000 ($125k post-money SAFE for 7% + $375k uncapped SAFE with MFN)",
+   "equity": "7% (plus MFN SAFE conversion)",
    "duration": "3 months",
-   "location": "San Francisco — in person",
-   "cadence": "2 batches/year"
+   "location": "San Francisco — in person (3-day kickoff plus weekly SF meetups)",
+   "cadence": "4 batches/year (Winter, Spring, Summer, Fall)"
   }
  },
  {
@@ -3764,6 +6025,29 @@
   "hq": "San Francisco, USA"
  },
  {
+  "name": "Z Fellows",
+  "website": "https://www.zfellows.com/",
+  "status": "verified",
+  "type": "Accelerator",
+  "stage": [
+   "Pre-seed"
+  ],
+  "sector": [
+   "Generalist"
+  ],
+  "region": "US",
+  "hq": "San Francisco, USA",
+  "program": {
+   "description": "One-week intensive fellowship founded by Cory Levy that fast-tracks technical builders of any age — students, dropouts, or people with day jobs — into Silicon Valley, connecting each cohort of about ten builders with founders of billion-dollar companies. Offers an optional $10,000 investment at a $1B valuation cap; participants can also join without taking the money. Cohorts are mostly virtual with the final day in person in SF or NYC, and applications are reviewed on a rolling basis.",
+   "tier": 2,
+   "funding": "$10,000 (optional)",
+   "equity": "$1B valuation cap (converts at next priced round)",
+   "duration": "1 week",
+   "location": "Mostly virtual; final day in person in SF or NYC",
+   "cadence": "Multiple cohorts per year; rolling applications, no deadline"
+  }
+ },
+ {
   "name": "Zinc",
   "website": "https://www.zinc.vc/",
   "status": "verified",
@@ -3776,6 +6060,14 @@
    "Generalist"
   ],
   "region": "Europe",
-  "hq": "London, UK"
+  "hq": "London, UK",
+  "program": {
+   "description": "London venture builder that recruits cohorts of around 70 scientists and operators to start companies from scratch around societal missions in health and the environment, plus a Startup Route for entrepreneurial scientists who already have deep tech to commercialise. Founders get a stipend, co-founder matching, and staged pre-seed investment from Zinc's fund. Active in 2026 with a children and young people's mental health cohort and Ageing Well placements (application deadline 2 April 2026).",
+   "tier": 2,
+   "funding": "Venture Builder: up to £250k (£13,200 stipend per founder over 6 months + £80,000 initial investment + up to £150,000 seed follow-on). Startup Route: up to £300k (£150,000 initial + £150,000 follow-on in next round).",
+   "duration": "12 months (two 6-month phases on Startup Route); Venture Builder Phase 1 is 6 months",
+   "location": "London, UK; companies must be UK-incorporated (visa sponsorship available)",
+   "cadence": "Mission-based cohorts; applications open for 2026, pre-seed pitch decks assessed on a rolling basis"
+  }
  }
 ]

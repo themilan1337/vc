@@ -10,11 +10,6 @@ function open() {
 }
 const copied = ref(false)
 const { trigger } = useHaptics() // auto-imported (Task B6)
-const dot: Record<Vc['status'], string> = {
-  verified: 'bg-emerald-500',
-  ambiguous: 'bg-amber-500',
-  none: 'bg-foreground/20',
-}
 async function copy() {
   if (!props.vc.website || !navigator.clipboard) return
   try {
@@ -37,7 +32,6 @@ async function copy() {
     @keydown.enter.self.prevent="open"
     @keydown.space.self.prevent="open"
   >
-    <span :class="['h-1.5 w-1.5 shrink-0 rounded-full', dot[vc.status]]" />
     <VcLogo :vc="vc" />
     <div class="min-w-0 flex-1">
       <div class="flex items-center gap-2">

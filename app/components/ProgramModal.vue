@@ -61,9 +61,12 @@ const details = computed(() => {
     <template v-if="vc">
       <!-- fixed header -->
       <div class="flex items-start justify-between gap-4 px-6 pb-4 pt-6">
-        <div class="min-w-0">
+        <div class="flex min-w-0 items-center gap-3">
+          <VcLogo :vc="vc" class="!h-10 !w-10 rounded-lg text-base" />
+          <div class="min-w-0">
           <h2 class="truncate text-lg font-semibold tracking-tight">{{ vc.name }}</h2>
           <p class="mt-0.5 text-xs text-foreground/40">{{ vc.type }} · {{ vc.hq || vc.region }}</p>
+          </div>
         </div>
         <button
           type="button"

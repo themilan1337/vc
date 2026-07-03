@@ -38,6 +38,7 @@ async function copy() {
     @keydown.space.self.prevent="open"
   >
     <span :class="['h-1.5 w-1.5 shrink-0 rounded-full', dot[vc.status]]" />
+    <VcLogo :vc="vc" />
     <div class="min-w-0 flex-1">
       <div class="flex items-center gap-2">
         <span class="truncate text-sm text-foreground/80">{{ vc.name }}</span>

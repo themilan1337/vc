@@ -4,7 +4,10 @@ import { ref } from 'vue'
 import type { Vc } from '~/lib/vcTypes'
 
 const props = defineProps<{ vc: Vc }>()
-const emit = defineEmits<{ open: [] }>()
+const emit = defineEmits<{ open: [rect: DOMRect] }>()
+function open(e: Event) {
+  if (props.vc.program) emit('open', (e.currentTarget as HTMLElement).getBoundingClientRect())
+}
 const copied = ref(false)
 const { trigger } = useHaptics() // auto-imported (Task B6)
 const dot: Record<Vc['status'], string> = {
@@ -30,9 +33,9 @@ async function copy() {
     class="group flex h-12 w-full items-center gap-3 rounded-lg bg-foreground/5 px-4 hover:bg-foreground/10"
     :role="vc.program ? 'button' : undefined"
     :tabindex="vc.program ? 0 : undefined"
-    @click="vc.program && emit('open')"
-    @keydown.enter.self.prevent="vc.program && emit('open')"
-    @keydown.space.self.prevent="vc.program && emit('open')"
+    @click="open"
+    @keydown.enter.self.prevent="open"
+    @keydown.space.self.prevent="open"
   >
     <span :class="['h-1.5 w-1.5 shrink-0 rounded-full', dot[vc.status]]" />
     <div class="min-w-0 flex-1">

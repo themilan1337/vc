@@ -8,12 +8,53 @@ const dialog = ref<HTMLDialogElement>()
 const { trigger } = useHaptics() // auto-imported (Task B6)
 
 // ponytail: imperative show() instead of watching prop transitions — no dependency on the dialog 'close' event to resync state
-function show() {
-  if (!dialog.value?.open) dialog.value?.showModal()
+const reduceMotion = () => window.matchMedia('(prefers-reduced-motion: reduce)').matches
+let fromRect: DOMRect | null = null
+let closing = false
+
+// FLIP morph: dialog is laid out at its final spot, then transformed back to the
+// clicked row's rect and released.
+function morphKeyframes(el: HTMLElement) {
+  const to = el.getBoundingClientRect()
+  const from = fromRect!
+  return [
+    {
+      transform: `translate(${from.left - to.left}px, ${from.top - to.top}px) scale(${from.width / to.width}, ${from.height / to.height})`,
+      opacity: 0.4,
+      borderRadius: '8px',
+    },
+    { transform: 'none', opacity: 1, borderRadius: '16px' },
+  ]
 }
-function close() {
+const EASE = 'cubic-bezier(0.32, 0.72, 0, 1)'
+
+function show(from?: DOMRect) {
+  const el = dialog.value
+  if (!el || el.open) return
+  el.showModal()
+  fromRect = from ?? null
+  if (!from || reduceMotion()) return
+  el.style.transformOrigin = 'top left'
+  el.animate(morphKeyframes(el), { duration: 350, easing: EASE })
+  el.animate([{ opacity: 0 }, { opacity: 1 }], { duration: 250, pseudoElement: '::backdrop' })
+}
+
+async function close() {
+  const el = dialog.value
+  if (!el?.open || closing) return
   trigger('light')
-  dialog.value?.close()
+  if (reduceMotion()) return el.close()
+  closing = true
+  const anims = [
+    el.animate([{ opacity: 1 }, { opacity: 0 }], { duration: 200, pseudoElement: '::backdrop', fill: 'forwards' }),
+    fromRect
+      ? el.animate(morphKeyframes(el).reverse(), { duration: 250, easing: EASE, fill: 'forwards' })
+      : el.animate([{ opacity: 1, transform: 'none' }, { opacity: 0, transform: 'scale(0.96)' }], { duration: 200, easing: EASE, fill: 'forwards' }),
+  ]
+  await Promise.allSettled(anims.map(a => a.finished))
+  anims.forEach(a => a.cancel()) // release fill: forwards so the next open starts clean
+  closing = false
+  el.close()
 }
 defineExpose({ show })
 
@@ -37,9 +78,10 @@ const details = computed(() => {
   <!-- ponytail: native <dialog> — focus trap, Escape, and top layer for free -->
   <dialog
     ref="dialog"
-    class="m-auto flex max-h-[85dvh] w-full max-w-md flex-col rounded-2xl bg-background p-0 shadow-xl shadow-foreground/10
-           backdrop:bg-foreground/25 backdrop:backdrop-blur-sm"
-    @click="$event.target === dialog && dialog?.close()"
+    class="m-auto max-h-[85dvh] w-full max-w-md flex-col rounded-2xl bg-background p-0 shadow-xl shadow-foreground/10
+           backdrop:bg-foreground/25 backdrop:backdrop-blur-sm open:flex"
+    @click="$event.target === dialog && close()"
+    @cancel.prevent="close()"
   >
     <template v-if="vc">
       <!-- fixed header -->
